@@ -3246,3 +3246,4 @@ Commit 3244: fix(charity): resolve bug
 Commit 3245: feat(charity): add validation
 Commit 3246: feat(charity): add validation
 Commit 3247: fix(charity): resolve bug
+Commit 3248: style(charity): format code

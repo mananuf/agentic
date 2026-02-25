@@ -9715,3 +9715,4 @@ Commit 9713: refactor(privacy): improve code structure
 Commit 9714: test(privacy): add tests
 Commit 9715: docs(privacy): update documentation
 Commit 9716: test(privacy): add tests
+Commit 9717: style(privacy): format code

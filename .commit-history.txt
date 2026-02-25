@@ -5487,3 +5487,4 @@ Commit 5485: test(loyalty): add tests
 Commit 5486: docs(loyalty): update documentation
 Commit 5487: fix(loyalty): handle edge case
 Commit 5488: feat(loyalty): implement new feature
+Commit 5489: perf(loyalty): optimize performance

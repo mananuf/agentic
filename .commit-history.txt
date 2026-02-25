@@ -3349,3 +3349,4 @@ Commit 3347: fix(charity): resolve bug
 Commit 3348: style(charity): format code
 Commit 3349: style(charity): format code
 Commit 3350: feat(charity): add validation
+Commit 3351: fix(charity): resolve bug

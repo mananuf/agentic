@@ -5333,3 +5333,4 @@ Commit 5331: docs(loyalty): update documentation
 Commit 5332: docs(loyalty): update documentation
 Commit 5333: chore(loyalty): update dependencies
 Commit 5334: chore(loyalty): update dependencies
+Commit 5335: feat(loyalty): implement new feature

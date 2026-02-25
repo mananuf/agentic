@@ -6647,3 +6647,4 @@ Commit 6645: docs(streaming): update documentation
 Commit 6646: fix(streaming): resolve bug
 Commit 6647: fix(streaming): handle edge case
 Commit 6648: refactor(streaming): improve code structure
+Commit 6649: fix(streaming): handle edge case

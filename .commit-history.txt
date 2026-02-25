@@ -5880,3 +5880,4 @@ Commit 5878: style(loyalty): format code
 Commit 5879: perf(loyalty): optimize performance
 Commit 5880: test(loyalty): add tests
 Commit 5881: feat(loyalty): add validation
+Commit 5882: fix(loyalty): resolve bug

@@ -5763,3 +5763,4 @@ Commit 5761: feat(loyalty): add validation
 Commit 5762: refactor(loyalty): improve code structure
 Commit 5763: perf(loyalty): optimize performance
 Commit 5764: perf(loyalty): optimize performance
+Commit 5765: feat(loyalty): implement new feature

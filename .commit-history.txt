@@ -3183,3 +3183,4 @@ Commit 3181: style(charity): format code
 Commit 3182: perf(charity): optimize performance
 Commit 3183: fix(charity): resolve bug
 Commit 3184: perf(charity): optimize performance
+Commit 3185: test(charity): add tests

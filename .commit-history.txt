@@ -3144,3 +3144,4 @@ Commit 3142: feat(charity): add validation
 Commit 3143: style(charity): format code
 Commit 3144: fix(charity): resolve bug
 Commit 3145: style(charity): format code
+Commit 3146: test(charity): add tests

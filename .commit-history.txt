@@ -5293,3 +5293,4 @@ Commit 5291: docs(loyalty): update documentation
 Commit 5292: test(loyalty): add tests
 Commit 5293: style(loyalty): format code
 Commit 5294: chore(loyalty): update dependencies
+Commit 5295: perf(loyalty): optimize performance

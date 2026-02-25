@@ -5515,3 +5515,4 @@ Commit 5513: fix(loyalty): resolve bug
 Commit 5514: fix(loyalty): handle edge case
 Commit 5515: fix(loyalty): resolve bug
 Commit 5516: fix(loyalty): handle edge case
+Commit 5517: style(loyalty): format code

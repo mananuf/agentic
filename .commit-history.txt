@@ -4206,3 +4206,4 @@ Commit 4204: fix(voting): handle edge case
 Commit 4205: style(voting): format code
 Commit 4206: feat(voting): add validation
 Commit 4207: perf(voting): optimize performance
+Commit 4208: refactor(voting): improve code structure

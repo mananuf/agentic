@@ -5798,3 +5798,4 @@ Commit 5796: fix(loyalty): handle edge case
 Commit 5797: fix(loyalty): handle edge case
 Commit 5798: docs(loyalty): update documentation
 Commit 5799: style(loyalty): format code
+Commit 5800: test(loyalty): add tests

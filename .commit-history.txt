@@ -6442,3 +6442,4 @@ Commit 6440: perf(streaming): optimize performance
 Commit 6441: chore(streaming): update dependencies
 Commit 6442: refactor(streaming): improve code structure
 Commit 6443: fix(streaming): resolve bug
+Commit 6444: docs(streaming): update documentation

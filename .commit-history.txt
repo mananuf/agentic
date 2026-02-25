@@ -6874,3 +6874,4 @@ Commit 6872: test(streaming): add tests
 Commit 6873: docs(streaming): update documentation
 Commit 6874: chore(streaming): update dependencies
 Commit 6875: feat(streaming): implement new feature
+Commit 6876: test(streaming): add tests

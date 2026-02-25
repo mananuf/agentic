@@ -6224,3 +6224,4 @@ Commit 6222: fix(streaming): handle edge case
 Commit 6223: test(streaming): add tests
 Commit 6224: chore(streaming): update dependencies
 Commit 6225: refactor(streaming): improve code structure
+Commit 6226: docs(streaming): update documentation

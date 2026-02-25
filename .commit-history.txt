@@ -3602,3 +3602,4 @@ Commit 3600: fix(charity): handle edge case
 Commit 3601: style(charity): format code
 Commit 3602: feat(charity): add validation
 Commit 3603: feat(charity): add validation
+Commit 3604: chore(charity): update dependencies

@@ -9442,3 +9442,4 @@ Commit 9440: test(privacy): add tests
 Commit 9441: chore(privacy): update dependencies
 Commit 9442: feat(privacy): add validation
 Commit 9443: feat(privacy): add validation
+Commit 9444: docs(privacy): update documentation

@@ -2691,3 +2691,4 @@ Commit 2689: feat(legal): add validation
 Commit 2690: refactor(legal): improve code structure
 Commit 2691: fix(legal): resolve bug
 Commit 2692: chore(legal): update dependencies
+Commit 2693: test(legal): add tests

@@ -5042,3 +5042,4 @@ Commit 5040: feat(loyalty): implement new feature
 Commit 5041: feat(loyalty): implement new feature
 Commit 5042: refactor(loyalty): improve code structure
 Commit 5043: feat(loyalty): implement new feature
+Commit 5044: style(loyalty): format code

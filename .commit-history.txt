@@ -2513,3 +2513,4 @@ Commit 2511: fix(legal): resolve bug
 Commit 2512: test(legal): add tests
 Commit 2513: test(legal): add tests
 Commit 2514: feat(legal): add validation
+Commit 2515: style(legal): format code

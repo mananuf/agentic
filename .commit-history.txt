@@ -2271,3 +2271,4 @@ Commit 2269: feat(legal): add validation
 Commit 2270: test(legal): add tests
 Commit 2271: refactor(legal): improve code structure
 Commit 2272: test(legal): add tests
+Commit 2273: perf(legal): optimize performance

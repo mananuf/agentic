@@ -5239,3 +5239,4 @@ Commit 5237: test(loyalty): add tests
 Commit 5238: docs(loyalty): update documentation
 Commit 5239: test(loyalty): add tests
 Commit 5240: feat(loyalty): add validation
+Commit 5241: feat(loyalty): add validation

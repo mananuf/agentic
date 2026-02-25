@@ -6716,3 +6716,4 @@ Commit 6714: perf(streaming): optimize performance
 Commit 6715: fix(streaming): resolve bug
 Commit 6716: feat(streaming): add validation
 Commit 6717: feat(streaming): add validation
+Commit 6718: style(streaming): format code

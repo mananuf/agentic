@@ -2929,3 +2929,4 @@ Commit 2927: fix(legal): resolve bug
 Commit 2928: chore(legal): update dependencies
 Commit 2929: test(legal): add tests
 Commit 2930: docs(legal): update documentation
+Commit 2931: style(legal): format code

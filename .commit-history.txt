@@ -1194,3 +1194,4 @@ Commit 1192: perf(healthcare): optimize performance
 Commit 1193: style(healthcare): format code
 Commit 1194: fix(healthcare): resolve bug
 Commit 1195: feat(healthcare): add validation
+Commit 1196: docs(healthcare): update documentation

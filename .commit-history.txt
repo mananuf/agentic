@@ -3898,3 +3898,4 @@ Commit 3896: chore(charity): update dependencies
 Commit 3897: perf(charity): optimize performance
 Commit 3898: perf(charity): optimize performance
 Commit 3899: fix(charity): resolve bug
+Commit 3900: style(charity): format code

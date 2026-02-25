@@ -5361,3 +5361,4 @@ Commit 5359: feat(loyalty): implement new feature
 Commit 5360: refactor(loyalty): improve code structure
 Commit 5361: docs(loyalty): update documentation
 Commit 5362: feat(loyalty): add validation
+Commit 5363: docs(loyalty): update documentation

@@ -3527,3 +3527,4 @@ Commit 3525: test(charity): add tests
 Commit 3526: chore(charity): update dependencies
 Commit 3527: perf(charity): optimize performance
 Commit 3528: chore(charity): update dependencies
+Commit 3529: fix(charity): handle edge case

@@ -4734,3 +4734,4 @@ Commit 4732: feat(voting): add validation
 Commit 4733: fix(voting): handle edge case
 Commit 4734: fix(voting): handle edge case
 Commit 4735: fix(voting): resolve bug
+Commit 4736: style(voting): format code

@@ -6518,3 +6518,4 @@ Commit 6516: feat(streaming): add validation
 Commit 6517: refactor(streaming): improve code structure
 Commit 6518: perf(streaming): optimize performance
 Commit 6519: docs(streaming): update documentation
+Commit 6520: refactor(streaming): improve code structure

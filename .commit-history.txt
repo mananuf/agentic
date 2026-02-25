@@ -2629,3 +2629,4 @@ Commit 2627: style(legal): format code
 Commit 2628: fix(legal): handle edge case
 Commit 2629: fix(legal): handle edge case
 Commit 2630: feat(legal): add validation
+Commit 2631: test(legal): add tests

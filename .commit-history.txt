@@ -4442,3 +4442,4 @@ Commit 4440: fix(voting): handle edge case
 Commit 4441: style(voting): format code
 Commit 4442: feat(voting): implement new feature
 Commit 4443: perf(voting): optimize performance
+Commit 4444: refactor(voting): improve code structure

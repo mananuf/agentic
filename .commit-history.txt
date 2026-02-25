@@ -8283,3 +8283,4 @@ Commit 8281: fix(carbon): handle edge case
 Commit 8282: perf(carbon): optimize performance
 Commit 8283: fix(carbon): resolve bug
 Commit 8284: test(carbon): add tests
+Commit 8285: docs(carbon): update documentation

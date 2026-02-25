@@ -2135,3 +2135,4 @@ Commit 2133: fix(legal): resolve bug
 Commit 2134: feat(legal): add validation
 Commit 2135: feat(legal): implement new feature
 Commit 2136: feat(legal): implement new feature
+Commit 2137: chore(legal): update dependencies

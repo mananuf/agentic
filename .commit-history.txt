@@ -1402,3 +1402,4 @@ Commit 1400: docs(healthcare): update documentation
 Commit 1401: docs(healthcare): update documentation
 Commit 1402: docs(healthcare): update documentation
 Commit 1403: test(healthcare): add tests
+Commit 1404: fix(healthcare): handle edge case

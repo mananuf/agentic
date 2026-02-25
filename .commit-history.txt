@@ -9479,3 +9479,4 @@ Commit 9477: docs(privacy): update documentation
 Commit 9478: docs(privacy): update documentation
 Commit 9479: fix(privacy): resolve bug
 Commit 9480: docs(privacy): update documentation
+Commit 9481: style(privacy): format code

@@ -3038,3 +3038,4 @@ Commit 3036: feat(charity): add validation
 Commit 3037: style(charity): format code
 Commit 3038: docs(charity): update documentation
 Commit 3039: chore(charity): update dependencies
+Commit 3040: test(charity): add tests

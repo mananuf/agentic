@@ -4435,3 +4435,4 @@ Commit 4433: docs(voting): update documentation
 Commit 4434: feat(voting): add validation
 Commit 4435: perf(voting): optimize performance
 Commit 4436: style(voting): format code
+Commit 4437: chore(voting): update dependencies

@@ -1716,3 +1716,4 @@ Commit 1714: perf(healthcare): optimize performance
 Commit 1715: chore(healthcare): update dependencies
 Commit 1716: fix(healthcare): handle edge case
 Commit 1717: docs(healthcare): update documentation
+Commit 1718: fix(healthcare): resolve bug

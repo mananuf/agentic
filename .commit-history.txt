@@ -9283,3 +9283,4 @@ Commit 9281: test(privacy): add tests
 Commit 9282: fix(privacy): resolve bug
 Commit 9283: perf(privacy): optimize performance
 Commit 9284: perf(privacy): optimize performance
+Commit 9285: style(privacy): format code

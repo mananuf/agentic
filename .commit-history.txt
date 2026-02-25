@@ -4689,3 +4689,4 @@ Commit 4687: docs(voting): update documentation
 Commit 4688: test(voting): add tests
 Commit 4689: chore(voting): update dependencies
 Commit 4690: fix(voting): resolve bug
+Commit 4691: test(voting): add tests

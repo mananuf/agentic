@@ -8765,3 +8765,4 @@ Commit 8763: perf(carbon): optimize performance
 Commit 8764: test(carbon): add tests
 Commit 8765: refactor(carbon): improve code structure
 Commit 8766: chore(carbon): update dependencies
+Commit 8767: fix(carbon): handle edge case

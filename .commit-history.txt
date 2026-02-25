@@ -4313,3 +4313,4 @@ Commit 4311: feat(voting): add validation
 Commit 4312: feat(voting): implement new feature
 Commit 4313: test(voting): add tests
 Commit 4314: feat(voting): implement new feature
+Commit 4315: chore(voting): update dependencies

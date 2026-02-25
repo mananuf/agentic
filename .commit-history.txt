@@ -4048,3 +4048,4 @@ Commit 4046: fix(voting): resolve bug
 Commit 4047: refactor(voting): improve code structure
 Commit 4048: fix(voting): handle edge case
 Commit 4049: refactor(voting): improve code structure
+Commit 4050: feat(voting): add validation

@@ -5369,3 +5369,4 @@ Commit 5367: feat(loyalty): implement new feature
 Commit 5368: feat(loyalty): add validation
 Commit 5369: fix(loyalty): handle edge case
 Commit 5370: fix(loyalty): resolve bug
+Commit 5371: fix(loyalty): handle edge case

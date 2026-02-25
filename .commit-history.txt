@@ -6175,3 +6175,4 @@ Commit 6173: style(streaming): format code
 Commit 6174: perf(streaming): optimize performance
 Commit 6175: feat(streaming): add validation
 Commit 6176: perf(streaming): optimize performance
+Commit 6177: docs(streaming): update documentation

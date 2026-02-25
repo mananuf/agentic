@@ -4407,3 +4407,4 @@ Commit 4405: chore(voting): update dependencies
 Commit 4406: perf(voting): optimize performance
 Commit 4407: style(voting): format code
 Commit 4408: docs(voting): update documentation
+Commit 4409: refactor(voting): improve code structure

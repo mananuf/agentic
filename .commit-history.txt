@@ -2769,3 +2769,4 @@ Commit 2767: feat(legal): add validation
 Commit 2768: test(legal): add tests
 Commit 2769: refactor(legal): improve code structure
 Commit 2770: fix(legal): handle edge case
+Commit 2771: refactor(legal): improve code structure

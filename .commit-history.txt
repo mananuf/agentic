@@ -4750,3 +4750,4 @@ Commit 4748: feat(voting): add validation
 Commit 4749: fix(voting): handle edge case
 Commit 4750: refactor(voting): improve code structure
 Commit 4751: style(voting): format code
+Commit 4752: refactor(voting): improve code structure

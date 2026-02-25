@@ -4879,3 +4879,4 @@ Commit 4877: refactor(voting): improve code structure
 Commit 4878: perf(voting): optimize performance
 Commit 4879: test(voting): add tests
 Commit 4880: perf(voting): optimize performance
+Commit 4881: style(voting): format code

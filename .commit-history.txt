@@ -9958,3 +9958,4 @@ Commit 9956: fix(privacy): resolve bug
 Commit 9957: feat(privacy): implement new feature
 Commit 9958: fix(privacy): handle edge case
 Commit 9959: fix(privacy): resolve bug
+Commit 9960: docs(privacy): update documentation

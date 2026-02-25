@@ -7084,3 +7084,4 @@ Commit 7082: perf(metaverse): optimize performance
 Commit 7083: chore(metaverse): update dependencies
 Commit 7084: fix(metaverse): handle edge case
 Commit 7085: feat(metaverse): add validation
+Commit 7086: docs(metaverse): update documentation

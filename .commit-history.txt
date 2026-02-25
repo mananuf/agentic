@@ -2263,3 +2263,4 @@ Commit 2261: feat(legal): add validation
 Commit 2262: fix(legal): resolve bug
 Commit 2263: fix(legal): handle edge case
 Commit 2264: refactor(legal): improve code structure
+Commit 2265: chore(legal): update dependencies

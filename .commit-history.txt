@@ -5100,3 +5100,4 @@ Commit 5098: perf(loyalty): optimize performance
 Commit 5099: feat(loyalty): implement new feature
 Commit 5100: perf(loyalty): optimize performance
 Commit 5101: fix(loyalty): handle edge case
+Commit 5102: docs(loyalty): update documentation

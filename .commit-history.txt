@@ -8521,3 +8521,4 @@ Commit 8519: feat(carbon): implement new feature
 Commit 8520: chore(carbon): update dependencies
 Commit 8521: style(carbon): format code
 Commit 8522: fix(carbon): resolve bug
+Commit 8523: perf(carbon): optimize performance

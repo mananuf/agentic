@@ -2580,3 +2580,4 @@ Commit 2578: docs(legal): update documentation
 Commit 2579: fix(legal): handle edge case
 Commit 2580: feat(legal): implement new feature
 Commit 2581: chore(legal): update dependencies
+Commit 2582: feat(legal): add validation

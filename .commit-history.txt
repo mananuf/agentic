@@ -5459,3 +5459,4 @@ Commit 5457: test(loyalty): add tests
 Commit 5458: docs(loyalty): update documentation
 Commit 5459: fix(loyalty): handle edge case
 Commit 5460: test(loyalty): add tests
+Commit 5461: test(loyalty): add tests

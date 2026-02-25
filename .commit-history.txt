@@ -3086,3 +3086,4 @@ Commit 3084: fix(charity): resolve bug
 Commit 3085: fix(charity): resolve bug
 Commit 3086: fix(charity): resolve bug
 Commit 3087: feat(charity): add validation
+Commit 3088: test(charity): add tests

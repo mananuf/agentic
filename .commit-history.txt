@@ -4686,3 +4686,4 @@ Commit 4684: style(voting): format code
 Commit 4685: feat(voting): add validation
 Commit 4686: fix(voting): handle edge case
 Commit 4687: docs(voting): update documentation
+Commit 4688: test(voting): add tests

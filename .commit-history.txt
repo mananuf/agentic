@@ -3751,3 +3751,4 @@ Commit 3749: refactor(charity): improve code structure
 Commit 3750: feat(charity): add validation
 Commit 3751: docs(charity): update documentation
 Commit 3752: chore(charity): update dependencies
+Commit 3753: style(charity): format code

@@ -5423,3 +5423,4 @@ Commit 5421: refactor(loyalty): improve code structure
 Commit 5422: chore(loyalty): update dependencies
 Commit 5423: refactor(loyalty): improve code structure
 Commit 5424: perf(loyalty): optimize performance
+Commit 5425: chore(loyalty): update dependencies

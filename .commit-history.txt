@@ -3220,3 +3220,4 @@ Commit 3218: feat(charity): implement new feature
 Commit 3219: refactor(charity): improve code structure
 Commit 3220: fix(charity): handle edge case
 Commit 3221: fix(charity): resolve bug
+Commit 3222: feat(charity): add validation

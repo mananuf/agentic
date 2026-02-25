@@ -5972,3 +5972,4 @@ Commit 5970: style(loyalty): format code
 Commit 5971: docs(loyalty): update documentation
 Commit 5972: docs(loyalty): update documentation
 Commit 5973: fix(loyalty): resolve bug
+Commit 5974: style(loyalty): format code

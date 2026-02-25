@@ -4227,3 +4227,4 @@ Commit 4225: test(voting): add tests
 Commit 4226: docs(voting): update documentation
 Commit 4227: fix(voting): resolve bug
 Commit 4228: feat(voting): add validation
+Commit 4229: style(voting): format code

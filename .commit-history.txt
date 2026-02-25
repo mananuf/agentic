@@ -5678,3 +5678,4 @@ Commit 5676: chore(loyalty): update dependencies
 Commit 5677: feat(loyalty): implement new feature
 Commit 5678: test(loyalty): add tests
 Commit 5679: perf(loyalty): optimize performance
+Commit 5680: style(loyalty): format code

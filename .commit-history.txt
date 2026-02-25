@@ -9444,3 +9444,4 @@ Commit 9442: feat(privacy): add validation
 Commit 9443: feat(privacy): add validation
 Commit 9444: docs(privacy): update documentation
 Commit 9445: feat(privacy): implement new feature
+Commit 9446: fix(privacy): handle edge case

@@ -4009,3 +4009,4 @@ Commit 4007: test(voting): add tests
 Commit 4008: style(voting): format code
 Commit 4009: style(voting): format code
 Commit 4010: feat(voting): add validation
+Commit 4011: fix(voting): handle edge case

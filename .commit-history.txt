@@ -6978,3 +6978,4 @@ Commit 6976: style(streaming): format code
 Commit 6977: perf(streaming): optimize performance
 Commit 6978: chore(streaming): update dependencies
 Commit 6979: feat(streaming): add validation
+Commit 6980: test(streaming): add tests

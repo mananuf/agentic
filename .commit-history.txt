@@ -4177,3 +4177,4 @@ Commit 4175: test(voting): add tests
 Commit 4176: perf(voting): optimize performance
 Commit 4177: feat(voting): add validation
 Commit 4178: refactor(voting): improve code structure
+Commit 4179: fix(voting): resolve bug

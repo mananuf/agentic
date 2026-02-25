@@ -6278,3 +6278,4 @@ Commit 6276: test(streaming): add tests
 Commit 6277: perf(streaming): optimize performance
 Commit 6278: feat(streaming): add validation
 Commit 6279: style(streaming): format code
+Commit 6280: refactor(streaming): improve code structure

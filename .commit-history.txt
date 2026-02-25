@@ -5485,3 +5485,4 @@ Commit 5483: docs(loyalty): update documentation
 Commit 5484: chore(loyalty): update dependencies
 Commit 5485: test(loyalty): add tests
 Commit 5486: docs(loyalty): update documentation
+Commit 5487: fix(loyalty): handle edge case

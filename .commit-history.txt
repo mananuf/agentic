@@ -2719,3 +2719,4 @@ Commit 2717: perf(legal): optimize performance
 Commit 2718: chore(legal): update dependencies
 Commit 2719: chore(legal): update dependencies
 Commit 2720: chore(legal): update dependencies
+Commit 2721: fix(legal): handle edge case

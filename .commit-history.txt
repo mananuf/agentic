@@ -9519,3 +9519,4 @@ Commit 9517: test(privacy): add tests
 Commit 9518: test(privacy): add tests
 Commit 9519: style(privacy): format code
 Commit 9520: test(privacy): add tests
+Commit 9521: fix(privacy): resolve bug

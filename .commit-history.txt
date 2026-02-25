@@ -5810,3 +5810,4 @@ Commit 5808: fix(loyalty): handle edge case
 Commit 5809: chore(loyalty): update dependencies
 Commit 5810: fix(loyalty): handle edge case
 Commit 5811: perf(loyalty): optimize performance
+Commit 5812: perf(loyalty): optimize performance

@@ -8045,3 +8045,4 @@ Commit 8043: refactor(carbon): improve code structure
 Commit 8044: fix(carbon): handle edge case
 Commit 8045: fix(carbon): handle edge case
 Commit 8046: perf(carbon): optimize performance
+Commit 8047: docs(carbon): update documentation

@@ -6938,3 +6938,4 @@ Commit 6936: feat(streaming): implement new feature
 Commit 6937: fix(streaming): handle edge case
 Commit 6938: test(streaming): add tests
 Commit 6939: chore(streaming): update dependencies
+Commit 6940: fix(streaming): handle edge case

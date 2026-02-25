@@ -5527,3 +5527,4 @@ Commit 5525: feat(loyalty): implement new feature
 Commit 5526: fix(loyalty): handle edge case
 Commit 5527: style(loyalty): format code
 Commit 5528: fix(loyalty): resolve bug
+Commit 5529: fix(loyalty): resolve bug

@@ -9523,3 +9523,4 @@ Commit 9521: fix(privacy): resolve bug
 Commit 9522: fix(privacy): handle edge case
 Commit 9523: fix(privacy): resolve bug
 Commit 9524: feat(privacy): add validation
+Commit 9525: docs(privacy): update documentation

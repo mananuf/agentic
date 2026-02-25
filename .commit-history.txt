@@ -7251,3 +7251,4 @@ Commit 7249: fix(metaverse): handle edge case
 Commit 7250: perf(metaverse): optimize performance
 Commit 7251: fix(metaverse): handle edge case
 Commit 7252: docs(metaverse): update documentation
+Commit 7253: chore(metaverse): update dependencies

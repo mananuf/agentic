@@ -4587,3 +4587,4 @@ Commit 4585: chore(voting): update dependencies
 Commit 4586: style(voting): format code
 Commit 4587: chore(voting): update dependencies
 Commit 4588: perf(voting): optimize performance
+Commit 4589: style(voting): format code

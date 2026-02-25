@@ -3443,3 +3443,4 @@ Commit 3441: chore(charity): update dependencies
 Commit 3442: chore(charity): update dependencies
 Commit 3443: refactor(charity): improve code structure
 Commit 3444: chore(charity): update dependencies
+Commit 3445: docs(charity): update documentation

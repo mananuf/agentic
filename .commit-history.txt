@@ -1871,3 +1871,4 @@ Commit 1869: fix(healthcare): handle edge case
 Commit 1870: docs(healthcare): update documentation
 Commit 1871: refactor(healthcare): improve code structure
 Commit 1872: fix(healthcare): handle edge case
+Commit 1873: refactor(healthcare): improve code structure

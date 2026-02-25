@@ -5511,3 +5511,4 @@ Commit 5509: chore(loyalty): update dependencies
 Commit 5510: feat(loyalty): add validation
 Commit 5511: feat(loyalty): implement new feature
 Commit 5512: test(loyalty): add tests
+Commit 5513: fix(loyalty): resolve bug

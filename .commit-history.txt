@@ -4108,3 +4108,4 @@ Commit 4106: fix(voting): handle edge case
 Commit 4107: feat(voting): add validation
 Commit 4108: fix(voting): resolve bug
 Commit 4109: fix(voting): resolve bug
+Commit 4110: style(voting): format code

@@ -3972,3 +3972,4 @@ Commit 3970: docs(charity): update documentation
 Commit 3971: chore(charity): update dependencies
 Commit 3972: docs(charity): update documentation
 Commit 3973: docs(charity): update documentation
+Commit 3974: fix(charity): handle edge case

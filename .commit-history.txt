@@ -2973,3 +2973,4 @@ Commit 2971: docs(legal): update documentation
 Commit 2972: refactor(legal): improve code structure
 Commit 2973: chore(legal): update dependencies
 Commit 2974: feat(legal): add validation
+Commit 2975: fix(legal): handle edge case

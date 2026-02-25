@@ -1721,3 +1721,4 @@ Commit 1719: refactor(healthcare): improve code structure
 Commit 1720: test(healthcare): add tests
 Commit 1721: fix(healthcare): resolve bug
 Commit 1722: fix(healthcare): resolve bug
+Commit 1723: chore(healthcare): update dependencies

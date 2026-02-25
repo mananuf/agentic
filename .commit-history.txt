@@ -3226,3 +3226,4 @@ Commit 3224: fix(charity): resolve bug
 Commit 3225: chore(charity): update dependencies
 Commit 3226: docs(charity): update documentation
 Commit 3227: chore(charity): update dependencies
+Commit 3228: refactor(charity): improve code structure

@@ -4248,3 +4248,4 @@ Commit 4246: test(voting): add tests
 Commit 4247: fix(voting): resolve bug
 Commit 4248: feat(voting): implement new feature
 Commit 4249: test(voting): add tests
+Commit 4250: fix(voting): handle edge case

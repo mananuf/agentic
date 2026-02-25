@@ -4486,3 +4486,4 @@ Commit 4484: feat(voting): add validation
 Commit 4485: test(voting): add tests
 Commit 4486: perf(voting): optimize performance
 Commit 4487: fix(voting): resolve bug
+Commit 4488: refactor(voting): improve code structure

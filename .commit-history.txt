@@ -6340,3 +6340,4 @@ Commit 6338: fix(streaming): handle edge case
 Commit 6339: perf(streaming): optimize performance
 Commit 6340: style(streaming): format code
 Commit 6341: style(streaming): format code
+Commit 6342: chore(streaming): update dependencies

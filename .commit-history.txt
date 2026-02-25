@@ -4025,3 +4025,4 @@ Commit 4023: feat(voting): add validation
 Commit 4024: fix(voting): resolve bug
 Commit 4025: docs(voting): update documentation
 Commit 4026: fix(voting): resolve bug
+Commit 4027: docs(voting): update documentation

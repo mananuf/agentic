@@ -4634,3 +4634,4 @@ Commit 4632: feat(voting): add validation
 Commit 4633: docs(voting): update documentation
 Commit 4634: feat(voting): implement new feature
 Commit 4635: feat(voting): add validation
+Commit 4636: refactor(voting): improve code structure

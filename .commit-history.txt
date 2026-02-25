@@ -2484,3 +2484,4 @@ Commit 2482: perf(legal): optimize performance
 Commit 2483: style(legal): format code
 Commit 2484: chore(legal): update dependencies
 Commit 2485: perf(legal): optimize performance
+Commit 2486: docs(legal): update documentation

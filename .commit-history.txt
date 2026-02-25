@@ -4328,3 +4328,4 @@ Commit 4326: test(voting): add tests
 Commit 4327: fix(voting): handle edge case
 Commit 4328: feat(voting): add validation
 Commit 4329: feat(voting): implement new feature
+Commit 4330: perf(voting): optimize performance

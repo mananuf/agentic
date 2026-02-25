@@ -5262,3 +5262,4 @@ Commit 5260: fix(loyalty): resolve bug
 Commit 5261: fix(loyalty): resolve bug
 Commit 5262: feat(loyalty): implement new feature
 Commit 5263: chore(loyalty): update dependencies
+Commit 5264: style(loyalty): format code

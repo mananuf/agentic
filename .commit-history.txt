@@ -4941,3 +4941,4 @@ Commit 4939: refactor(voting): improve code structure
 Commit 4940: perf(voting): optimize performance
 Commit 4941: style(voting): format code
 Commit 4942: fix(voting): resolve bug
+Commit 4943: feat(voting): add validation

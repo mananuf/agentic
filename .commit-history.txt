@@ -6058,3 +6058,4 @@ Commit 6056: docs(streaming): update documentation
 Commit 6057: docs(streaming): update documentation
 Commit 6058: feat(streaming): add validation
 Commit 6059: feat(streaming): add validation
+Commit 6060: style(streaming): format code

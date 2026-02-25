@@ -2587,3 +2587,4 @@ Commit 2585: feat(legal): add validation
 Commit 2586: feat(legal): add validation
 Commit 2587: fix(legal): resolve bug
 Commit 2588: perf(legal): optimize performance
+Commit 2589: docs(legal): update documentation

@@ -1388,3 +1388,4 @@ Commit 1386: fix(healthcare): resolve bug
 Commit 1387: test(healthcare): add tests
 Commit 1388: fix(healthcare): handle edge case
 Commit 1389: perf(healthcare): optimize performance
+Commit 1390: refactor(healthcare): improve code structure

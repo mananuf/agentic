@@ -2305,3 +2305,4 @@ Commit 2303: feat(legal): implement new feature
 Commit 2304: test(legal): add tests
 Commit 2305: perf(legal): optimize performance
 Commit 2306: docs(legal): update documentation
+Commit 2307: fix(legal): resolve bug

@@ -8125,3 +8125,4 @@ Commit 8123: fix(carbon): handle edge case
 Commit 8124: style(carbon): format code
 Commit 8125: fix(carbon): handle edge case
 Commit 8126: feat(carbon): add validation
+Commit 8127: perf(carbon): optimize performance

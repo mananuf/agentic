@@ -3511,3 +3511,4 @@ Commit 3509: docs(charity): update documentation
 Commit 3510: chore(charity): update dependencies
 Commit 3511: perf(charity): optimize performance
 Commit 3512: perf(charity): optimize performance
+Commit 3513: test(charity): add tests

@@ -6035,3 +6035,4 @@ Commit 6033: feat(streaming): add validation
 Commit 6034: style(streaming): format code
 Commit 6035: test(streaming): add tests
 Commit 6036: chore(streaming): update dependencies
+Commit 6037: fix(streaming): resolve bug

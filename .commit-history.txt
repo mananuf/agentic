@@ -6912,3 +6912,4 @@ Commit 6910: style(streaming): format code
 Commit 6911: fix(streaming): handle edge case
 Commit 6912: chore(streaming): update dependencies
 Commit 6913: docs(streaming): update documentation
+Commit 6914: fix(streaming): resolve bug

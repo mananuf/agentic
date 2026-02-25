@@ -5222,3 +5222,4 @@ Commit 5220: docs(loyalty): update documentation
 Commit 5221: style(loyalty): format code
 Commit 5222: test(loyalty): add tests
 Commit 5223: style(loyalty): format code
+Commit 5224: fix(loyalty): resolve bug

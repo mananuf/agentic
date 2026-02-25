@@ -3013,3 +3013,4 @@ Commit 3011: fix(charity): handle edge case
 Commit 3012: fix(charity): resolve bug
 Commit 3013: chore(charity): update dependencies
 Commit 3014: fix(charity): resolve bug
+Commit 3015: docs(charity): update documentation

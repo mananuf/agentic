@@ -9388,3 +9388,4 @@ Commit 9386: chore(privacy): update dependencies
 Commit 9387: fix(privacy): resolve bug
 Commit 9388: fix(privacy): resolve bug
 Commit 9389: chore(privacy): update dependencies
+Commit 9390: style(privacy): format code

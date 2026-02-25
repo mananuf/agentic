@@ -4576,3 +4576,4 @@ Commit 4574: test(voting): add tests
 Commit 4575: docs(voting): update documentation
 Commit 4576: chore(voting): update dependencies
 Commit 4577: chore(voting): update dependencies
+Commit 4578: fix(voting): handle edge case

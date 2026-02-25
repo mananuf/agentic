@@ -5491,3 +5491,4 @@ Commit 5489: perf(loyalty): optimize performance
 Commit 5490: feat(loyalty): add validation
 Commit 5491: refactor(loyalty): improve code structure
 Commit 5492: docs(loyalty): update documentation
+Commit 5493: feat(loyalty): implement new feature

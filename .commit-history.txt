@@ -7349,3 +7349,4 @@ Commit 7347: test(metaverse): add tests
 Commit 7348: fix(metaverse): resolve bug
 Commit 7349: docs(metaverse): update documentation
 Commit 7350: refactor(metaverse): improve code structure
+Commit 7351: chore(metaverse): update dependencies

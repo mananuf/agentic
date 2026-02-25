@@ -4834,3 +4834,4 @@ Commit 4832: perf(voting): optimize performance
 Commit 4833: style(voting): format code
 Commit 4834: perf(voting): optimize performance
 Commit 4835: test(voting): add tests
+Commit 4836: chore(voting): update dependencies

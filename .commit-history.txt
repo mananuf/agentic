@@ -3287,3 +3287,4 @@ Commit 3285: fix(charity): resolve bug
 Commit 3286: docs(charity): update documentation
 Commit 3287: fix(charity): handle edge case
 Commit 3288: perf(charity): optimize performance
+Commit 3289: feat(charity): add validation

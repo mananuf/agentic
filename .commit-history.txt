@@ -3900,3 +3900,4 @@ Commit 3898: perf(charity): optimize performance
 Commit 3899: fix(charity): resolve bug
 Commit 3900: style(charity): format code
 Commit 3901: fix(charity): resolve bug
+Commit 3902: docs(charity): update documentation

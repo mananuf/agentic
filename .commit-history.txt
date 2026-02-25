@@ -6051,3 +6051,4 @@ Commit 6049: docs(streaming): update documentation
 Commit 6050: style(streaming): format code
 Commit 6051: docs(streaming): update documentation
 Commit 6052: fix(streaming): handle edge case
+Commit 6053: perf(streaming): optimize performance

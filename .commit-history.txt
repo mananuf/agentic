@@ -4802,3 +4802,4 @@ Commit 4800: docs(voting): update documentation
 Commit 4801: feat(voting): add validation
 Commit 4802: chore(voting): update dependencies
 Commit 4803: chore(voting): update dependencies
+Commit 4804: fix(voting): handle edge case

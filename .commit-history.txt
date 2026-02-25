@@ -7258,3 +7258,4 @@ Commit 7256: chore(metaverse): update dependencies
 Commit 7257: fix(metaverse): handle edge case
 Commit 7258: perf(metaverse): optimize performance
 Commit 7259: fix(metaverse): handle edge case
+Commit 7260: test(metaverse): add tests

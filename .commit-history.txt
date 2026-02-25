@@ -6220,3 +6220,4 @@ Commit 6218: chore(streaming): update dependencies
 Commit 6219: test(streaming): add tests
 Commit 6220: feat(streaming): implement new feature
 Commit 6221: feat(streaming): implement new feature
+Commit 6222: fix(streaming): handle edge case

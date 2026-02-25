@@ -5461,3 +5461,4 @@ Commit 5459: fix(loyalty): handle edge case
 Commit 5460: test(loyalty): add tests
 Commit 5461: test(loyalty): add tests
 Commit 5462: chore(loyalty): update dependencies
+Commit 5463: refactor(loyalty): improve code structure

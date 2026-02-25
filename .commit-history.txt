@@ -3705,3 +3705,4 @@ Commit 3703: refactor(charity): improve code structure
 Commit 3704: chore(charity): update dependencies
 Commit 3705: refactor(charity): improve code structure
 Commit 3706: style(charity): format code
+Commit 3707: docs(charity): update documentation

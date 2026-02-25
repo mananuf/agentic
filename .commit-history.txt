@@ -3448,3 +3448,4 @@ Commit 3446: refactor(charity): improve code structure
 Commit 3447: refactor(charity): improve code structure
 Commit 3448: feat(charity): add validation
 Commit 3449: test(charity): add tests
+Commit 3450: fix(charity): resolve bug

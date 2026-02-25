@@ -3726,3 +3726,4 @@ Commit 3724: feat(charity): implement new feature
 Commit 3725: fix(charity): resolve bug
 Commit 3726: fix(charity): resolve bug
 Commit 3727: feat(charity): implement new feature
+Commit 3728: docs(charity): update documentation

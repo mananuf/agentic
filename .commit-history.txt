@@ -5363,3 +5363,4 @@ Commit 5361: docs(loyalty): update documentation
 Commit 5362: feat(loyalty): add validation
 Commit 5363: docs(loyalty): update documentation
 Commit 5364: style(loyalty): format code
+Commit 5365: test(loyalty): add tests

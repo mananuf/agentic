@@ -2244,3 +2244,4 @@ Commit 2242: docs(legal): update documentation
 Commit 2243: feat(legal): add validation
 Commit 2244: feat(legal): add validation
 Commit 2245: feat(legal): add validation
+Commit 2246: refactor(legal): improve code structure

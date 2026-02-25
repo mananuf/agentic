@@ -5600,3 +5600,4 @@ Commit 5598: fix(loyalty): handle edge case
 Commit 5599: feat(loyalty): add validation
 Commit 5600: feat(loyalty): add validation
 Commit 5601: fix(loyalty): resolve bug
+Commit 5602: feat(loyalty): implement new feature

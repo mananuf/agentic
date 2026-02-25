@@ -5895,3 +5895,4 @@ Commit 5893: chore(loyalty): update dependencies
 Commit 5894: test(loyalty): add tests
 Commit 5895: refactor(loyalty): improve code structure
 Commit 5896: style(loyalty): format code
+Commit 5897: feat(loyalty): add validation

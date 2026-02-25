@@ -2520,3 +2520,4 @@ Commit 2518: feat(legal): add validation
 Commit 2519: docs(legal): update documentation
 Commit 2520: refactor(legal): improve code structure
 Commit 2521: feat(legal): add validation
+Commit 2522: refactor(legal): improve code structure

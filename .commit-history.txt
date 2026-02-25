@@ -9267,3 +9267,4 @@ Commit 9265: chore(privacy): update dependencies
 Commit 9266: feat(privacy): add validation
 Commit 9267: fix(privacy): resolve bug
 Commit 9268: fix(privacy): resolve bug
+Commit 9269: style(privacy): format code

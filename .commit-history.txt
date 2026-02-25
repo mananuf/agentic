@@ -9462,3 +9462,4 @@ Commit 9460: refactor(privacy): improve code structure
 Commit 9461: test(privacy): add tests
 Commit 9462: refactor(privacy): improve code structure
 Commit 9463: test(privacy): add tests
+Commit 9464: docs(privacy): update documentation

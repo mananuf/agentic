@@ -9870,3 +9870,4 @@ Commit 9868: fix(privacy): resolve bug
 Commit 9869: test(privacy): add tests
 Commit 9870: test(privacy): add tests
 Commit 9871: style(privacy): format code
+Commit 9872: feat(privacy): add validation

@@ -6250,3 +6250,4 @@ Commit 6248: fix(streaming): handle edge case
 Commit 6249: feat(streaming): add validation
 Commit 6250: fix(streaming): handle edge case
 Commit 6251: fix(streaming): resolve bug
+Commit 6252: perf(streaming): optimize performance

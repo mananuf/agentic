@@ -3923,3 +3923,4 @@ Commit 3921: style(charity): format code
 Commit 3922: perf(charity): optimize performance
 Commit 3923: docs(charity): update documentation
 Commit 3924: fix(charity): resolve bug
+Commit 3925: feat(charity): add validation

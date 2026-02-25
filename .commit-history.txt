@@ -1761,3 +1761,4 @@ Commit 1759: chore(healthcare): update dependencies
 Commit 1760: fix(healthcare): handle edge case
 Commit 1761: test(healthcare): add tests
 Commit 1762: perf(healthcare): optimize performance
+Commit 1763: style(healthcare): format code

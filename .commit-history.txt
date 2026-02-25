@@ -4999,3 +4999,4 @@ Commit 4997: feat(voting): implement new feature
 Commit 4998: feat(voting): implement new feature
 Commit 4999: refactor(voting): improve code structure
 Commit 5000: style(loyalty): format code
+Commit 5001: docs(loyalty): update documentation

@@ -1219,3 +1219,4 @@ Commit 1217: refactor(healthcare): improve code structure
 Commit 1218: chore(healthcare): update dependencies
 Commit 1219: style(healthcare): format code
 Commit 1220: style(healthcare): format code
+Commit 1221: fix(healthcare): resolve bug

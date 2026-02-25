@@ -4267,3 +4267,4 @@ Commit 4265: test(voting): add tests
 Commit 4266: refactor(voting): improve code structure
 Commit 4267: feat(voting): add validation
 Commit 4268: fix(voting): handle edge case
+Commit 4269: style(voting): format code

@@ -3030,3 +3030,4 @@ Commit 3028: style(charity): format code
 Commit 3029: fix(charity): resolve bug
 Commit 3030: chore(charity): update dependencies
 Commit 3031: docs(charity): update documentation
+Commit 3032: fix(charity): handle edge case

@@ -6838,3 +6838,4 @@ Commit 6836: test(streaming): add tests
 Commit 6837: perf(streaming): optimize performance
 Commit 6838: refactor(streaming): improve code structure
 Commit 6839: feat(streaming): implement new feature
+Commit 6840: fix(streaming): resolve bug

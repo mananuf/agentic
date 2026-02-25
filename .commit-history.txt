@@ -2946,3 +2946,4 @@ Commit 2944: test(legal): add tests
 Commit 2945: feat(legal): add validation
 Commit 2946: fix(legal): resolve bug
 Commit 2947: chore(legal): update dependencies
+Commit 2948: style(legal): format code

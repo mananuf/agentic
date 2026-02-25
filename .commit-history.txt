@@ -6492,3 +6492,4 @@ Commit 6490: refactor(streaming): improve code structure
 Commit 6491: refactor(streaming): improve code structure
 Commit 6492: chore(streaming): update dependencies
 Commit 6493: fix(streaming): handle edge case
+Commit 6494: chore(streaming): update dependencies

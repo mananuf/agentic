@@ -4537,3 +4537,4 @@ Commit 4535: style(voting): format code
 Commit 4536: feat(voting): add validation
 Commit 4537: style(voting): format code
 Commit 4538: perf(voting): optimize performance
+Commit 4539: docs(voting): update documentation

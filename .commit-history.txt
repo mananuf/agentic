@@ -4379,3 +4379,4 @@ Commit 4377: feat(voting): implement new feature
 Commit 4378: fix(voting): resolve bug
 Commit 4379: style(voting): format code
 Commit 4380: feat(voting): implement new feature
+Commit 4381: docs(voting): update documentation

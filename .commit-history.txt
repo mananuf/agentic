@@ -6626,3 +6626,4 @@ Commit 6624: test(streaming): add tests
 Commit 6625: chore(streaming): update dependencies
 Commit 6626: test(streaming): add tests
 Commit 6627: docs(streaming): update documentation
+Commit 6628: test(streaming): add tests

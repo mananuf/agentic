@@ -4886,3 +4886,4 @@ Commit 4884: style(voting): format code
 Commit 4885: feat(voting): add validation
 Commit 4886: fix(voting): resolve bug
 Commit 4887: refactor(voting): improve code structure
+Commit 4888: perf(voting): optimize performance

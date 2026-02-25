@@ -6779,3 +6779,4 @@ Commit 6777: docs(streaming): update documentation
 Commit 6778: style(streaming): format code
 Commit 6779: feat(streaming): implement new feature
 Commit 6780: fix(streaming): handle edge case
+Commit 6781: perf(streaming): optimize performance

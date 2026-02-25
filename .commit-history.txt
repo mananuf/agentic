@@ -4306,3 +4306,4 @@ Commit 4304: feat(voting): implement new feature
 Commit 4305: style(voting): format code
 Commit 4306: perf(voting): optimize performance
 Commit 4307: style(voting): format code
+Commit 4308: docs(voting): update documentation

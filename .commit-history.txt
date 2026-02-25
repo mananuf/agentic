@@ -4963,3 +4963,4 @@ Commit 4961: test(voting): add tests
 Commit 4962: style(voting): format code
 Commit 4963: fix(voting): resolve bug
 Commit 4964: refactor(voting): improve code structure
+Commit 4965: fix(voting): resolve bug

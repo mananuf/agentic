@@ -2431,3 +2431,4 @@ Commit 2429: feat(legal): implement new feature
 Commit 2430: feat(legal): implement new feature
 Commit 2431: test(legal): add tests
 Commit 2432: test(legal): add tests
+Commit 2433: refactor(legal): improve code structure

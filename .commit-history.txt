@@ -5412,3 +5412,4 @@ Commit 5410: perf(loyalty): optimize performance
 Commit 5411: fix(loyalty): handle edge case
 Commit 5412: perf(loyalty): optimize performance
 Commit 5413: feat(loyalty): add validation
+Commit 5414: chore(loyalty): update dependencies

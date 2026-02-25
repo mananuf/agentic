@@ -5367,3 +5367,4 @@ Commit 5365: test(loyalty): add tests
 Commit 5366: feat(loyalty): implement new feature
 Commit 5367: feat(loyalty): implement new feature
 Commit 5368: feat(loyalty): add validation
+Commit 5369: fix(loyalty): handle edge case

@@ -4906,3 +4906,4 @@ Commit 4904: fix(voting): handle edge case
 Commit 4905: refactor(voting): improve code structure
 Commit 4906: style(voting): format code
 Commit 4907: feat(voting): implement new feature
+Commit 4908: refactor(voting): improve code structure

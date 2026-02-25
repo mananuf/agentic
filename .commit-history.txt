@@ -1596,3 +1596,4 @@ Commit 1594: perf(healthcare): optimize performance
 Commit 1595: fix(healthcare): handle edge case
 Commit 1596: test(healthcare): add tests
 Commit 1597: refactor(healthcare): improve code structure
+Commit 1598: docs(healthcare): update documentation

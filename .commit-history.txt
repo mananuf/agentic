@@ -3625,3 +3625,4 @@ Commit 3623: perf(charity): optimize performance
 Commit 3624: chore(charity): update dependencies
 Commit 3625: chore(charity): update dependencies
 Commit 3626: fix(charity): resolve bug
+Commit 3627: feat(charity): add validation

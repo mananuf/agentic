@@ -3172,3 +3172,4 @@ Commit 3170: fix(charity): handle edge case
 Commit 3171: test(charity): add tests
 Commit 3172: chore(charity): update dependencies
 Commit 3173: feat(charity): add validation
+Commit 3174: test(charity): add tests

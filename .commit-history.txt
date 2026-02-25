@@ -4960,3 +4960,4 @@ Commit 4958: docs(voting): update documentation
 Commit 4959: chore(voting): update dependencies
 Commit 4960: perf(voting): optimize performance
 Commit 4961: test(voting): add tests
+Commit 4962: style(voting): format code

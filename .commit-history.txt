@@ -3306,3 +3306,4 @@ Commit 3304: feat(charity): add validation
 Commit 3305: feat(charity): add validation
 Commit 3306: refactor(charity): improve code structure
 Commit 3307: perf(charity): optimize performance
+Commit 3308: docs(charity): update documentation

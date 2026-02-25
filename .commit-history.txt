@@ -4778,3 +4778,4 @@ Commit 4776: docs(voting): update documentation
 Commit 4777: refactor(voting): improve code structure
 Commit 4778: feat(voting): implement new feature
 Commit 4779: feat(voting): implement new feature
+Commit 4780: feat(voting): implement new feature

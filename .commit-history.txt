@@ -6392,3 +6392,4 @@ Commit 6390: feat(streaming): implement new feature
 Commit 6391: feat(streaming): implement new feature
 Commit 6392: chore(streaming): update dependencies
 Commit 6393: docs(streaming): update documentation
+Commit 6394: fix(streaming): handle edge case

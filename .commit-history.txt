@@ -4819,3 +4819,4 @@ Commit 4817: feat(voting): implement new feature
 Commit 4818: test(voting): add tests
 Commit 4819: style(voting): format code
 Commit 4820: fix(voting): handle edge case
+Commit 4821: refactor(voting): improve code structure

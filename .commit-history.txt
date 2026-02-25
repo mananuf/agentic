@@ -2849,3 +2849,4 @@ Commit 2847: refactor(legal): improve code structure
 Commit 2848: style(legal): format code
 Commit 2849: test(legal): add tests
 Commit 2850: fix(legal): handle edge case
+Commit 2851: test(legal): add tests

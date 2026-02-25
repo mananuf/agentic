@@ -7692,3 +7692,4 @@ Commit 7690: fix(metaverse): resolve bug
 Commit 7691: test(metaverse): add tests
 Commit 7692: fix(metaverse): resolve bug
 Commit 7693: fix(metaverse): handle edge case
+Commit 7694: docs(metaverse): update documentation

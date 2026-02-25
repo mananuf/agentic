@@ -5765,3 +5765,4 @@ Commit 5763: perf(loyalty): optimize performance
 Commit 5764: perf(loyalty): optimize performance
 Commit 5765: feat(loyalty): implement new feature
 Commit 5766: docs(loyalty): update documentation
+Commit 5767: feat(loyalty): add validation

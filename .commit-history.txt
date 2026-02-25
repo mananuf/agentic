@@ -5371,3 +5371,4 @@ Commit 5369: fix(loyalty): handle edge case
 Commit 5370: fix(loyalty): resolve bug
 Commit 5371: fix(loyalty): handle edge case
 Commit 5372: fix(loyalty): resolve bug
+Commit 5373: style(loyalty): format code

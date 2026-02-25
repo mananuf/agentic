@@ -2664,3 +2664,4 @@ Commit 2662: fix(legal): resolve bug
 Commit 2663: refactor(legal): improve code structure
 Commit 2664: fix(legal): resolve bug
 Commit 2665: feat(legal): add validation
+Commit 2666: docs(legal): update documentation

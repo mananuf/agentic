@@ -8750,3 +8750,4 @@ Commit 8748: fix(carbon): resolve bug
 Commit 8749: perf(carbon): optimize performance
 Commit 8750: style(carbon): format code
 Commit 8751: chore(carbon): update dependencies
+Commit 8752: fix(carbon): resolve bug

@@ -8564,3 +8564,4 @@ Commit 8562: perf(carbon): optimize performance
 Commit 8563: test(carbon): add tests
 Commit 8564: feat(carbon): implement new feature
 Commit 8565: docs(carbon): update documentation
+Commit 8566: fix(carbon): handle edge case

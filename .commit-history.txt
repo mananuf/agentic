@@ -8485,3 +8485,4 @@ Commit 8483: test(carbon): add tests
 Commit 8484: test(carbon): add tests
 Commit 8485: test(carbon): add tests
 Commit 8486: fix(carbon): handle edge case
+Commit 8487: refactor(carbon): improve code structure

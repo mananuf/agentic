@@ -5637,3 +5637,4 @@ Commit 5635: style(loyalty): format code
 Commit 5636: refactor(loyalty): improve code structure
 Commit 5637: fix(loyalty): resolve bug
 Commit 5638: fix(loyalty): resolve bug
+Commit 5639: perf(loyalty): optimize performance

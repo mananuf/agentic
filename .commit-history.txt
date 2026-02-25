@@ -5589,3 +5589,4 @@ Commit 5587: perf(loyalty): optimize performance
 Commit 5588: perf(loyalty): optimize performance
 Commit 5589: fix(loyalty): handle edge case
 Commit 5590: fix(loyalty): handle edge case
+Commit 5591: test(loyalty): add tests

@@ -4165,3 +4165,4 @@ Commit 4163: style(voting): format code
 Commit 4164: feat(voting): implement new feature
 Commit 4165: perf(voting): optimize performance
 Commit 4166: perf(voting): optimize performance
+Commit 4167: refactor(voting): improve code structure

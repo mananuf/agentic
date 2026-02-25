@@ -5730,3 +5730,4 @@ Commit 5728: feat(loyalty): add validation
 Commit 5729: perf(loyalty): optimize performance
 Commit 5730: docs(loyalty): update documentation
 Commit 5731: fix(loyalty): resolve bug
+Commit 5732: chore(loyalty): update dependencies

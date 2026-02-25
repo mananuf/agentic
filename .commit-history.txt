@@ -5580,3 +5580,4 @@ Commit 5578: style(loyalty): format code
 Commit 5579: chore(loyalty): update dependencies
 Commit 5580: feat(loyalty): add validation
 Commit 5581: chore(loyalty): update dependencies
+Commit 5582: test(loyalty): add tests

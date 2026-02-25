@@ -2975,3 +2975,4 @@ Commit 2973: chore(legal): update dependencies
 Commit 2974: feat(legal): add validation
 Commit 2975: fix(legal): handle edge case
 Commit 2976: test(legal): add tests
+Commit 2977: docs(legal): update documentation

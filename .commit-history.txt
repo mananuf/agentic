@@ -2735,3 +2735,4 @@ Commit 2733: fix(legal): handle edge case
 Commit 2734: docs(legal): update documentation
 Commit 2735: fix(legal): handle edge case
 Commit 2736: feat(legal): add validation
+Commit 2737: refactor(legal): improve code structure

@@ -2286,3 +2286,4 @@ Commit 2284: style(legal): format code
 Commit 2285: feat(legal): implement new feature
 Commit 2286: docs(legal): update documentation
 Commit 2287: test(legal): add tests
+Commit 2288: chore(legal): update dependencies

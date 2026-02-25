@@ -9660,3 +9660,4 @@ Commit 9658: docs(privacy): update documentation
 Commit 9659: style(privacy): format code
 Commit 9660: chore(privacy): update dependencies
 Commit 9661: chore(privacy): update dependencies
+Commit 9662: refactor(privacy): improve code structure

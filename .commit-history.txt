@@ -3309,3 +3309,4 @@ Commit 3307: perf(charity): optimize performance
 Commit 3308: docs(charity): update documentation
 Commit 3309: test(charity): add tests
 Commit 3310: style(charity): format code
+Commit 3311: feat(charity): add validation

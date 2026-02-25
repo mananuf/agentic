@@ -1067,3 +1067,4 @@ Commit 1065: style(healthcare): format code
 Commit 1066: test(healthcare): add tests
 Commit 1067: fix(healthcare): handle edge case
 Commit 1068: test(healthcare): add tests
+Commit 1069: docs(healthcare): update documentation

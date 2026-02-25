@@ -4913,3 +4913,4 @@ Commit 4911: feat(voting): implement new feature
 Commit 4912: perf(voting): optimize performance
 Commit 4913: chore(voting): update dependencies
 Commit 4914: fix(voting): handle edge case
+Commit 4915: docs(voting): update documentation

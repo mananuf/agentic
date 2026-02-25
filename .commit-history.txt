@@ -7601,3 +7601,4 @@ Commit 7599: refactor(metaverse): improve code structure
 Commit 7600: docs(metaverse): update documentation
 Commit 7601: chore(metaverse): update dependencies
 Commit 7602: chore(metaverse): update dependencies
+Commit 7603: refactor(metaverse): improve code structure

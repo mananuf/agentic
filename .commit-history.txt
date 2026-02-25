@@ -5238,3 +5238,4 @@ Commit 5236: refactor(loyalty): improve code structure
 Commit 5237: test(loyalty): add tests
 Commit 5238: docs(loyalty): update documentation
 Commit 5239: test(loyalty): add tests
+Commit 5240: feat(loyalty): add validation

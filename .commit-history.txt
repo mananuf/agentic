@@ -2991,3 +2991,4 @@ Commit 2989: fix(legal): resolve bug
 Commit 2990: style(legal): format code
 Commit 2991: style(legal): format code
 Commit 2992: test(legal): add tests
+Commit 2993: fix(legal): handle edge case

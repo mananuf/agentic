@@ -2295,3 +2295,4 @@ Commit 2293: docs(legal): update documentation
 Commit 2294: fix(legal): handle edge case
 Commit 2295: docs(legal): update documentation
 Commit 2296: refactor(legal): improve code structure
+Commit 2297: test(legal): add tests

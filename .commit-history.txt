@@ -6295,3 +6295,4 @@ Commit 6293: feat(streaming): implement new feature
 Commit 6294: docs(streaming): update documentation
 Commit 6295: feat(streaming): add validation
 Commit 6296: fix(streaming): handle edge case
+Commit 6297: test(streaming): add tests

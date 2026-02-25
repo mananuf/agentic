@@ -5827,3 +5827,4 @@ Commit 5825: feat(loyalty): add validation
 Commit 5826: docs(loyalty): update documentation
 Commit 5827: fix(loyalty): resolve bug
 Commit 5828: chore(loyalty): update dependencies
+Commit 5829: chore(loyalty): update dependencies

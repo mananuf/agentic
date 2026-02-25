@@ -5472,3 +5472,4 @@ Commit 5470: style(loyalty): format code
 Commit 5471: test(loyalty): add tests
 Commit 5472: feat(loyalty): add validation
 Commit 5473: chore(loyalty): update dependencies
+Commit 5474: refactor(loyalty): improve code structure

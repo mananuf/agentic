@@ -5834,3 +5834,4 @@ Commit 5832: chore(loyalty): update dependencies
 Commit 5833: fix(loyalty): handle edge case
 Commit 5834: feat(loyalty): implement new feature
 Commit 5835: perf(loyalty): optimize performance
+Commit 5836: docs(loyalty): update documentation

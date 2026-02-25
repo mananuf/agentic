@@ -2749,3 +2749,4 @@ Commit 2747: feat(legal): implement new feature
 Commit 2748: fix(legal): resolve bug
 Commit 2749: feat(legal): implement new feature
 Commit 2750: fix(legal): resolve bug
+Commit 2751: test(legal): add tests

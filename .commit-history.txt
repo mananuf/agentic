@@ -8882,3 +8882,4 @@ Commit 8880: chore(carbon): update dependencies
 Commit 8881: feat(carbon): add validation
 Commit 8882: fix(carbon): resolve bug
 Commit 8883: fix(carbon): resolve bug
+Commit 8884: perf(carbon): optimize performance

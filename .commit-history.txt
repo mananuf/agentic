@@ -4013,3 +4013,4 @@ Commit 4011: fix(voting): handle edge case
 Commit 4012: chore(voting): update dependencies
 Commit 4013: docs(voting): update documentation
 Commit 4014: fix(voting): handle edge case
+Commit 4015: feat(voting): add validation

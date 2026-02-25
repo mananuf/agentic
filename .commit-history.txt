@@ -6588,3 +6588,4 @@ Commit 6586: chore(streaming): update dependencies
 Commit 6587: fix(streaming): handle edge case
 Commit 6588: refactor(streaming): improve code structure
 Commit 6589: feat(streaming): implement new feature
+Commit 6590: fix(streaming): handle edge case

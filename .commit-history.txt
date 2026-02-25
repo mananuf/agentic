@@ -4783,3 +4783,4 @@ Commit 4781: fix(voting): handle edge case
 Commit 4782: perf(voting): optimize performance
 Commit 4783: perf(voting): optimize performance
 Commit 4784: refactor(voting): improve code structure
+Commit 4785: test(voting): add tests

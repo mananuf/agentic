@@ -3673,3 +3673,4 @@ Commit 3671: chore(charity): update dependencies
 Commit 3672: refactor(charity): improve code structure
 Commit 3673: style(charity): format code
 Commit 3674: refactor(charity): improve code structure
+Commit 3675: feat(charity): add validation

@@ -2614,3 +2614,4 @@ Commit 2612: feat(legal): add validation
 Commit 2613: feat(legal): add validation
 Commit 2614: docs(legal): update documentation
 Commit 2615: fix(legal): handle edge case
+Commit 2616: refactor(legal): improve code structure

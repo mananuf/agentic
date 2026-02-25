@@ -9115,3 +9115,4 @@ Commit 9113: chore(privacy): update dependencies
 Commit 9114: feat(privacy): add validation
 Commit 9115: chore(privacy): update dependencies
 Commit 9116: test(privacy): add tests
+Commit 9117: style(privacy): format code

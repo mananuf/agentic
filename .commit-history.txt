@@ -6320,3 +6320,4 @@ Commit 6318: test(streaming): add tests
 Commit 6319: chore(streaming): update dependencies
 Commit 6320: refactor(streaming): improve code structure
 Commit 6321: feat(streaming): implement new feature
+Commit 6322: refactor(streaming): improve code structure

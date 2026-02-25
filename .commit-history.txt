@@ -2182,3 +2182,4 @@ Commit 2180: style(legal): format code
 Commit 2181: feat(legal): add validation
 Commit 2182: perf(legal): optimize performance
 Commit 2183: test(legal): add tests
+Commit 2184: refactor(legal): improve code structure

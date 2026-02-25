@@ -2421,3 +2421,4 @@ Commit 2419: fix(legal): resolve bug
 Commit 2420: perf(legal): optimize performance
 Commit 2421: fix(legal): resolve bug
 Commit 2422: feat(legal): add validation
+Commit 2423: fix(legal): resolve bug

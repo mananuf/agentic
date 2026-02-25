@@ -2531,3 +2531,4 @@ Commit 2529: feat(legal): implement new feature
 Commit 2530: refactor(legal): improve code structure
 Commit 2531: test(legal): add tests
 Commit 2532: docs(legal): update documentation
+Commit 2533: style(legal): format code

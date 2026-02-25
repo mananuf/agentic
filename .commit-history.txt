@@ -5948,3 +5948,4 @@ Commit 5946: fix(loyalty): resolve bug
 Commit 5947: feat(loyalty): add validation
 Commit 5948: fix(loyalty): handle edge case
 Commit 5949: feat(loyalty): add validation
+Commit 5950: fix(loyalty): resolve bug

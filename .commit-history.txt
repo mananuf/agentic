@@ -5406,3 +5406,4 @@ Commit 5404: test(loyalty): add tests
 Commit 5405: feat(loyalty): add validation
 Commit 5406: feat(loyalty): implement new feature
 Commit 5407: chore(loyalty): update dependencies
+Commit 5408: docs(loyalty): update documentation

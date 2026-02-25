@@ -1296,3 +1296,4 @@ Commit 1294: perf(healthcare): optimize performance
 Commit 1295: perf(healthcare): optimize performance
 Commit 1296: test(healthcare): add tests
 Commit 1297: feat(healthcare): add validation
+Commit 1298: fix(healthcare): handle edge case

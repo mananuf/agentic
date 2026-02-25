@@ -4235,3 +4235,4 @@ Commit 4233: feat(voting): implement new feature
 Commit 4234: style(voting): format code
 Commit 4235: feat(voting): add validation
 Commit 4236: fix(voting): handle edge case
+Commit 4237: docs(voting): update documentation

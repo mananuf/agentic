@@ -6199,3 +6199,4 @@ Commit 6197: chore(streaming): update dependencies
 Commit 6198: fix(streaming): handle edge case
 Commit 6199: refactor(streaming): improve code structure
 Commit 6200: feat(streaming): add validation
+Commit 6201: refactor(streaming): improve code structure

@@ -6982,3 +6982,4 @@ Commit 6980: test(streaming): add tests
 Commit 6981: docs(streaming): update documentation
 Commit 6982: fix(streaming): resolve bug
 Commit 6983: chore(streaming): update dependencies
+Commit 6984: style(streaming): format code

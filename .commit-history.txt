@@ -1376,3 +1376,4 @@ Commit 1374: fix(healthcare): resolve bug
 Commit 1375: feat(healthcare): add validation
 Commit 1376: refactor(healthcare): improve code structure
 Commit 1377: fix(healthcare): resolve bug
+Commit 1378: style(healthcare): format code

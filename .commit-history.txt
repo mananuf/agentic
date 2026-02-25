@@ -2768,3 +2768,4 @@ Commit 2766: style(legal): format code
 Commit 2767: feat(legal): add validation
 Commit 2768: test(legal): add tests
 Commit 2769: refactor(legal): improve code structure
+Commit 2770: fix(legal): handle edge case

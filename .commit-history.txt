@@ -94,3 +94,4 @@ Commit 92: fix(ai-ml): handle edge case
 Commit 93: refactor(ai-ml): improve code structure
 Commit 94: chore(ai-ml): update dependencies
 Commit 95: chore(ai-ml): update dependencies
+Commit 96: style(ai-ml): format code

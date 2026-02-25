@@ -7993,3 +7993,4 @@ Commit 7991: perf(metaverse): optimize performance
 Commit 7992: chore(metaverse): update dependencies
 Commit 7993: docs(metaverse): update documentation
 Commit 7994: docs(metaverse): update documentation
+Commit 7995: style(metaverse): format code

@@ -8592,3 +8592,4 @@ Commit 8590: fix(carbon): resolve bug
 Commit 8591: fix(carbon): resolve bug
 Commit 8592: refactor(carbon): improve code structure
 Commit 8593: fix(carbon): handle edge case
+Commit 8594: style(carbon): format code

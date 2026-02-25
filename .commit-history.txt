@@ -5349,3 +5349,4 @@ Commit 5347: fix(loyalty): handle edge case
 Commit 5348: fix(loyalty): resolve bug
 Commit 5349: fix(loyalty): handle edge case
 Commit 5350: feat(loyalty): add validation
+Commit 5351: chore(loyalty): update dependencies

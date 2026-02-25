@@ -9487,3 +9487,4 @@ Commit 9485: chore(privacy): update dependencies
 Commit 9486: fix(privacy): resolve bug
 Commit 9487: test(privacy): add tests
 Commit 9488: fix(privacy): handle edge case
+Commit 9489: docs(privacy): update documentation

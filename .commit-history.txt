@@ -8775,3 +8775,4 @@ Commit 8773: perf(carbon): optimize performance
 Commit 8774: feat(carbon): add validation
 Commit 8775: chore(carbon): update dependencies
 Commit 8776: fix(carbon): handle edge case
+Commit 8777: fix(carbon): resolve bug

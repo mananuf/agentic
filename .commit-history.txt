@@ -1302,3 +1302,4 @@ Commit 1300: docs(healthcare): update documentation
 Commit 1301: feat(healthcare): add validation
 Commit 1302: fix(healthcare): handle edge case
 Commit 1303: test(healthcare): add tests
+Commit 1304: style(healthcare): format code

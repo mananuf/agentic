@@ -4591,3 +4591,4 @@ Commit 4589: style(voting): format code
 Commit 4590: fix(voting): handle edge case
 Commit 4591: feat(voting): implement new feature
 Commit 4592: test(voting): add tests
+Commit 4593: docs(voting): update documentation

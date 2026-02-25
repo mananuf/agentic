@@ -5213,3 +5213,4 @@ Commit 5211: chore(loyalty): update dependencies
 Commit 5212: docs(loyalty): update documentation
 Commit 5213: fix(loyalty): handle edge case
 Commit 5214: docs(loyalty): update documentation
+Commit 5215: perf(loyalty): optimize performance

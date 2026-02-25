@@ -6254,3 +6254,4 @@ Commit 6252: perf(streaming): optimize performance
 Commit 6253: feat(streaming): implement new feature
 Commit 6254: fix(streaming): handle edge case
 Commit 6255: perf(streaming): optimize performance
+Commit 6256: refactor(streaming): improve code structure

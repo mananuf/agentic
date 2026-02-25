@@ -5415,3 +5415,4 @@ Commit 5413: feat(loyalty): add validation
 Commit 5414: chore(loyalty): update dependencies
 Commit 5415: fix(loyalty): resolve bug
 Commit 5416: fix(loyalty): handle edge case
+Commit 5417: feat(loyalty): add validation

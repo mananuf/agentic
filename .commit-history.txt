@@ -3808,3 +3808,4 @@ Commit 3806: style(charity): format code
 Commit 3807: fix(charity): handle edge case
 Commit 3808: chore(charity): update dependencies
 Commit 3809: refactor(charity): improve code structure
+Commit 3810: docs(charity): update documentation

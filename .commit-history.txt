@@ -6527,3 +6527,4 @@ Commit 6525: chore(streaming): update dependencies
 Commit 6526: docs(streaming): update documentation
 Commit 6527: refactor(streaming): improve code structure
 Commit 6528: fix(streaming): handle edge case
+Commit 6529: fix(streaming): resolve bug

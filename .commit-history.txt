@@ -5092,3 +5092,4 @@ Commit 5090: fix(loyalty): resolve bug
 Commit 5091: style(loyalty): format code
 Commit 5092: style(loyalty): format code
 Commit 5093: test(loyalty): add tests
+Commit 5094: test(loyalty): add tests

@@ -9609,3 +9609,4 @@ Commit 9607: test(privacy): add tests
 Commit 9608: refactor(privacy): improve code structure
 Commit 9609: docs(privacy): update documentation
 Commit 9610: docs(privacy): update documentation
+Commit 9611: style(privacy): format code

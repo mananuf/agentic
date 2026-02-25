@@ -6187,3 +6187,4 @@ Commit 6185: perf(streaming): optimize performance
 Commit 6186: chore(streaming): update dependencies
 Commit 6187: feat(streaming): add validation
 Commit 6188: chore(streaming): update dependencies
+Commit 6189: fix(streaming): handle edge case

@@ -4915,3 +4915,4 @@ Commit 4913: chore(voting): update dependencies
 Commit 4914: fix(voting): handle edge case
 Commit 4915: docs(voting): update documentation
 Commit 4916: fix(voting): resolve bug
+Commit 4917: perf(voting): optimize performance

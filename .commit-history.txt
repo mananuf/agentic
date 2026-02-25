@@ -9874,3 +9874,4 @@ Commit 9872: feat(privacy): add validation
 Commit 9873: docs(privacy): update documentation
 Commit 9874: refactor(privacy): improve code structure
 Commit 9875: fix(privacy): handle edge case
+Commit 9876: style(privacy): format code

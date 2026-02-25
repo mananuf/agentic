@@ -3975,3 +3975,4 @@ Commit 3973: docs(charity): update documentation
 Commit 3974: fix(charity): handle edge case
 Commit 3975: docs(charity): update documentation
 Commit 3976: test(charity): add tests
+Commit 3977: fix(charity): resolve bug

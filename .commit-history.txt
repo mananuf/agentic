@@ -6849,3 +6849,4 @@ Commit 6847: fix(streaming): resolve bug
 Commit 6848: docs(streaming): update documentation
 Commit 6849: refactor(streaming): improve code structure
 Commit 6850: test(streaming): add tests
+Commit 6851: chore(streaming): update dependencies

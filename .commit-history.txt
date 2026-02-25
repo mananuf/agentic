@@ -5249,3 +5249,4 @@ Commit 5247: feat(loyalty): implement new feature
 Commit 5248: feat(loyalty): implement new feature
 Commit 5249: feat(loyalty): implement new feature
 Commit 5250: feat(loyalty): implement new feature
+Commit 5251: fix(loyalty): resolve bug

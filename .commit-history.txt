@@ -2229,3 +2229,4 @@ Commit 2227: test(legal): add tests
 Commit 2228: docs(legal): update documentation
 Commit 2229: fix(legal): handle edge case
 Commit 2230: docs(legal): update documentation
+Commit 2231: docs(legal): update documentation

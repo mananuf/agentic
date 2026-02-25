@@ -1503,3 +1503,4 @@ Commit 1501: chore(healthcare): update dependencies
 Commit 1502: feat(healthcare): add validation
 Commit 1503: feat(healthcare): add validation
 Commit 1504: perf(healthcare): optimize performance
+Commit 1505: style(healthcare): format code

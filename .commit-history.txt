@@ -4717,3 +4717,4 @@ Commit 4715: feat(voting): implement new feature
 Commit 4716: feat(voting): implement new feature
 Commit 4717: perf(voting): optimize performance
 Commit 4718: feat(voting): implement new feature
+Commit 4719: fix(voting): handle edge case

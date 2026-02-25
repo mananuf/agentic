@@ -4474,3 +4474,4 @@ Commit 4472: chore(voting): update dependencies
 Commit 4473: fix(voting): handle edge case
 Commit 4474: fix(voting): handle edge case
 Commit 4475: chore(voting): update dependencies
+Commit 4476: feat(voting): add validation

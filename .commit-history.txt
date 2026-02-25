@@ -7236,3 +7236,4 @@ Commit 7234: test(metaverse): add tests
 Commit 7235: docs(metaverse): update documentation
 Commit 7236: perf(metaverse): optimize performance
 Commit 7237: fix(metaverse): handle edge case
+Commit 7238: chore(metaverse): update dependencies

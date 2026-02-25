@@ -6205,3 +6205,4 @@ Commit 6203: fix(streaming): handle edge case
 Commit 6204: refactor(streaming): improve code structure
 Commit 6205: fix(streaming): resolve bug
 Commit 6206: refactor(streaming): improve code structure
+Commit 6207: test(streaming): add tests

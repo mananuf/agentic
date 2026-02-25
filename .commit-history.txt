@@ -1416,3 +1416,4 @@ Commit 1414: chore(healthcare): update dependencies
 Commit 1415: feat(healthcare): add validation
 Commit 1416: docs(healthcare): update documentation
 Commit 1417: feat(healthcare): add validation
+Commit 1418: fix(healthcare): handle edge case

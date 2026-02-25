@@ -9725,3 +9725,4 @@ Commit 9723: feat(privacy): implement new feature
 Commit 9724: perf(privacy): optimize performance
 Commit 9725: perf(privacy): optimize performance
 Commit 9726: docs(privacy): update documentation
+Commit 9727: style(privacy): format code

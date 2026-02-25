@@ -9565,3 +9565,4 @@ Commit 9563: fix(privacy): resolve bug
 Commit 9564: feat(privacy): add validation
 Commit 9565: docs(privacy): update documentation
 Commit 9566: fix(privacy): handle edge case
+Commit 9567: style(privacy): format code

@@ -6480,3 +6480,4 @@ Commit 6478: docs(streaming): update documentation
 Commit 6479: fix(streaming): resolve bug
 Commit 6480: fix(streaming): handle edge case
 Commit 6481: perf(streaming): optimize performance
+Commit 6482: chore(streaming): update dependencies

@@ -4505,3 +4505,4 @@ Commit 4503: style(voting): format code
 Commit 4504: refactor(voting): improve code structure
 Commit 4505: docs(voting): update documentation
 Commit 4506: chore(voting): update dependencies
+Commit 4507: refactor(voting): improve code structure

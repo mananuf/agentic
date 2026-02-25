@@ -4971,3 +4971,4 @@ Commit 4969: chore(voting): update dependencies
 Commit 4970: feat(voting): implement new feature
 Commit 4971: refactor(voting): improve code structure
 Commit 4972: perf(voting): optimize performance
+Commit 4973: docs(voting): update documentation

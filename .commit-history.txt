@@ -2892,3 +2892,4 @@ Commit 2890: fix(legal): resolve bug
 Commit 2891: test(legal): add tests
 Commit 2892: feat(legal): add validation
 Commit 2893: fix(legal): resolve bug
+Commit 2894: test(legal): add tests

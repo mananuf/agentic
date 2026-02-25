@@ -3118,3 +3118,4 @@ Commit 3116: perf(charity): optimize performance
 Commit 3117: chore(charity): update dependencies
 Commit 3118: feat(charity): implement new feature
 Commit 3119: chore(charity): update dependencies
+Commit 3120: fix(charity): handle edge case

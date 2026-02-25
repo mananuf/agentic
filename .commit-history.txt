@@ -3992,3 +3992,4 @@ Commit 3990: refactor(charity): improve code structure
 Commit 3991: refactor(charity): improve code structure
 Commit 3992: docs(charity): update documentation
 Commit 3993: chore(charity): update dependencies
+Commit 3994: feat(charity): add validation

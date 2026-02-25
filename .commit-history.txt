@@ -4489,3 +4489,4 @@ Commit 4487: fix(voting): resolve bug
 Commit 4488: refactor(voting): improve code structure
 Commit 4489: test(voting): add tests
 Commit 4490: feat(voting): implement new feature
+Commit 4491: chore(voting): update dependencies

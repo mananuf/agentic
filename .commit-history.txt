@@ -4137,3 +4137,4 @@ Commit 4135: fix(voting): resolve bug
 Commit 4136: perf(voting): optimize performance
 Commit 4137: feat(voting): implement new feature
 Commit 4138: perf(voting): optimize performance
+Commit 4139: docs(voting): update documentation

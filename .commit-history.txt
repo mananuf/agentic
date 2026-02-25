@@ -3919,3 +3919,4 @@ Commit 3917: fix(charity): handle edge case
 Commit 3918: perf(charity): optimize performance
 Commit 3919: test(charity): add tests
 Commit 3920: chore(charity): update dependencies
+Commit 3921: style(charity): format code

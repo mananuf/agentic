@@ -3476,3 +3476,4 @@ Commit 3474: fix(charity): handle edge case
 Commit 3475: chore(charity): update dependencies
 Commit 3476: docs(charity): update documentation
 Commit 3477: fix(charity): handle edge case
+Commit 3478: test(charity): add tests

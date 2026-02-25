@@ -5345,3 +5345,4 @@ Commit 5343: chore(loyalty): update dependencies
 Commit 5344: style(loyalty): format code
 Commit 5345: fix(loyalty): handle edge case
 Commit 5346: style(loyalty): format code
+Commit 5347: fix(loyalty): handle edge case

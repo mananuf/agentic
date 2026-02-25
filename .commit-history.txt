@@ -2728,3 +2728,4 @@ Commit 2726: chore(legal): update dependencies
 Commit 2727: refactor(legal): improve code structure
 Commit 2728: feat(legal): add validation
 Commit 2729: perf(legal): optimize performance
+Commit 2730: test(legal): add tests

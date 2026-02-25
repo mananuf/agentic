@@ -4451,3 +4451,4 @@ Commit 4449: fix(voting): resolve bug
 Commit 4450: perf(voting): optimize performance
 Commit 4451: test(voting): add tests
 Commit 4452: test(voting): add tests
+Commit 4453: style(voting): format code

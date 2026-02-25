@@ -9308,3 +9308,4 @@ Commit 9306: docs(privacy): update documentation
 Commit 9307: test(privacy): add tests
 Commit 9308: fix(privacy): handle edge case
 Commit 9309: test(privacy): add tests
+Commit 9310: feat(privacy): add validation

@@ -8394,3 +8394,4 @@ Commit 8392: test(carbon): add tests
 Commit 8393: fix(carbon): handle edge case
 Commit 8394: refactor(carbon): improve code structure
 Commit 8395: refactor(carbon): improve code structure
+Commit 8396: fix(carbon): resolve bug

@@ -3330,3 +3330,4 @@ Commit 3328: style(charity): format code
 Commit 3329: perf(charity): optimize performance
 Commit 3330: chore(charity): update dependencies
 Commit 3331: perf(charity): optimize performance
+Commit 3332: test(charity): add tests

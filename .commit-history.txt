@@ -4495,3 +4495,4 @@ Commit 4493: test(voting): add tests
 Commit 4494: perf(voting): optimize performance
 Commit 4495: chore(voting): update dependencies
 Commit 4496: docs(voting): update documentation
+Commit 4497: perf(voting): optimize performance

@@ -6871,3 +6871,4 @@ Commit 6869: fix(streaming): handle edge case
 Commit 6870: perf(streaming): optimize performance
 Commit 6871: perf(streaming): optimize performance
 Commit 6872: test(streaming): add tests
+Commit 6873: docs(streaming): update documentation

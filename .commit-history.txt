@@ -8826,3 +8826,4 @@ Commit 8824: refactor(carbon): improve code structure
 Commit 8825: feat(carbon): add validation
 Commit 8826: test(carbon): add tests
 Commit 8827: chore(carbon): update dependencies
+Commit 8828: style(carbon): format code

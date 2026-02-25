@@ -7762,3 +7762,4 @@ Commit 7760: feat(metaverse): add validation
 Commit 7761: refactor(metaverse): improve code structure
 Commit 7762: refactor(metaverse): improve code structure
 Commit 7763: chore(metaverse): update dependencies
+Commit 7764: docs(metaverse): update documentation

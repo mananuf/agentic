@@ -4747,3 +4747,4 @@ Commit 4745: style(voting): format code
 Commit 4746: chore(voting): update dependencies
 Commit 4747: chore(voting): update dependencies
 Commit 4748: feat(voting): add validation
+Commit 4749: fix(voting): handle edge case

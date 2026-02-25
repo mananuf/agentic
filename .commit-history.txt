@@ -9536,3 +9536,4 @@ Commit 9534: refactor(privacy): improve code structure
 Commit 9535: fix(privacy): resolve bug
 Commit 9536: refactor(privacy): improve code structure
 Commit 9537: chore(privacy): update dependencies
+Commit 9538: test(privacy): add tests

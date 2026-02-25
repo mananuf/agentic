@@ -5923,3 +5923,4 @@ Commit 5921: docs(loyalty): update documentation
 Commit 5922: feat(loyalty): implement new feature
 Commit 5923: feat(loyalty): add validation
 Commit 5924: perf(loyalty): optimize performance
+Commit 5925: test(loyalty): add tests

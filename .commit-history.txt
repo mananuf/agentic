@@ -5115,3 +5115,4 @@ Commit 5113: fix(loyalty): handle edge case
 Commit 5114: refactor(loyalty): improve code structure
 Commit 5115: test(loyalty): add tests
 Commit 5116: docs(loyalty): update documentation
+Commit 5117: perf(loyalty): optimize performance

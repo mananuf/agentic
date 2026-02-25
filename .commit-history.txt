@@ -6185,3 +6185,4 @@ Commit 6183: refactor(streaming): improve code structure
 Commit 6184: perf(streaming): optimize performance
 Commit 6185: perf(streaming): optimize performance
 Commit 6186: chore(streaming): update dependencies
+Commit 6187: feat(streaming): add validation

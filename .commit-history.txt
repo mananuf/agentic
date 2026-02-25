@@ -4753,3 +4753,4 @@ Commit 4751: style(voting): format code
 Commit 4752: refactor(voting): improve code structure
 Commit 4753: test(voting): add tests
 Commit 4754: docs(voting): update documentation
+Commit 4755: chore(voting): update dependencies

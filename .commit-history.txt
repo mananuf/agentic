@@ -6304,3 +6304,4 @@ Commit 6302: perf(streaming): optimize performance
 Commit 6303: feat(streaming): add validation
 Commit 6304: chore(streaming): update dependencies
 Commit 6305: refactor(streaming): improve code structure
+Commit 6306: docs(streaming): update documentation

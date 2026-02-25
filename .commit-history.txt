@@ -9078,3 +9078,4 @@ Commit 9076: docs(privacy): update documentation
 Commit 9077: chore(privacy): update dependencies
 Commit 9078: perf(privacy): optimize performance
 Commit 9079: perf(privacy): optimize performance
+Commit 9080: fix(privacy): handle edge case

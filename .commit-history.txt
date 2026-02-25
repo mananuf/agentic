@@ -6012,3 +6012,4 @@ Commit 6010: fix(streaming): handle edge case
 Commit 6011: fix(streaming): resolve bug
 Commit 6012: docs(streaming): update documentation
 Commit 6013: test(streaming): add tests
+Commit 6014: perf(streaming): optimize performance

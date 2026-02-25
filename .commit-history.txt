@@ -3044,3 +3044,4 @@ Commit 3042: refactor(charity): improve code structure
 Commit 3043: feat(charity): add validation
 Commit 3044: chore(charity): update dependencies
 Commit 3045: feat(charity): implement new feature
+Commit 3046: test(charity): add tests

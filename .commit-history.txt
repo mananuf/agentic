@@ -5568,3 +5568,4 @@ Commit 5566: fix(loyalty): handle edge case
 Commit 5567: feat(loyalty): add validation
 Commit 5568: docs(loyalty): update documentation
 Commit 5569: perf(loyalty): optimize performance
+Commit 5570: feat(loyalty): add validation

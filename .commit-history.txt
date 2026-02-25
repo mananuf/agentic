@@ -8670,3 +8670,4 @@ Commit 8668: perf(carbon): optimize performance
 Commit 8669: test(carbon): add tests
 Commit 8670: fix(carbon): handle edge case
 Commit 8671: fix(carbon): resolve bug
+Commit 8672: style(carbon): format code

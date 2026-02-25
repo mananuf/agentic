@@ -2395,3 +2395,4 @@ Commit 2393: docs(legal): update documentation
 Commit 2394: test(legal): add tests
 Commit 2395: chore(legal): update dependencies
 Commit 2396: fix(legal): handle edge case
+Commit 2397: fix(legal): resolve bug

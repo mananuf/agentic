@@ -4039,3 +4039,4 @@ Commit 4037: docs(voting): update documentation
 Commit 4038: fix(voting): handle edge case
 Commit 4039: fix(voting): handle edge case
 Commit 4040: fix(voting): resolve bug
+Commit 4041: refactor(voting): improve code structure

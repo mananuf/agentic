@@ -5554,3 +5554,4 @@ Commit 5552: fix(loyalty): handle edge case
 Commit 5553: docs(loyalty): update documentation
 Commit 5554: refactor(loyalty): improve code structure
 Commit 5555: style(loyalty): format code
+Commit 5556: perf(loyalty): optimize performance

@@ -7723,3 +7723,4 @@ Commit 7721: test(metaverse): add tests
 Commit 7722: perf(metaverse): optimize performance
 Commit 7723: chore(metaverse): update dependencies
 Commit 7724: test(metaverse): add tests
+Commit 7725: fix(metaverse): resolve bug

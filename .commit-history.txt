@@ -9595,3 +9595,4 @@ Commit 9593: perf(privacy): optimize performance
 Commit 9594: fix(privacy): resolve bug
 Commit 9595: perf(privacy): optimize performance
 Commit 9596: fix(privacy): resolve bug
+Commit 9597: refactor(privacy): improve code structure

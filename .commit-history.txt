@@ -4002,3 +4002,4 @@ Commit 4000: feat(voting): add validation
 Commit 4001: fix(voting): handle edge case
 Commit 4002: fix(voting): handle edge case
 Commit 4003: refactor(voting): improve code structure
+Commit 4004: test(voting): add tests

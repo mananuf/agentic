@@ -4526,3 +4526,4 @@ Commit 4524: fix(voting): resolve bug
 Commit 4525: refactor(voting): improve code structure
 Commit 4526: perf(voting): optimize performance
 Commit 4527: feat(voting): implement new feature
+Commit 4528: refactor(voting): improve code structure

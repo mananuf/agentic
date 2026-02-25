@@ -5068,3 +5068,4 @@ Commit 5066: fix(loyalty): handle edge case
 Commit 5067: feat(loyalty): add validation
 Commit 5068: fix(loyalty): handle edge case
 Commit 5069: fix(loyalty): resolve bug
+Commit 5070: feat(loyalty): add validation

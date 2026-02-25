@@ -5539,3 +5539,4 @@ Commit 5537: refactor(loyalty): improve code structure
 Commit 5538: chore(loyalty): update dependencies
 Commit 5539: test(loyalty): add tests
 Commit 5540: fix(loyalty): handle edge case
+Commit 5541: fix(loyalty): resolve bug

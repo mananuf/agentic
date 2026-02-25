@@ -4216,3 +4216,4 @@ Commit 4214: fix(voting): handle edge case
 Commit 4215: feat(voting): implement new feature
 Commit 4216: chore(voting): update dependencies
 Commit 4217: chore(voting): update dependencies
+Commit 4218: style(voting): format code

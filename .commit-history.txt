@@ -4604,3 +4604,4 @@ Commit 4602: test(voting): add tests
 Commit 4603: fix(voting): handle edge case
 Commit 4604: fix(voting): resolve bug
 Commit 4605: fix(voting): handle edge case
+Commit 4606: chore(voting): update dependencies

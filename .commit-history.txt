@@ -2765,3 +2765,4 @@ Commit 2763: docs(legal): update documentation
 Commit 2764: docs(legal): update documentation
 Commit 2765: docs(legal): update documentation
 Commit 2766: style(legal): format code
+Commit 2767: feat(legal): add validation

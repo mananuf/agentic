@@ -5120,3 +5120,4 @@ Commit 5118: fix(loyalty): resolve bug
 Commit 5119: style(loyalty): format code
 Commit 5120: test(loyalty): add tests
 Commit 5121: fix(loyalty): resolve bug
+Commit 5122: feat(loyalty): add validation

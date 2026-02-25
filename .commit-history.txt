@@ -2818,3 +2818,4 @@ Commit 2816: feat(legal): add validation
 Commit 2817: chore(legal): update dependencies
 Commit 2818: fix(legal): handle edge case
 Commit 2819: fix(legal): handle edge case
+Commit 2820: fix(legal): resolve bug

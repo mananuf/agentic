@@ -4726,3 +4726,4 @@ Commit 4724: fix(voting): handle edge case
 Commit 4725: style(voting): format code
 Commit 4726: fix(voting): resolve bug
 Commit 4727: fix(voting): handle edge case
+Commit 4728: test(voting): add tests

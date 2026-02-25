@@ -7849,3 +7849,4 @@ Commit 7847: chore(metaverse): update dependencies
 Commit 7848: style(metaverse): format code
 Commit 7849: test(metaverse): add tests
 Commit 7850: perf(metaverse): optimize performance
+Commit 7851: refactor(metaverse): improve code structure

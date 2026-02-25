@@ -7121,3 +7121,4 @@ Commit 7119: chore(metaverse): update dependencies
 Commit 7120: refactor(metaverse): improve code structure
 Commit 7121: chore(metaverse): update dependencies
 Commit 7122: chore(metaverse): update dependencies
+Commit 7123: perf(metaverse): optimize performance

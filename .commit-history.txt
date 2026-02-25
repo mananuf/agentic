@@ -4829,3 +4829,4 @@ Commit 4827: docs(voting): update documentation
 Commit 4828: fix(voting): handle edge case
 Commit 4829: feat(voting): add validation
 Commit 4830: feat(voting): implement new feature
+Commit 4831: test(voting): add tests

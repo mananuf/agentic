@@ -1710,3 +1710,4 @@ Commit 1708: test(healthcare): add tests
 Commit 1709: feat(healthcare): add validation
 Commit 1710: style(healthcare): format code
 Commit 1711: docs(healthcare): update documentation
+Commit 1712: fix(healthcare): handle edge case

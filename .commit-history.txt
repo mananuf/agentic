@@ -3967,3 +3967,4 @@ Commit 3965: style(charity): format code
 Commit 3966: chore(charity): update dependencies
 Commit 3967: feat(charity): add validation
 Commit 3968: docs(charity): update documentation
+Commit 3969: test(charity): add tests

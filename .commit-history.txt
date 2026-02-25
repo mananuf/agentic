@@ -5265,3 +5265,4 @@ Commit 5263: chore(loyalty): update dependencies
 Commit 5264: style(loyalty): format code
 Commit 5265: perf(loyalty): optimize performance
 Commit 5266: chore(loyalty): update dependencies
+Commit 5267: feat(loyalty): add validation

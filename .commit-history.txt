@@ -4770,3 +4770,4 @@ Commit 4768: docs(voting): update documentation
 Commit 4769: perf(voting): optimize performance
 Commit 4770: perf(voting): optimize performance
 Commit 4771: style(voting): format code
+Commit 4772: chore(voting): update dependencies

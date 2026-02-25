@@ -3142,3 +3142,4 @@ Commit 3140: refactor(charity): improve code structure
 Commit 3141: style(charity): format code
 Commit 3142: feat(charity): add validation
 Commit 3143: style(charity): format code
+Commit 3144: fix(charity): resolve bug

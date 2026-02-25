@@ -5758,3 +5758,4 @@ Commit 5756: chore(loyalty): update dependencies
 Commit 5757: feat(loyalty): implement new feature
 Commit 5758: chore(loyalty): update dependencies
 Commit 5759: feat(loyalty): implement new feature
+Commit 5760: feat(loyalty): implement new feature

@@ -5626,3 +5626,4 @@ Commit 5624: chore(loyalty): update dependencies
 Commit 5625: feat(loyalty): add validation
 Commit 5626: feat(loyalty): implement new feature
 Commit 5627: fix(loyalty): resolve bug
+Commit 5628: feat(loyalty): implement new feature

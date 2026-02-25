@@ -6801,3 +6801,4 @@ Commit 6799: test(streaming): add tests
 Commit 6800: style(streaming): format code
 Commit 6801: style(streaming): format code
 Commit 6802: feat(streaming): add validation
+Commit 6803: feat(streaming): add validation

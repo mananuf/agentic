@@ -8494,3 +8494,4 @@ Commit 8492: feat(carbon): implement new feature
 Commit 8493: feat(carbon): add validation
 Commit 8494: docs(carbon): update documentation
 Commit 8495: feat(carbon): implement new feature
+Commit 8496: fix(carbon): resolve bug

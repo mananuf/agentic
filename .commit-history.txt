@@ -7878,3 +7878,4 @@ Commit 7876: test(metaverse): add tests
 Commit 7877: refactor(metaverse): improve code structure
 Commit 7878: test(metaverse): add tests
 Commit 7879: feat(metaverse): add validation
+Commit 7880: style(metaverse): format code

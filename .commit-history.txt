@@ -7558,3 +7558,4 @@ Commit 7556: feat(metaverse): implement new feature
 Commit 7557: feat(metaverse): implement new feature
 Commit 7558: feat(metaverse): add validation
 Commit 7559: chore(metaverse): update dependencies
+Commit 7560: fix(metaverse): handle edge case

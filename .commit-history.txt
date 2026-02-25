@@ -6791,3 +6791,4 @@ Commit 6789: test(streaming): add tests
 Commit 6790: refactor(streaming): improve code structure
 Commit 6791: refactor(streaming): improve code structure
 Commit 6792: feat(streaming): implement new feature
+Commit 6793: docs(streaming): update documentation

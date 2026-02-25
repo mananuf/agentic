@@ -2871,3 +2871,4 @@ Commit 2869: docs(legal): update documentation
 Commit 2870: fix(legal): handle edge case
 Commit 2871: perf(legal): optimize performance
 Commit 2872: feat(legal): add validation
+Commit 2873: chore(legal): update dependencies

@@ -3008,3 +3008,4 @@ Commit 3006: chore(charity): update dependencies
 Commit 3007: feat(charity): add validation
 Commit 3008: chore(charity): update dependencies
 Commit 3009: chore(charity): update dependencies
+Commit 3010: docs(charity): update documentation

@@ -2815,3 +2815,4 @@ Commit 2813: fix(legal): resolve bug
 Commit 2814: perf(legal): optimize performance
 Commit 2815: fix(legal): resolve bug
 Commit 2816: feat(legal): add validation
+Commit 2817: chore(legal): update dependencies

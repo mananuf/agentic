@@ -4571,3 +4571,4 @@ Commit 4569: refactor(voting): improve code structure
 Commit 4570: feat(voting): implement new feature
 Commit 4571: feat(voting): add validation
 Commit 4572: feat(voting): implement new feature
+Commit 4573: perf(voting): optimize performance

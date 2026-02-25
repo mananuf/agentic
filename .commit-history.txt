@@ -1323,3 +1323,4 @@ Commit 1321: style(healthcare): format code
 Commit 1322: chore(healthcare): update dependencies
 Commit 1323: test(healthcare): add tests
 Commit 1324: test(healthcare): add tests
+Commit 1325: fix(healthcare): handle edge case

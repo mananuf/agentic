@@ -3736,3 +3736,4 @@ Commit 3734: fix(charity): handle edge case
 Commit 3735: feat(charity): add validation
 Commit 3736: feat(charity): implement new feature
 Commit 3737: fix(charity): handle edge case
+Commit 3738: refactor(charity): improve code structure

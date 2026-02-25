@@ -5392,3 +5392,4 @@ Commit 5390: refactor(loyalty): improve code structure
 Commit 5391: docs(loyalty): update documentation
 Commit 5392: fix(loyalty): handle edge case
 Commit 5393: chore(loyalty): update dependencies
+Commit 5394: fix(loyalty): resolve bug

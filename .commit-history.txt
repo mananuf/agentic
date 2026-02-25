@@ -3749,3 +3749,4 @@ Commit 3747: feat(charity): implement new feature
 Commit 3748: test(charity): add tests
 Commit 3749: refactor(charity): improve code structure
 Commit 3750: feat(charity): add validation
+Commit 3751: docs(charity): update documentation

@@ -2381,3 +2381,4 @@ Commit 2379: fix(legal): handle edge case
 Commit 2380: test(legal): add tests
 Commit 2381: docs(legal): update documentation
 Commit 2382: chore(legal): update dependencies
+Commit 2383: fix(legal): resolve bug

@@ -2758,3 +2758,4 @@ Commit 2756: fix(legal): resolve bug
 Commit 2757: docs(legal): update documentation
 Commit 2758: refactor(legal): improve code structure
 Commit 2759: feat(legal): implement new feature
+Commit 2760: style(legal): format code

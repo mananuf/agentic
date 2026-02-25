@@ -4149,3 +4149,4 @@ Commit 4147: fix(voting): handle edge case
 Commit 4148: refactor(voting): improve code structure
 Commit 4149: test(voting): add tests
 Commit 4150: perf(voting): optimize performance
+Commit 4151: fix(voting): resolve bug

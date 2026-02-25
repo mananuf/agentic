@@ -8602,3 +8602,4 @@ Commit 8600: fix(carbon): handle edge case
 Commit 8601: feat(carbon): add validation
 Commit 8602: docs(carbon): update documentation
 Commit 8603: docs(carbon): update documentation
+Commit 8604: refactor(carbon): improve code structure

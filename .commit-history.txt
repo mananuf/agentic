@@ -3773,3 +3773,4 @@ Commit 3771: feat(charity): implement new feature
 Commit 3772: chore(charity): update dependencies
 Commit 3773: fix(charity): handle edge case
 Commit 3774: feat(charity): implement new feature
+Commit 3775: test(charity): add tests

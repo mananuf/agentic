@@ -2206,3 +2206,4 @@ Commit 2204: fix(legal): resolve bug
 Commit 2205: fix(legal): resolve bug
 Commit 2206: feat(legal): implement new feature
 Commit 2207: test(legal): add tests
+Commit 2208: style(legal): format code

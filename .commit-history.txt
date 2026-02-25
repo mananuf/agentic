@@ -7297,3 +7297,4 @@ Commit 7295: feat(metaverse): implement new feature
 Commit 7296: feat(metaverse): add validation
 Commit 7297: docs(metaverse): update documentation
 Commit 7298: fix(metaverse): handle edge case
+Commit 7299: fix(metaverse): resolve bug

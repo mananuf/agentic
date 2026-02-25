@@ -6670,3 +6670,4 @@ Commit 6668: feat(streaming): implement new feature
 Commit 6669: chore(streaming): update dependencies
 Commit 6670: test(streaming): add tests
 Commit 6671: chore(streaming): update dependencies
+Commit 6672: docs(streaming): update documentation

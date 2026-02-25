@@ -4662,3 +4662,4 @@ Commit 4660: refactor(voting): improve code structure
 Commit 4661: style(voting): format code
 Commit 4662: fix(voting): resolve bug
 Commit 4663: refactor(voting): improve code structure
+Commit 4664: perf(voting): optimize performance

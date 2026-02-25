@@ -4020,3 +4020,4 @@ Commit 4018: test(voting): add tests
 Commit 4019: chore(voting): update dependencies
 Commit 4020: perf(voting): optimize performance
 Commit 4021: chore(voting): update dependencies
+Commit 4022: docs(voting): update documentation

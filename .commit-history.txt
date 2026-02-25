@@ -3199,3 +3199,4 @@ Commit 3197: perf(charity): optimize performance
 Commit 3198: test(charity): add tests
 Commit 3199: test(charity): add tests
 Commit 3200: fix(charity): resolve bug
+Commit 3201: style(charity): format code

@@ -6157,3 +6157,4 @@ Commit 6155: refactor(streaming): improve code structure
 Commit 6156: docs(streaming): update documentation
 Commit 6157: perf(streaming): optimize performance
 Commit 6158: docs(streaming): update documentation
+Commit 6159: feat(streaming): add validation

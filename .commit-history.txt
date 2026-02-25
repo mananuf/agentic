@@ -6731,3 +6731,4 @@ Commit 6729: perf(streaming): optimize performance
 Commit 6730: fix(streaming): handle edge case
 Commit 6731: fix(streaming): handle edge case
 Commit 6732: refactor(streaming): improve code structure
+Commit 6733: test(streaming): add tests

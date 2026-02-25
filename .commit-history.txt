@@ -5033,3 +5033,4 @@ Commit 5031: chore(loyalty): update dependencies
 Commit 5032: fix(loyalty): resolve bug
 Commit 5033: perf(loyalty): optimize performance
 Commit 5034: fix(loyalty): handle edge case
+Commit 5035: fix(loyalty): resolve bug

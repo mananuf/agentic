@@ -2220,3 +2220,4 @@ Commit 2218: refactor(legal): improve code structure
 Commit 2219: style(legal): format code
 Commit 2220: feat(legal): add validation
 Commit 2221: chore(legal): update dependencies
+Commit 2222: docs(legal): update documentation

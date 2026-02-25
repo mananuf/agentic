@@ -7767,3 +7767,4 @@ Commit 7765: style(metaverse): format code
 Commit 7766: chore(metaverse): update dependencies
 Commit 7767: fix(metaverse): resolve bug
 Commit 7768: test(metaverse): add tests
+Commit 7769: docs(metaverse): update documentation

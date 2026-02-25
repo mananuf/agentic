@@ -6585,3 +6585,4 @@ Commit 6583: feat(streaming): add validation
 Commit 6584: fix(streaming): handle edge case
 Commit 6585: perf(streaming): optimize performance
 Commit 6586: chore(streaming): update dependencies
+Commit 6587: fix(streaming): handle edge case

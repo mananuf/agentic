@@ -5273,3 +5273,4 @@ Commit 5271: chore(loyalty): update dependencies
 Commit 5272: feat(loyalty): add validation
 Commit 5273: test(loyalty): add tests
 Commit 5274: fix(loyalty): handle edge case
+Commit 5275: style(loyalty): format code

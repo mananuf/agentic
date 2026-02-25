@@ -7658,3 +7658,4 @@ Commit 7656: feat(metaverse): add validation
 Commit 7657: perf(metaverse): optimize performance
 Commit 7658: chore(metaverse): update dependencies
 Commit 7659: style(metaverse): format code
+Commit 7660: fix(metaverse): handle edge case

@@ -8545,3 +8545,4 @@ Commit 8543: perf(carbon): optimize performance
 Commit 8544: chore(carbon): update dependencies
 Commit 8545: test(carbon): add tests
 Commit 8546: fix(carbon): handle edge case
+Commit 8547: style(carbon): format code

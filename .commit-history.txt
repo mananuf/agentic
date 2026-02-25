@@ -5755,3 +5755,4 @@ Commit 5753: docs(loyalty): update documentation
 Commit 5754: feat(loyalty): implement new feature
 Commit 5755: test(loyalty): add tests
 Commit 5756: chore(loyalty): update dependencies
+Commit 5757: feat(loyalty): implement new feature

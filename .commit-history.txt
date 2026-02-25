@@ -3480,3 +3480,4 @@ Commit 3478: test(charity): add tests
 Commit 3479: docs(charity): update documentation
 Commit 3480: feat(charity): add validation
 Commit 3481: refactor(charity): improve code structure
+Commit 3482: fix(charity): handle edge case

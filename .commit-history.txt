@@ -4658,3 +4658,4 @@ Commit 4656: feat(voting): add validation
 Commit 4657: chore(voting): update dependencies
 Commit 4658: style(voting): format code
 Commit 4659: perf(voting): optimize performance
+Commit 4660: refactor(voting): improve code structure

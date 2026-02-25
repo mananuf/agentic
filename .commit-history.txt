@@ -5802,3 +5802,4 @@ Commit 5800: test(loyalty): add tests
 Commit 5801: fix(loyalty): handle edge case
 Commit 5802: chore(loyalty): update dependencies
 Commit 5803: fix(loyalty): handle edge case
+Commit 5804: test(loyalty): add tests

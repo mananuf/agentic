@@ -2440,3 +2440,4 @@ Commit 2438: feat(legal): add validation
 Commit 2439: refactor(legal): improve code structure
 Commit 2440: fix(legal): handle edge case
 Commit 2441: fix(legal): handle edge case
+Commit 2442: style(legal): format code

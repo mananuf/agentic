@@ -4060,3 +4060,4 @@ Commit 4058: fix(voting): resolve bug
 Commit 4059: refactor(voting): improve code structure
 Commit 4060: refactor(voting): improve code structure
 Commit 4061: docs(voting): update documentation
+Commit 4062: fix(voting): handle edge case

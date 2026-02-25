@@ -5228,3 +5228,4 @@ Commit 5226: test(loyalty): add tests
 Commit 5227: feat(loyalty): implement new feature
 Commit 5228: style(loyalty): format code
 Commit 5229: test(loyalty): add tests
+Commit 5230: docs(loyalty): update documentation

@@ -2209,3 +2209,4 @@ Commit 2207: test(legal): add tests
 Commit 2208: style(legal): format code
 Commit 2209: feat(legal): implement new feature
 Commit 2210: feat(legal): add validation
+Commit 2211: chore(legal): update dependencies

@@ -2315,3 +2315,4 @@ Commit 2313: chore(legal): update dependencies
 Commit 2314: feat(legal): implement new feature
 Commit 2315: test(legal): add tests
 Commit 2316: test(legal): add tests
+Commit 2317: style(legal): format code

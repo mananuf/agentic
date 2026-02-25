@@ -3301,3 +3301,4 @@ Commit 3299: docs(charity): update documentation
 Commit 3300: docs(charity): update documentation
 Commit 3301: fix(charity): handle edge case
 Commit 3302: chore(charity): update dependencies
+Commit 3303: feat(charity): implement new feature

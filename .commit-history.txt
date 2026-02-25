@@ -6563,3 +6563,4 @@ Commit 6561: style(streaming): format code
 Commit 6562: chore(streaming): update dependencies
 Commit 6563: test(streaming): add tests
 Commit 6564: perf(streaming): optimize performance
+Commit 6565: feat(streaming): add validation

@@ -5952,3 +5952,4 @@ Commit 5950: fix(loyalty): resolve bug
 Commit 5951: feat(loyalty): add validation
 Commit 5952: feat(loyalty): implement new feature
 Commit 5953: fix(loyalty): resolve bug
+Commit 5954: style(loyalty): format code

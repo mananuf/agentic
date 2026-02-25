@@ -4344,3 +4344,4 @@ Commit 4342: docs(voting): update documentation
 Commit 4343: fix(voting): resolve bug
 Commit 4344: refactor(voting): improve code structure
 Commit 4345: refactor(voting): improve code structure
+Commit 4346: docs(voting): update documentation

@@ -3371,3 +3371,4 @@ Commit 3369: chore(charity): update dependencies
 Commit 3370: fix(charity): handle edge case
 Commit 3371: chore(charity): update dependencies
 Commit 3372: docs(charity): update documentation
+Commit 3373: fix(charity): resolve bug

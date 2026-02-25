@@ -5784,3 +5784,4 @@ Commit 5782: chore(loyalty): update dependencies
 Commit 5783: fix(loyalty): handle edge case
 Commit 5784: fix(loyalty): handle edge case
 Commit 5785: test(loyalty): add tests
+Commit 5786: style(loyalty): format code

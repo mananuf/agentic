@@ -5962,3 +5962,4 @@ Commit 5960: feat(loyalty): implement new feature
 Commit 5961: feat(loyalty): implement new feature
 Commit 5962: test(loyalty): add tests
 Commit 5963: style(loyalty): format code
+Commit 5964: feat(loyalty): add validation

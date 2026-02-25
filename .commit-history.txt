@@ -6366,3 +6366,4 @@ Commit 6364: test(streaming): add tests
 Commit 6365: test(streaming): add tests
 Commit 6366: chore(streaming): update dependencies
 Commit 6367: feat(streaming): add validation
+Commit 6368: refactor(streaming): improve code structure

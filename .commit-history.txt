@@ -6803,3 +6803,4 @@ Commit 6801: style(streaming): format code
 Commit 6802: feat(streaming): add validation
 Commit 6803: feat(streaming): add validation
 Commit 6804: refactor(streaming): improve code structure
+Commit 6805: docs(streaming): update documentation

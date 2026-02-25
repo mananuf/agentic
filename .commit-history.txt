@@ -1166,3 +1166,4 @@ Commit 1164: docs(healthcare): update documentation
 Commit 1165: style(healthcare): format code
 Commit 1166: docs(healthcare): update documentation
 Commit 1167: chore(healthcare): update dependencies
+Commit 1168: fix(healthcare): handle edge case

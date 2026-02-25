@@ -3573,3 +3573,4 @@ Commit 3571: feat(charity): add validation
 Commit 3572: perf(charity): optimize performance
 Commit 3573: feat(charity): add validation
 Commit 3574: test(charity): add tests
+Commit 3575: style(charity): format code

@@ -8778,3 +8778,4 @@ Commit 8776: fix(carbon): handle edge case
 Commit 8777: fix(carbon): resolve bug
 Commit 8778: fix(carbon): resolve bug
 Commit 8779: fix(carbon): handle edge case
+Commit 8780: docs(carbon): update documentation

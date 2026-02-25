@@ -6995,3 +6995,4 @@ Commit 6993: fix(streaming): handle edge case
 Commit 6994: docs(streaming): update documentation
 Commit 6995: style(streaming): format code
 Commit 6996: feat(streaming): implement new feature
+Commit 6997: fix(streaming): resolve bug

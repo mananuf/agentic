@@ -7313,3 +7313,4 @@ Commit 7311: perf(metaverse): optimize performance
 Commit 7312: refactor(metaverse): improve code structure
 Commit 7313: chore(metaverse): update dependencies
 Commit 7314: refactor(metaverse): improve code structure
+Commit 7315: refactor(metaverse): improve code structure

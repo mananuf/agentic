@@ -5075,3 +5075,4 @@ Commit 5073: fix(loyalty): resolve bug
 Commit 5074: feat(loyalty): implement new feature
 Commit 5075: perf(loyalty): optimize performance
 Commit 5076: feat(loyalty): implement new feature
+Commit 5077: feat(loyalty): add validation

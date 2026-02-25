@@ -4597,3 +4597,4 @@ Commit 4595: fix(voting): resolve bug
 Commit 4596: test(voting): add tests
 Commit 4597: test(voting): add tests
 Commit 4598: feat(voting): implement new feature
+Commit 4599: style(voting): format code

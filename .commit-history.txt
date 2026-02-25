@@ -6189,3 +6189,4 @@ Commit 6187: feat(streaming): add validation
 Commit 6188: chore(streaming): update dependencies
 Commit 6189: fix(streaming): handle edge case
 Commit 6190: docs(streaming): update documentation
+Commit 6191: fix(streaming): resolve bug

@@ -5088,3 +5088,4 @@ Commit 5086: docs(loyalty): update documentation
 Commit 5087: chore(loyalty): update dependencies
 Commit 5088: style(loyalty): format code
 Commit 5089: test(loyalty): add tests
+Commit 5090: fix(loyalty): resolve bug

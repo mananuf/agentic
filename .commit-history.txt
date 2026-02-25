@@ -1382,3 +1382,4 @@ Commit 1380: docs(healthcare): update documentation
 Commit 1381: style(healthcare): format code
 Commit 1382: docs(healthcare): update documentation
 Commit 1383: fix(healthcare): handle edge case
+Commit 1384: refactor(healthcare): improve code structure

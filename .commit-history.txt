@@ -3298,3 +3298,4 @@ Commit 3296: feat(charity): implement new feature
 Commit 3297: chore(charity): update dependencies
 Commit 3298: docs(charity): update documentation
 Commit 3299: docs(charity): update documentation
+Commit 3300: docs(charity): update documentation

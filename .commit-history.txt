@@ -4394,3 +4394,4 @@ Commit 4392: feat(voting): add validation
 Commit 4393: test(voting): add tests
 Commit 4394: test(voting): add tests
 Commit 4395: test(voting): add tests
+Commit 4396: feat(voting): add validation

@@ -4728,3 +4728,4 @@ Commit 4726: fix(voting): resolve bug
 Commit 4727: fix(voting): handle edge case
 Commit 4728: test(voting): add tests
 Commit 4729: test(voting): add tests
+Commit 4730: feat(voting): add validation

@@ -5283,3 +5283,4 @@ Commit 5281: test(loyalty): add tests
 Commit 5282: feat(loyalty): add validation
 Commit 5283: perf(loyalty): optimize performance
 Commit 5284: fix(loyalty): resolve bug
+Commit 5285: chore(loyalty): update dependencies

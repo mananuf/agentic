@@ -3757,3 +3757,4 @@ Commit 3755: fix(charity): handle edge case
 Commit 3756: perf(charity): optimize performance
 Commit 3757: fix(charity): handle edge case
 Commit 3758: style(charity): format code
+Commit 3759: docs(charity): update documentation

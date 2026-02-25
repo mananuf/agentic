@@ -6064,3 +6064,4 @@ Commit 6062: fix(streaming): handle edge case
 Commit 6063: style(streaming): format code
 Commit 6064: fix(streaming): handle edge case
 Commit 6065: perf(streaming): optimize performance
+Commit 6066: refactor(streaming): improve code structure

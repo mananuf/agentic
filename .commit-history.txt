@@ -1404,3 +1404,4 @@ Commit 1402: docs(healthcare): update documentation
 Commit 1403: test(healthcare): add tests
 Commit 1404: fix(healthcare): handle edge case
 Commit 1405: chore(healthcare): update dependencies
+Commit 1406: style(healthcare): format code

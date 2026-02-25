@@ -5747,3 +5747,4 @@ Commit 5745: feat(loyalty): add validation
 Commit 5746: refactor(loyalty): improve code structure
 Commit 5747: docs(loyalty): update documentation
 Commit 5748: style(loyalty): format code
+Commit 5749: test(loyalty): add tests

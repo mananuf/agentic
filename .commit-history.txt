@@ -18,3 +18,4 @@ Commit 16: style(ai-ml): format code
 Commit 17: refactor(ai-ml): improve code structure
 Commit 18: fix(ai-ml): handle edge case
 Commit 19: style(ai-ml): format code
+Commit 20: feat(ai-ml): add validation

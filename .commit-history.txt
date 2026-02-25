@@ -2090,3 +2090,4 @@ Commit 2088: refactor(legal): improve code structure
 Commit 2089: refactor(legal): improve code structure
 Commit 2090: perf(legal): optimize performance
 Commit 2091: perf(legal): optimize performance
+Commit 2092: style(legal): format code

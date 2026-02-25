@@ -6372,3 +6372,4 @@ Commit 6370: fix(streaming): handle edge case
 Commit 6371: test(streaming): add tests
 Commit 6372: perf(streaming): optimize performance
 Commit 6373: test(streaming): add tests
+Commit 6374: docs(streaming): update documentation

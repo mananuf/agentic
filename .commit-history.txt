@@ -5152,3 +5152,4 @@ Commit 5150: perf(loyalty): optimize performance
 Commit 5151: perf(loyalty): optimize performance
 Commit 5152: fix(loyalty): resolve bug
 Commit 5153: fix(loyalty): resolve bug
+Commit 5154: test(loyalty): add tests

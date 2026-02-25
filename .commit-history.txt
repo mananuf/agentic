@@ -7903,3 +7903,4 @@ Commit 7901: perf(metaverse): optimize performance
 Commit 7902: fix(metaverse): handle edge case
 Commit 7903: docs(metaverse): update documentation
 Commit 7904: chore(metaverse): update dependencies
+Commit 7905: style(metaverse): format code

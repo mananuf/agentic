@@ -1298,3 +1298,4 @@ Commit 1296: test(healthcare): add tests
 Commit 1297: feat(healthcare): add validation
 Commit 1298: fix(healthcare): handle edge case
 Commit 1299: test(healthcare): add tests
+Commit 1300: docs(healthcare): update documentation

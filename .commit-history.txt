@@ -6060,3 +6060,4 @@ Commit 6058: feat(streaming): add validation
 Commit 6059: feat(streaming): add validation
 Commit 6060: style(streaming): format code
 Commit 6061: style(streaming): format code
+Commit 6062: fix(streaming): handle edge case

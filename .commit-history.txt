@@ -2970,3 +2970,4 @@ Commit 2968: style(legal): format code
 Commit 2969: style(legal): format code
 Commit 2970: feat(legal): add validation
 Commit 2971: docs(legal): update documentation
+Commit 2972: refactor(legal): improve code structure

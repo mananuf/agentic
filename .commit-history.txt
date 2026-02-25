@@ -4903,3 +4903,4 @@ Commit 4901: perf(voting): optimize performance
 Commit 4902: feat(voting): add validation
 Commit 4903: feat(voting): implement new feature
 Commit 4904: fix(voting): handle edge case
+Commit 4905: refactor(voting): improve code structure

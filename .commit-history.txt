@@ -8376,3 +8376,4 @@ Commit 8374: style(carbon): format code
 Commit 8375: test(carbon): add tests
 Commit 8376: feat(carbon): add validation
 Commit 8377: docs(carbon): update documentation
+Commit 8378: fix(carbon): handle edge case

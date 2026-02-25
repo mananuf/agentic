@@ -6735,3 +6735,4 @@ Commit 6733: test(streaming): add tests
 Commit 6734: test(streaming): add tests
 Commit 6735: fix(streaming): handle edge case
 Commit 6736: perf(streaming): optimize performance
+Commit 6737: chore(streaming): update dependencies

@@ -3564,3 +3564,4 @@ Commit 3562: fix(charity): handle edge case
 Commit 3563: fix(charity): handle edge case
 Commit 3564: feat(charity): add validation
 Commit 3565: style(charity): format code
+Commit 3566: feat(charity): add validation

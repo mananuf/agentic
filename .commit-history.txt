@@ -6314,3 +6314,4 @@ Commit 6312: docs(streaming): update documentation
 Commit 6313: docs(streaming): update documentation
 Commit 6314: feat(streaming): add validation
 Commit 6315: chore(streaming): update dependencies
+Commit 6316: fix(streaming): handle edge case

@@ -7901,3 +7901,4 @@ Commit 7899: test(metaverse): add tests
 Commit 7900: test(metaverse): add tests
 Commit 7901: perf(metaverse): optimize performance
 Commit 7902: fix(metaverse): handle edge case
+Commit 7903: docs(metaverse): update documentation

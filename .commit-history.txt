@@ -4076,3 +4076,4 @@ Commit 4074: feat(voting): implement new feature
 Commit 4075: fix(voting): resolve bug
 Commit 4076: refactor(voting): improve code structure
 Commit 4077: fix(voting): resolve bug
+Commit 4078: style(voting): format code

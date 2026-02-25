@@ -6707,3 +6707,4 @@ Commit 6705: style(streaming): format code
 Commit 6706: perf(streaming): optimize performance
 Commit 6707: chore(streaming): update dependencies
 Commit 6708: fix(streaming): handle edge case
+Commit 6709: fix(streaming): resolve bug

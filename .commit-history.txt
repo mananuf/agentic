@@ -3936,3 +3936,4 @@ Commit 3934: perf(charity): optimize performance
 Commit 3935: refactor(charity): improve code structure
 Commit 3936: chore(charity): update dependencies
 Commit 3937: feat(charity): add validation
+Commit 3938: test(charity): add tests

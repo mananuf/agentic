@@ -4046,3 +4046,4 @@ Commit 4044: style(voting): format code
 Commit 4045: docs(voting): update documentation
 Commit 4046: fix(voting): resolve bug
 Commit 4047: refactor(voting): improve code structure
+Commit 4048: fix(voting): handle edge case

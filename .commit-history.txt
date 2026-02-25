@@ -4130,3 +4130,4 @@ Commit 4128: perf(voting): optimize performance
 Commit 4129: chore(voting): update dependencies
 Commit 4130: refactor(voting): improve code structure
 Commit 4131: refactor(voting): improve code structure
+Commit 4132: docs(voting): update documentation

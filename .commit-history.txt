@@ -9713,3 +9713,4 @@ Commit 9711: docs(privacy): update documentation
 Commit 9712: refactor(privacy): improve code structure
 Commit 9713: refactor(privacy): improve code structure
 Commit 9714: test(privacy): add tests
+Commit 9715: docs(privacy): update documentation

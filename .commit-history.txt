@@ -3415,3 +3415,4 @@ Commit 3413: chore(charity): update dependencies
 Commit 3414: feat(charity): implement new feature
 Commit 3415: fix(charity): handle edge case
 Commit 3416: feat(charity): implement new feature
+Commit 3417: docs(charity): update documentation

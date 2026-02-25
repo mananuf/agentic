@@ -3029,3 +3029,4 @@ Commit 3027: feat(charity): implement new feature
 Commit 3028: style(charity): format code
 Commit 3029: fix(charity): resolve bug
 Commit 3030: chore(charity): update dependencies
+Commit 3031: docs(charity): update documentation

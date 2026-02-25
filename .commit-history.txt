@@ -6601,3 +6601,4 @@ Commit 6599: fix(streaming): resolve bug
 Commit 6600: style(streaming): format code
 Commit 6601: fix(streaming): handle edge case
 Commit 6602: perf(streaming): optimize performance
+Commit 6603: feat(streaming): add validation

@@ -6426,3 +6426,4 @@ Commit 6424: perf(streaming): optimize performance
 Commit 6425: fix(streaming): handle edge case
 Commit 6426: perf(streaming): optimize performance
 Commit 6427: perf(streaming): optimize performance
+Commit 6428: style(streaming): format code

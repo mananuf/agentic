@@ -8026,3 +8026,4 @@ Commit 8024: feat(carbon): add validation
 Commit 8025: perf(carbon): optimize performance
 Commit 8026: chore(carbon): update dependencies
 Commit 8027: refactor(carbon): improve code structure
+Commit 8028: fix(carbon): handle edge case

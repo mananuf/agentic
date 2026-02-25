@@ -5467,3 +5467,4 @@ Commit 5465: refactor(loyalty): improve code structure
 Commit 5466: feat(loyalty): add validation
 Commit 5467: test(loyalty): add tests
 Commit 5468: style(loyalty): format code
+Commit 5469: refactor(loyalty): improve code structure

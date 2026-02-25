@@ -4621,3 +4621,4 @@ Commit 4619: test(voting): add tests
 Commit 4620: chore(voting): update dependencies
 Commit 4621: fix(voting): resolve bug
 Commit 4622: perf(voting): optimize performance
+Commit 4623: fix(voting): handle edge case

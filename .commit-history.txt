@@ -6992,3 +6992,4 @@ Commit 6990: fix(streaming): handle edge case
 Commit 6991: test(streaming): add tests
 Commit 6992: feat(streaming): add validation
 Commit 6993: fix(streaming): handle edge case
+Commit 6994: docs(streaming): update documentation

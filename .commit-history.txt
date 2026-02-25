@@ -4741,3 +4741,4 @@ Commit 4739: perf(voting): optimize performance
 Commit 4740: chore(voting): update dependencies
 Commit 4741: fix(voting): resolve bug
 Commit 4742: fix(voting): handle edge case
+Commit 4743: chore(voting): update dependencies

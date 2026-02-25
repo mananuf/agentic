@@ -5063,3 +5063,4 @@ Commit 5061: feat(loyalty): add validation
 Commit 5062: feat(loyalty): implement new feature
 Commit 5063: feat(loyalty): implement new feature
 Commit 5064: fix(loyalty): resolve bug
+Commit 5065: fix(loyalty): handle edge case

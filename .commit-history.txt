@@ -2369,3 +2369,4 @@ Commit 2367: fix(legal): handle edge case
 Commit 2368: chore(legal): update dependencies
 Commit 2369: chore(legal): update dependencies
 Commit 2370: refactor(legal): improve code structure
+Commit 2371: docs(legal): update documentation

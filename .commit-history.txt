@@ -5876,3 +5876,4 @@ Commit 5874: fix(loyalty): handle edge case
 Commit 5875: docs(loyalty): update documentation
 Commit 5876: feat(loyalty): add validation
 Commit 5877: feat(loyalty): add validation
+Commit 5878: style(loyalty): format code

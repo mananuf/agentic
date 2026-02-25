@@ -6056,3 +6056,4 @@ Commit 6054: chore(streaming): update dependencies
 Commit 6055: chore(streaming): update dependencies
 Commit 6056: docs(streaming): update documentation
 Commit 6057: docs(streaming): update documentation
+Commit 6058: feat(streaming): add validation

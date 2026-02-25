@@ -7846,3 +7846,4 @@ Commit 7844: docs(metaverse): update documentation
 Commit 7845: docs(metaverse): update documentation
 Commit 7846: chore(metaverse): update dependencies
 Commit 7847: chore(metaverse): update dependencies
+Commit 7848: style(metaverse): format code

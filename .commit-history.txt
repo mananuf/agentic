@@ -4648,3 +4648,4 @@ Commit 4646: feat(voting): implement new feature
 Commit 4647: test(voting): add tests
 Commit 4648: feat(voting): implement new feature
 Commit 4649: test(voting): add tests
+Commit 4650: refactor(voting): improve code structure

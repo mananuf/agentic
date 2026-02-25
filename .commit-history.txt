@@ -6709,3 +6709,4 @@ Commit 6707: chore(streaming): update dependencies
 Commit 6708: fix(streaming): handle edge case
 Commit 6709: fix(streaming): resolve bug
 Commit 6710: docs(streaming): update documentation
+Commit 6711: fix(streaming): resolve bug

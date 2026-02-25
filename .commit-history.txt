@@ -5280,3 +5280,4 @@ Commit 5278: perf(loyalty): optimize performance
 Commit 5279: perf(loyalty): optimize performance
 Commit 5280: style(loyalty): format code
 Commit 5281: test(loyalty): add tests
+Commit 5282: feat(loyalty): add validation

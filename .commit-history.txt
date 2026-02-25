@@ -3104,3 +3104,4 @@ Commit 3102: feat(charity): add validation
 Commit 3103: feat(charity): implement new feature
 Commit 3104: chore(charity): update dependencies
 Commit 3105: fix(charity): handle edge case
+Commit 3106: docs(charity): update documentation

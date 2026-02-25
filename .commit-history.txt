@@ -6754,3 +6754,4 @@ Commit 6752: refactor(streaming): improve code structure
 Commit 6753: chore(streaming): update dependencies
 Commit 6754: feat(streaming): implement new feature
 Commit 6755: style(streaming): format code
+Commit 6756: docs(streaming): update documentation

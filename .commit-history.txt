@@ -6572,3 +6572,4 @@ Commit 6570: test(streaming): add tests
 Commit 6571: feat(streaming): implement new feature
 Commit 6572: perf(streaming): optimize performance
 Commit 6573: chore(streaming): update dependencies
+Commit 6574: fix(streaming): resolve bug

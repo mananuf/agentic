@@ -5159,3 +5159,4 @@ Commit 5157: fix(loyalty): handle edge case
 Commit 5158: docs(loyalty): update documentation
 Commit 5159: fix(loyalty): handle edge case
 Commit 5160: docs(loyalty): update documentation
+Commit 5161: feat(loyalty): implement new feature

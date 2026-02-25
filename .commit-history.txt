@@ -5544,3 +5544,4 @@ Commit 5542: feat(loyalty): add validation
 Commit 5543: feat(loyalty): add validation
 Commit 5544: feat(loyalty): add validation
 Commit 5545: perf(loyalty): optimize performance
+Commit 5546: docs(loyalty): update documentation

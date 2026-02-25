@@ -4516,3 +4516,4 @@ Commit 4514: test(voting): add tests
 Commit 4515: feat(voting): add validation
 Commit 4516: fix(voting): resolve bug
 Commit 4517: refactor(voting): improve code structure
+Commit 4518: fix(voting): handle edge case

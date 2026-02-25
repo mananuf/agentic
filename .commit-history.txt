@@ -6270,3 +6270,4 @@ Commit 6268: style(streaming): format code
 Commit 6269: refactor(streaming): improve code structure
 Commit 6270: chore(streaming): update dependencies
 Commit 6271: perf(streaming): optimize performance
+Commit 6272: feat(streaming): add validation

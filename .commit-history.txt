@@ -2171,3 +2171,4 @@ Commit 2169: test(legal): add tests
 Commit 2170: refactor(legal): improve code structure
 Commit 2171: style(legal): format code
 Commit 2172: feat(legal): implement new feature
+Commit 2173: test(legal): add tests

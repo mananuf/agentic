@@ -6498,3 +6498,4 @@ Commit 6496: test(streaming): add tests
 Commit 6497: chore(streaming): update dependencies
 Commit 6498: refactor(streaming): improve code structure
 Commit 6499: feat(streaming): implement new feature
+Commit 6500: style(streaming): format code

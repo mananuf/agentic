@@ -5966,3 +5966,4 @@ Commit 5964: feat(loyalty): add validation
 Commit 5965: feat(loyalty): implement new feature
 Commit 5966: test(loyalty): add tests
 Commit 5967: test(loyalty): add tests
+Commit 5968: fix(loyalty): handle edge case

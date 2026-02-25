@@ -6037,3 +6037,4 @@ Commit 6035: test(streaming): add tests
 Commit 6036: chore(streaming): update dependencies
 Commit 6037: fix(streaming): resolve bug
 Commit 6038: refactor(streaming): improve code structure
+Commit 6039: refactor(streaming): improve code structure

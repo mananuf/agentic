@@ -5837,3 +5837,4 @@ Commit 5835: perf(loyalty): optimize performance
 Commit 5836: docs(loyalty): update documentation
 Commit 5837: perf(loyalty): optimize performance
 Commit 5838: test(loyalty): add tests
+Commit 5839: style(loyalty): format code

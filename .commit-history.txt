@@ -5823,3 +5823,4 @@ Commit 5821: test(loyalty): add tests
 Commit 5822: style(loyalty): format code
 Commit 5823: feat(loyalty): implement new feature
 Commit 5824: perf(loyalty): optimize performance
+Commit 5825: feat(loyalty): add validation

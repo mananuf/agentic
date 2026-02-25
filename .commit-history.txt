@@ -6683,3 +6683,4 @@ Commit 6681: test(streaming): add tests
 Commit 6682: test(streaming): add tests
 Commit 6683: chore(streaming): update dependencies
 Commit 6684: feat(streaming): implement new feature
+Commit 6685: fix(streaming): resolve bug

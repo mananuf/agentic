@@ -2269,3 +2269,4 @@ Commit 2267: chore(legal): update dependencies
 Commit 2268: feat(legal): implement new feature
 Commit 2269: feat(legal): add validation
 Commit 2270: test(legal): add tests
+Commit 2271: refactor(legal): improve code structure

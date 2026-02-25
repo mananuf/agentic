@@ -4711,3 +4711,4 @@ Commit 4709: fix(voting): resolve bug
 Commit 4710: test(voting): add tests
 Commit 4711: fix(voting): handle edge case
 Commit 4712: chore(voting): update dependencies
+Commit 4713: refactor(voting): improve code structure

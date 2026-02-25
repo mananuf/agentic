@@ -7130,3 +7130,4 @@ Commit 7128: test(metaverse): add tests
 Commit 7129: chore(metaverse): update dependencies
 Commit 7130: chore(metaverse): update dependencies
 Commit 7131: perf(metaverse): optimize performance
+Commit 7132: fix(metaverse): resolve bug

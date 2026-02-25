@@ -2791,3 +2791,4 @@ Commit 2789: perf(legal): optimize performance
 Commit 2790: fix(legal): handle edge case
 Commit 2791: perf(legal): optimize performance
 Commit 2792: feat(legal): implement new feature
+Commit 2793: docs(legal): update documentation

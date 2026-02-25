@@ -4561,3 +4561,4 @@ Commit 4559: docs(voting): update documentation
 Commit 4560: test(voting): add tests
 Commit 4561: feat(voting): add validation
 Commit 4562: chore(voting): update dependencies
+Commit 4563: test(voting): add tests

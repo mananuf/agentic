@@ -1786,3 +1786,4 @@ Commit 1784: feat(healthcare): add validation
 Commit 1785: style(healthcare): format code
 Commit 1786: fix(healthcare): resolve bug
 Commit 1787: fix(healthcare): handle edge case
+Commit 1788: docs(healthcare): update documentation

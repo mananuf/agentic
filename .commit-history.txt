@@ -6931,3 +6931,4 @@ Commit 6929: test(streaming): add tests
 Commit 6930: docs(streaming): update documentation
 Commit 6931: fix(streaming): handle edge case
 Commit 6932: docs(streaming): update documentation
+Commit 6933: style(streaming): format code

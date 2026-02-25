@@ -2307,3 +2307,4 @@ Commit 2305: perf(legal): optimize performance
 Commit 2306: docs(legal): update documentation
 Commit 2307: fix(legal): resolve bug
 Commit 2308: test(legal): add tests
+Commit 2309: style(legal): format code

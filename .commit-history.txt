@@ -8000,3 +8000,4 @@ Commit 7998: test(metaverse): add tests
 Commit 7999: test(metaverse): add tests
 Commit 8000: style(carbon): format code
 Commit 8001: perf(carbon): optimize performance
+Commit 8002: fix(carbon): resolve bug

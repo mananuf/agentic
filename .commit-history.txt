@@ -5743,3 +5743,4 @@ Commit 5741: docs(loyalty): update documentation
 Commit 5742: perf(loyalty): optimize performance
 Commit 5743: fix(loyalty): handle edge case
 Commit 5744: fix(loyalty): handle edge case
+Commit 5745: feat(loyalty): add validation

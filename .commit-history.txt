@@ -6787,3 +6787,4 @@ Commit 6785: perf(streaming): optimize performance
 Commit 6786: feat(streaming): implement new feature
 Commit 6787: fix(streaming): handle edge case
 Commit 6788: perf(streaming): optimize performance
+Commit 6789: test(streaming): add tests

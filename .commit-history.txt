@@ -5046,3 +5046,4 @@ Commit 5044: style(loyalty): format code
 Commit 5045: chore(loyalty): update dependencies
 Commit 5046: refactor(loyalty): improve code structure
 Commit 5047: fix(loyalty): handle edge case
+Commit 5048: feat(loyalty): add validation

@@ -3319,3 +3319,4 @@ Commit 3317: refactor(charity): improve code structure
 Commit 3318: fix(charity): handle edge case
 Commit 3319: fix(charity): handle edge case
 Commit 3320: docs(charity): update documentation
+Commit 3321: test(charity): add tests

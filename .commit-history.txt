@@ -5703,3 +5703,4 @@ Commit 5701: docs(loyalty): update documentation
 Commit 5702: test(loyalty): add tests
 Commit 5703: fix(loyalty): resolve bug
 Commit 5704: feat(loyalty): implement new feature
+Commit 5705: chore(loyalty): update dependencies

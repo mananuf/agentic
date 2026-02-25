@@ -2937,3 +2937,4 @@ Commit 2935: fix(legal): handle edge case
 Commit 2936: feat(legal): add validation
 Commit 2937: chore(legal): update dependencies
 Commit 2938: fix(legal): resolve bug
+Commit 2939: test(legal): add tests

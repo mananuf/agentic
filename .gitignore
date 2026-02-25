@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+deployment-report.json
+interaction-report.json
+.DS_Store

@@ -1,0 +1,15 @@
+{
+    "name": "march-stacks-portfolio",
+    "version": "1.0.0",
+    "description": "40 Clarity smart contracts for Stacks blockchain",
+    "scripts": {
+        "deploy": "node scripts/deploy-all.js",
+        "interact": "node scripts/interact-all.js",
+        "commits": "bash scripts/generate-commits.sh"
+    },
+    "dependencies": {
+        "@stacks/transactions": "^6.13.0",
+        "@stacks/network": "^6.13.0",
+        "dotenv": "^16.3.1"
+    }
+}

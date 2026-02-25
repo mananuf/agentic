@@ -4269,3 +4269,4 @@ Commit 4267: feat(voting): add validation
 Commit 4268: fix(voting): handle edge case
 Commit 4269: style(voting): format code
 Commit 4270: feat(voting): add validation
+Commit 4271: docs(voting): update documentation

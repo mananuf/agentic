@@ -8367,3 +8367,4 @@ Commit 8365: fix(carbon): handle edge case
 Commit 8366: fix(carbon): resolve bug
 Commit 8367: perf(carbon): optimize performance
 Commit 8368: test(carbon): add tests
+Commit 8369: docs(carbon): update documentation

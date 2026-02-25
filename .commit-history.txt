@@ -6191,3 +6191,4 @@ Commit 6189: fix(streaming): handle edge case
 Commit 6190: docs(streaming): update documentation
 Commit 6191: fix(streaming): resolve bug
 Commit 6192: feat(streaming): implement new feature
+Commit 6193: style(streaming): format code

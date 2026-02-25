@@ -3258,3 +3258,4 @@ Commit 3256: perf(charity): optimize performance
 Commit 3257: fix(charity): resolve bug
 Commit 3258: perf(charity): optimize performance
 Commit 3259: fix(charity): handle edge case
+Commit 3260: refactor(charity): improve code structure

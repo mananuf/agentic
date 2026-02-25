@@ -8553,3 +8553,4 @@ Commit 8551: chore(carbon): update dependencies
 Commit 8552: refactor(carbon): improve code structure
 Commit 8553: fix(carbon): handle edge case
 Commit 8554: refactor(carbon): improve code structure
+Commit 8555: docs(carbon): update documentation

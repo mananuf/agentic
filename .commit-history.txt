@@ -4229,3 +4229,4 @@ Commit 4227: fix(voting): resolve bug
 Commit 4228: feat(voting): add validation
 Commit 4229: style(voting): format code
 Commit 4230: test(voting): add tests
+Commit 4231: perf(voting): optimize performance

@@ -5888,3 +5888,4 @@ Commit 5886: feat(loyalty): add validation
 Commit 5887: feat(loyalty): implement new feature
 Commit 5888: fix(loyalty): resolve bug
 Commit 5889: perf(loyalty): optimize performance
+Commit 5890: chore(loyalty): update dependencies

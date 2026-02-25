@@ -6006,3 +6006,4 @@ Commit 6004: perf(streaming): optimize performance
 Commit 6005: test(streaming): add tests
 Commit 6006: chore(streaming): update dependencies
 Commit 6007: style(streaming): format code
+Commit 6008: docs(streaming): update documentation

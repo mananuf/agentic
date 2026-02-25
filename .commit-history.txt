@@ -7406,3 +7406,4 @@ Commit 7404: docs(metaverse): update documentation
 Commit 7405: fix(metaverse): resolve bug
 Commit 7406: chore(metaverse): update dependencies
 Commit 7407: feat(metaverse): add validation
+Commit 7408: style(metaverse): format code

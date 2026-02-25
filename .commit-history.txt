@@ -2631,3 +2631,4 @@ Commit 2629: fix(legal): handle edge case
 Commit 2630: feat(legal): add validation
 Commit 2631: test(legal): add tests
 Commit 2632: fix(legal): handle edge case
+Commit 2633: chore(legal): update dependencies

@@ -1726,3 +1726,4 @@ Commit 1724: test(healthcare): add tests
 Commit 1725: fix(healthcare): handle edge case
 Commit 1726: fix(healthcare): handle edge case
 Commit 1727: docs(healthcare): update documentation
+Commit 1728: chore(healthcare): update dependencies

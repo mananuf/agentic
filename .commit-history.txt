@@ -2511,3 +2511,4 @@ Commit 2509: docs(legal): update documentation
 Commit 2510: fix(legal): resolve bug
 Commit 2511: fix(legal): resolve bug
 Commit 2512: test(legal): add tests
+Commit 2513: test(legal): add tests

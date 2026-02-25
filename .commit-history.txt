@@ -4823,3 +4823,4 @@ Commit 4821: refactor(voting): improve code structure
 Commit 4822: test(voting): add tests
 Commit 4823: test(voting): add tests
 Commit 4824: fix(voting): handle edge case
+Commit 4825: feat(voting): add validation

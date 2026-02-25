@@ -2488,3 +2488,4 @@ Commit 2486: docs(legal): update documentation
 Commit 2487: perf(legal): optimize performance
 Commit 2488: docs(legal): update documentation
 Commit 2489: docs(legal): update documentation
+Commit 2490: fix(legal): handle edge case

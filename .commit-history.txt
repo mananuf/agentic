@@ -5896,3 +5896,4 @@ Commit 5894: test(loyalty): add tests
 Commit 5895: refactor(loyalty): improve code structure
 Commit 5896: style(loyalty): format code
 Commit 5897: feat(loyalty): add validation
+Commit 5898: feat(loyalty): add validation

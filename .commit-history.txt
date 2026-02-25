@@ -4116,3 +4116,4 @@ Commit 4114: chore(voting): update dependencies
 Commit 4115: fix(voting): handle edge case
 Commit 4116: fix(voting): resolve bug
 Commit 4117: feat(voting): add validation
+Commit 4118: docs(voting): update documentation

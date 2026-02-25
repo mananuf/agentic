@@ -4245,3 +4245,4 @@ Commit 4243: chore(voting): update dependencies
 Commit 4244: refactor(voting): improve code structure
 Commit 4245: chore(voting): update dependencies
 Commit 4246: test(voting): add tests
+Commit 4247: fix(voting): resolve bug

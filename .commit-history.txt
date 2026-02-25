@@ -3824,3 +3824,4 @@ Commit 3822: refactor(charity): improve code structure
 Commit 3823: refactor(charity): improve code structure
 Commit 3824: feat(charity): add validation
 Commit 3825: chore(charity): update dependencies
+Commit 3826: style(charity): format code

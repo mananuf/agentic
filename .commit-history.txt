@@ -5411,3 +5411,4 @@ Commit 5409: feat(loyalty): implement new feature
 Commit 5410: perf(loyalty): optimize performance
 Commit 5411: fix(loyalty): handle edge case
 Commit 5412: perf(loyalty): optimize performance
+Commit 5413: feat(loyalty): add validation

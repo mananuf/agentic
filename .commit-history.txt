@@ -6287,3 +6287,4 @@ Commit 6285: docs(streaming): update documentation
 Commit 6286: feat(streaming): add validation
 Commit 6287: perf(streaming): optimize performance
 Commit 6288: docs(streaming): update documentation
+Commit 6289: style(streaming): format code

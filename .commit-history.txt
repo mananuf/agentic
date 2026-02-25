@@ -7892,3 +7892,4 @@ Commit 7890: fix(metaverse): resolve bug
 Commit 7891: feat(metaverse): add validation
 Commit 7892: feat(metaverse): add validation
 Commit 7893: fix(metaverse): resolve bug
+Commit 7894: chore(metaverse): update dependencies

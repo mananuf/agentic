@@ -6450,3 +6450,4 @@ Commit 6448: test(streaming): add tests
 Commit 6449: feat(streaming): implement new feature
 Commit 6450: feat(streaming): implement new feature
 Commit 6451: fix(streaming): handle edge case
+Commit 6452: refactor(streaming): improve code structure

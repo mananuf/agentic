@@ -6071,3 +6071,4 @@ Commit 6069: style(streaming): format code
 Commit 6070: test(streaming): add tests
 Commit 6071: chore(streaming): update dependencies
 Commit 6072: docs(streaming): update documentation
+Commit 6073: refactor(streaming): improve code structure

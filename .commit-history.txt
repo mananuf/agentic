@@ -2701,3 +2701,4 @@ Commit 2699: style(legal): format code
 Commit 2700: fix(legal): resolve bug
 Commit 2701: perf(legal): optimize performance
 Commit 2702: chore(legal): update dependencies
+Commit 2703: refactor(legal): improve code structure

@@ -5340,3 +5340,4 @@ Commit 5338: test(loyalty): add tests
 Commit 5339: feat(loyalty): implement new feature
 Commit 5340: perf(loyalty): optimize performance
 Commit 5341: fix(loyalty): handle edge case
+Commit 5342: fix(loyalty): resolve bug

@@ -5335,3 +5335,4 @@ Commit 5333: chore(loyalty): update dependencies
 Commit 5334: chore(loyalty): update dependencies
 Commit 5335: feat(loyalty): implement new feature
 Commit 5336: feat(loyalty): implement new feature
+Commit 5337: fix(loyalty): resolve bug

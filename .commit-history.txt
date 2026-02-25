@@ -4368,3 +4368,4 @@ Commit 4366: chore(voting): update dependencies
 Commit 4367: docs(voting): update documentation
 Commit 4368: refactor(voting): improve code structure
 Commit 4369: feat(voting): add validation
+Commit 4370: fix(voting): resolve bug

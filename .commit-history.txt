@@ -9502,3 +9502,4 @@ Commit 9500: chore(privacy): update dependencies
 Commit 9501: perf(privacy): optimize performance
 Commit 9502: perf(privacy): optimize performance
 Commit 9503: chore(privacy): update dependencies
+Commit 9504: style(privacy): format code

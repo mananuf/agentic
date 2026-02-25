@@ -6675,3 +6675,4 @@ Commit 6673: fix(streaming): resolve bug
 Commit 6674: chore(streaming): update dependencies
 Commit 6675: test(streaming): add tests
 Commit 6676: docs(streaming): update documentation
+Commit 6677: test(streaming): add tests

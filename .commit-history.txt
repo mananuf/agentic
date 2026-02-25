@@ -5848,3 +5848,4 @@ Commit 5846: feat(loyalty): implement new feature
 Commit 5847: refactor(loyalty): improve code structure
 Commit 5848: chore(loyalty): update dependencies
 Commit 5849: docs(loyalty): update documentation
+Commit 5850: fix(loyalty): handle edge case

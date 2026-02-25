@@ -4257,3 +4257,4 @@ Commit 4255: feat(voting): implement new feature
 Commit 4256: style(voting): format code
 Commit 4257: style(voting): format code
 Commit 4258: fix(voting): handle edge case
+Commit 4259: fix(voting): resolve bug

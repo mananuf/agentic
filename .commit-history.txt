@@ -7351,3 +7351,4 @@ Commit 7349: docs(metaverse): update documentation
 Commit 7350: refactor(metaverse): improve code structure
 Commit 7351: chore(metaverse): update dependencies
 Commit 7352: chore(metaverse): update dependencies
+Commit 7353: fix(metaverse): resolve bug

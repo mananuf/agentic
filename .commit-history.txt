@@ -6858,3 +6858,4 @@ Commit 6856: refactor(streaming): improve code structure
 Commit 6857: perf(streaming): optimize performance
 Commit 6858: chore(streaming): update dependencies
 Commit 6859: refactor(streaming): improve code structure
+Commit 6860: fix(streaming): handle edge case

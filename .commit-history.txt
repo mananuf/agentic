@@ -4387,3 +4387,4 @@ Commit 4385: style(voting): format code
 Commit 4386: test(voting): add tests
 Commit 4387: perf(voting): optimize performance
 Commit 4388: docs(voting): update documentation
+Commit 4389: fix(voting): resolve bug

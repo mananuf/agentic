@@ -1976,3 +1976,4 @@ Commit 1974: chore(healthcare): update dependencies
 Commit 1975: fix(healthcare): resolve bug
 Commit 1976: refactor(healthcare): improve code structure
 Commit 1977: refactor(healthcare): improve code structure
+Commit 1978: fix(healthcare): handle edge case

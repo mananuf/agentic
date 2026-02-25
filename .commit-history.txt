@@ -2723,3 +2723,4 @@ Commit 2721: fix(legal): handle edge case
 Commit 2722: feat(legal): add validation
 Commit 2723: feat(legal): add validation
 Commit 2724: feat(legal): add validation
+Commit 2725: docs(legal): update documentation

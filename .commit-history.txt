@@ -5500,3 +5500,4 @@ Commit 5498: perf(loyalty): optimize performance
 Commit 5499: perf(loyalty): optimize performance
 Commit 5500: feat(loyalty): implement new feature
 Commit 5501: fix(loyalty): handle edge case
+Commit 5502: fix(loyalty): handle edge case

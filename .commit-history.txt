@@ -2164,3 +2164,4 @@ Commit 2162: test(legal): add tests
 Commit 2163: style(legal): format code
 Commit 2164: feat(legal): add validation
 Commit 2165: chore(legal): update dependencies
+Commit 2166: fix(legal): resolve bug

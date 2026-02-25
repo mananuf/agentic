@@ -2200,3 +2200,4 @@ Commit 2198: feat(legal): add validation
 Commit 2199: style(legal): format code
 Commit 2200: refactor(legal): improve code structure
 Commit 2201: perf(legal): optimize performance
+Commit 2202: fix(legal): resolve bug

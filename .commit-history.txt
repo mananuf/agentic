@@ -9836,3 +9836,4 @@ Commit 9834: test(privacy): add tests
 Commit 9835: test(privacy): add tests
 Commit 9836: chore(privacy): update dependencies
 Commit 9837: feat(privacy): add validation
+Commit 9838: style(privacy): format code

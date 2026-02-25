@@ -4980,3 +4980,4 @@ Commit 4978: feat(voting): implement new feature
 Commit 4979: chore(voting): update dependencies
 Commit 4980: refactor(voting): improve code structure
 Commit 4981: refactor(voting): improve code structure
+Commit 4982: test(voting): add tests

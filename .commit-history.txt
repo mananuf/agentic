@@ -4710,3 +4710,4 @@ Commit 4708: perf(voting): optimize performance
 Commit 4709: fix(voting): resolve bug
 Commit 4710: test(voting): add tests
 Commit 4711: fix(voting): handle edge case
+Commit 4712: chore(voting): update dependencies

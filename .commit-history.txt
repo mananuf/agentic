@@ -5208,3 +5208,4 @@ Commit 5206: chore(loyalty): update dependencies
 Commit 5207: docs(loyalty): update documentation
 Commit 5208: style(loyalty): format code
 Commit 5209: test(loyalty): add tests
+Commit 5210: perf(loyalty): optimize performance

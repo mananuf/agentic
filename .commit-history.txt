@@ -3884,3 +3884,4 @@ Commit 3882: fix(charity): handle edge case
 Commit 3883: refactor(charity): improve code structure
 Commit 3884: style(charity): format code
 Commit 3885: perf(charity): optimize performance
+Commit 3886: test(charity): add tests

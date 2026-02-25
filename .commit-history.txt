@@ -5593,3 +5593,4 @@ Commit 5591: test(loyalty): add tests
 Commit 5592: refactor(loyalty): improve code structure
 Commit 5593: fix(loyalty): handle edge case
 Commit 5594: feat(loyalty): add validation
+Commit 5595: chore(loyalty): update dependencies

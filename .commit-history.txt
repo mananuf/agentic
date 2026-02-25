@@ -5836,3 +5836,4 @@ Commit 5834: feat(loyalty): implement new feature
 Commit 5835: perf(loyalty): optimize performance
 Commit 5836: docs(loyalty): update documentation
 Commit 5837: perf(loyalty): optimize performance
+Commit 5838: test(loyalty): add tests

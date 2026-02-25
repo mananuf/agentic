@@ -3215,3 +3215,4 @@ Commit 3213: perf(charity): optimize performance
 Commit 3214: refactor(charity): improve code structure
 Commit 3215: perf(charity): optimize performance
 Commit 3216: refactor(charity): improve code structure
+Commit 3217: test(charity): add tests

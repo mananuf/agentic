@@ -3957,3 +3957,4 @@ Commit 3955: docs(charity): update documentation
 Commit 3956: fix(charity): resolve bug
 Commit 3957: docs(charity): update documentation
 Commit 3958: test(charity): add tests
+Commit 3959: chore(charity): update dependencies

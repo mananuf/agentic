@@ -3804,3 +3804,4 @@ Commit 3802: perf(charity): optimize performance
 Commit 3803: fix(charity): handle edge case
 Commit 3804: fix(charity): handle edge case
 Commit 3805: chore(charity): update dependencies
+Commit 3806: style(charity): format code

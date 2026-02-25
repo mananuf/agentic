@@ -8732,3 +8732,4 @@ Commit 8730: test(carbon): add tests
 Commit 8731: perf(carbon): optimize performance
 Commit 8732: perf(carbon): optimize performance
 Commit 8733: style(carbon): format code
+Commit 8734: fix(carbon): handle edge case

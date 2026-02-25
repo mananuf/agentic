@@ -4791,3 +4791,4 @@ Commit 4789: feat(voting): add validation
 Commit 4790: feat(voting): implement new feature
 Commit 4791: fix(voting): resolve bug
 Commit 4792: test(voting): add tests
+Commit 4793: docs(voting): update documentation

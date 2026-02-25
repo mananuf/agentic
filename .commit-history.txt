@@ -8507,3 +8507,4 @@ Commit 8505: refactor(carbon): improve code structure
 Commit 8506: chore(carbon): update dependencies
 Commit 8507: refactor(carbon): improve code structure
 Commit 8508: fix(carbon): handle edge case
+Commit 8509: docs(carbon): update documentation

@@ -6194,3 +6194,4 @@ Commit 6192: feat(streaming): implement new feature
 Commit 6193: style(streaming): format code
 Commit 6194: docs(streaming): update documentation
 Commit 6195: style(streaming): format code
+Commit 6196: feat(streaming): add validation

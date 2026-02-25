@@ -6884,3 +6884,4 @@ Commit 6882: test(streaming): add tests
 Commit 6883: chore(streaming): update dependencies
 Commit 6884: chore(streaming): update dependencies
 Commit 6885: refactor(streaming): improve code structure
+Commit 6886: fix(streaming): handle edge case

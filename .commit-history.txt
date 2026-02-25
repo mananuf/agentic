@@ -4298,3 +4298,4 @@ Commit 4296: fix(voting): handle edge case
 Commit 4297: fix(voting): resolve bug
 Commit 4298: feat(voting): implement new feature
 Commit 4299: perf(voting): optimize performance
+Commit 4300: chore(voting): update dependencies

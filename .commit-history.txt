@@ -6610,3 +6610,4 @@ Commit 6608: feat(streaming): implement new feature
 Commit 6609: feat(streaming): implement new feature
 Commit 6610: style(streaming): format code
 Commit 6611: feat(streaming): implement new feature
+Commit 6612: fix(streaming): handle edge case

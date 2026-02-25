@@ -4055,3 +4055,4 @@ Commit 4053: style(voting): format code
 Commit 4054: feat(voting): add validation
 Commit 4055: chore(voting): update dependencies
 Commit 4056: feat(voting): add validation
+Commit 4057: test(voting): add tests

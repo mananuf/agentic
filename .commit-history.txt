@@ -5039,3 +5039,4 @@ Commit 5037: perf(loyalty): optimize performance
 Commit 5038: test(loyalty): add tests
 Commit 5039: feat(loyalty): add validation
 Commit 5040: feat(loyalty): implement new feature
+Commit 5041: feat(loyalty): implement new feature

@@ -3663,3 +3663,4 @@ Commit 3661: perf(charity): optimize performance
 Commit 3662: feat(charity): add validation
 Commit 3663: fix(charity): handle edge case
 Commit 3664: perf(charity): optimize performance
+Commit 3665: refactor(charity): improve code structure

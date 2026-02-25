@@ -2366,3 +2366,4 @@ Commit 2364: docs(legal): update documentation
 Commit 2365: test(legal): add tests
 Commit 2366: test(legal): add tests
 Commit 2367: fix(legal): handle edge case
+Commit 2368: chore(legal): update dependencies

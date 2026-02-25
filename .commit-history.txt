@@ -7325,3 +7325,4 @@ Commit 7323: style(metaverse): format code
 Commit 7324: perf(metaverse): optimize performance
 Commit 7325: chore(metaverse): update dependencies
 Commit 7326: fix(metaverse): handle edge case
+Commit 7327: docs(metaverse): update documentation

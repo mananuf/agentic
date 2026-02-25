@@ -6394,3 +6394,4 @@ Commit 6392: chore(streaming): update dependencies
 Commit 6393: docs(streaming): update documentation
 Commit 6394: fix(streaming): handle edge case
 Commit 6395: docs(streaming): update documentation
+Commit 6396: style(streaming): format code

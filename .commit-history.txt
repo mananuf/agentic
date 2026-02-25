@@ -6743,3 +6743,4 @@ Commit 6741: feat(streaming): implement new feature
 Commit 6742: feat(streaming): add validation
 Commit 6743: style(streaming): format code
 Commit 6744: style(streaming): format code
+Commit 6745: chore(streaming): update dependencies

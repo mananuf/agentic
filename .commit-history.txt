@@ -3834,3 +3834,4 @@ Commit 3832: docs(charity): update documentation
 Commit 3833: fix(charity): handle edge case
 Commit 3834: fix(charity): resolve bug
 Commit 3835: fix(charity): handle edge case
+Commit 3836: refactor(charity): improve code structure

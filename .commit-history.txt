@@ -4011,3 +4011,4 @@ Commit 4009: style(voting): format code
 Commit 4010: feat(voting): add validation
 Commit 4011: fix(voting): handle edge case
 Commit 4012: chore(voting): update dependencies
+Commit 4013: docs(voting): update documentation

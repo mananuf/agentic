@@ -3080,3 +3080,4 @@ Commit 3078: docs(charity): update documentation
 Commit 3079: feat(charity): add validation
 Commit 3080: feat(charity): add validation
 Commit 3081: feat(charity): implement new feature
+Commit 3082: test(charity): add tests

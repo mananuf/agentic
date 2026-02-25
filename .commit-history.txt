@@ -6095,3 +6095,4 @@ Commit 6093: docs(streaming): update documentation
 Commit 6094: chore(streaming): update dependencies
 Commit 6095: style(streaming): format code
 Commit 6096: chore(streaming): update dependencies
+Commit 6097: test(streaming): add tests

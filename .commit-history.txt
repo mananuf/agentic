@@ -9741,3 +9741,4 @@ Commit 9739: fix(privacy): handle edge case
 Commit 9740: test(privacy): add tests
 Commit 9741: feat(privacy): add validation
 Commit 9742: perf(privacy): optimize performance
+Commit 9743: chore(privacy): update dependencies

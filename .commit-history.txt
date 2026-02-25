@@ -2756,3 +2756,4 @@ Commit 2754: feat(legal): add validation
 Commit 2755: style(legal): format code
 Commit 2756: fix(legal): resolve bug
 Commit 2757: docs(legal): update documentation
+Commit 2758: refactor(legal): improve code structure

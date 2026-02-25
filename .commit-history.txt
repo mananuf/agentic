@@ -6003,3 +6003,4 @@ Commit 6001: docs(streaming): update documentation
 Commit 6002: style(streaming): format code
 Commit 6003: test(streaming): add tests
 Commit 6004: perf(streaming): optimize performance
+Commit 6005: test(streaming): add tests

@@ -5591,3 +5591,4 @@ Commit 5589: fix(loyalty): handle edge case
 Commit 5590: fix(loyalty): handle edge case
 Commit 5591: test(loyalty): add tests
 Commit 5592: refactor(loyalty): improve code structure
+Commit 5593: fix(loyalty): handle edge case

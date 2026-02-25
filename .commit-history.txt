@@ -6942,3 +6942,4 @@ Commit 6940: fix(streaming): handle edge case
 Commit 6941: perf(streaming): optimize performance
 Commit 6942: fix(streaming): handle edge case
 Commit 6943: refactor(streaming): improve code structure
+Commit 6944: feat(streaming): add validation

@@ -5927,3 +5927,4 @@ Commit 5925: test(loyalty): add tests
 Commit 5926: docs(loyalty): update documentation
 Commit 5927: refactor(loyalty): improve code structure
 Commit 5928: test(loyalty): add tests
+Commit 5929: fix(loyalty): resolve bug

@@ -3420,3 +3420,4 @@ Commit 3418: test(charity): add tests
 Commit 3419: docs(charity): update documentation
 Commit 3420: feat(charity): add validation
 Commit 3421: feat(charity): add validation
+Commit 3422: test(charity): add tests

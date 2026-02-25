@@ -2479,3 +2479,4 @@ Commit 2477: feat(legal): implement new feature
 Commit 2478: feat(legal): add validation
 Commit 2479: feat(legal): add validation
 Commit 2480: feat(legal): implement new feature
+Commit 2481: test(legal): add tests

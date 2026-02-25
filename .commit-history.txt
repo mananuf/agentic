@@ -4991,3 +4991,4 @@ Commit 4989: chore(voting): update dependencies
 Commit 4990: docs(voting): update documentation
 Commit 4991: fix(voting): handle edge case
 Commit 4992: fix(voting): resolve bug
+Commit 4993: style(voting): format code

@@ -8471,3 +8471,4 @@ Commit 8469: style(carbon): format code
 Commit 8470: chore(carbon): update dependencies
 Commit 8471: style(carbon): format code
 Commit 8472: test(carbon): add tests
+Commit 8473: docs(carbon): update documentation

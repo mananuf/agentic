@@ -4859,3 +4859,4 @@ Commit 4857: feat(voting): add validation
 Commit 4858: docs(voting): update documentation
 Commit 4859: perf(voting): optimize performance
 Commit 4860: feat(voting): implement new feature
+Commit 4861: fix(voting): handle edge case

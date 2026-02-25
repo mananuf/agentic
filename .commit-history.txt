@@ -9491,3 +9491,4 @@ Commit 9489: docs(privacy): update documentation
 Commit 9490: docs(privacy): update documentation
 Commit 9491: test(privacy): add tests
 Commit 9492: fix(privacy): handle edge case
+Commit 9493: feat(privacy): add validation

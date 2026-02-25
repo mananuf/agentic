@@ -9224,3 +9224,4 @@ Commit 9222: feat(privacy): add validation
 Commit 9223: fix(privacy): handle edge case
 Commit 9224: style(privacy): format code
 Commit 9225: feat(privacy): add validation
+Commit 9226: refactor(privacy): improve code structure

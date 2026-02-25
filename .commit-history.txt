@@ -5019,3 +5019,4 @@ Commit 5017: perf(loyalty): optimize performance
 Commit 5018: refactor(loyalty): improve code structure
 Commit 5019: feat(loyalty): add validation
 Commit 5020: refactor(loyalty): improve code structure
+Commit 5021: chore(loyalty): update dependencies

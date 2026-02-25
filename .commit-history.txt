@@ -4852,3 +4852,4 @@ Commit 4850: feat(voting): implement new feature
 Commit 4851: style(voting): format code
 Commit 4852: chore(voting): update dependencies
 Commit 4853: style(voting): format code
+Commit 4854: fix(voting): resolve bug

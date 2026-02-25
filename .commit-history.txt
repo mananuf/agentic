@@ -4552,3 +4552,4 @@ Commit 4550: feat(voting): add validation
 Commit 4551: feat(voting): add validation
 Commit 4552: fix(voting): handle edge case
 Commit 4553: fix(voting): handle edge case
+Commit 4554: fix(voting): resolve bug

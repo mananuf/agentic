@@ -5419,3 +5419,4 @@ Commit 5417: feat(loyalty): add validation
 Commit 5418: perf(loyalty): optimize performance
 Commit 5419: chore(loyalty): update dependencies
 Commit 5420: chore(loyalty): update dependencies
+Commit 5421: refactor(loyalty): improve code structure

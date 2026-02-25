@@ -7565,3 +7565,4 @@ Commit 7563: fix(metaverse): handle edge case
 Commit 7564: style(metaverse): format code
 Commit 7565: style(metaverse): format code
 Commit 7566: perf(metaverse): optimize performance
+Commit 7567: fix(metaverse): handle edge case

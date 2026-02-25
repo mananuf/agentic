@@ -9771,3 +9771,4 @@ Commit 9769: fix(privacy): handle edge case
 Commit 9770: perf(privacy): optimize performance
 Commit 9771: docs(privacy): update documentation
 Commit 9772: fix(privacy): handle edge case
+Commit 9773: chore(privacy): update dependencies

@@ -3986,3 +3986,4 @@ Commit 3984: style(charity): format code
 Commit 3985: feat(charity): add validation
 Commit 3986: fix(charity): resolve bug
 Commit 3987: perf(charity): optimize performance
+Commit 3988: fix(charity): resolve bug

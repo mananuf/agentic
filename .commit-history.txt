@@ -6558,3 +6558,4 @@ Commit 6556: fix(streaming): handle edge case
 Commit 6557: feat(streaming): implement new feature
 Commit 6558: feat(streaming): implement new feature
 Commit 6559: docs(streaming): update documentation
+Commit 6560: fix(streaming): resolve bug

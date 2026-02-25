@@ -2438,3 +2438,4 @@ Commit 2436: docs(legal): update documentation
 Commit 2437: docs(legal): update documentation
 Commit 2438: feat(legal): add validation
 Commit 2439: refactor(legal): improve code structure
+Commit 2440: fix(legal): handle edge case

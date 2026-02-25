@@ -6847,3 +6847,4 @@ Commit 6845: perf(streaming): optimize performance
 Commit 6846: chore(streaming): update dependencies
 Commit 6847: fix(streaming): resolve bug
 Commit 6848: docs(streaming): update documentation
+Commit 6849: refactor(streaming): improve code structure

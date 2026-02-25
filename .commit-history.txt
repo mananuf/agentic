@@ -7895,3 +7895,4 @@ Commit 7893: fix(metaverse): resolve bug
 Commit 7894: chore(metaverse): update dependencies
 Commit 7895: fix(metaverse): handle edge case
 Commit 7896: perf(metaverse): optimize performance
+Commit 7897: style(metaverse): format code

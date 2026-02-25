@@ -4349,3 +4349,4 @@ Commit 4347: style(voting): format code
 Commit 4348: fix(voting): resolve bug
 Commit 4349: perf(voting): optimize performance
 Commit 4350: fix(voting): handle edge case
+Commit 4351: test(voting): add tests

@@ -9695,3 +9695,4 @@ Commit 9693: perf(privacy): optimize performance
 Commit 9694: feat(privacy): add validation
 Commit 9695: style(privacy): format code
 Commit 9696: feat(privacy): add validation
+Commit 9697: docs(privacy): update documentation

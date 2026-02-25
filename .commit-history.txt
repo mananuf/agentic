@@ -4421,3 +4421,4 @@ Commit 4419: feat(voting): add validation
 Commit 4420: fix(voting): handle edge case
 Commit 4421: refactor(voting): improve code structure
 Commit 4422: chore(voting): update dependencies
+Commit 4423: refactor(voting): improve code structure

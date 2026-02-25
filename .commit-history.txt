@@ -6008,3 +6008,4 @@ Commit 6006: chore(streaming): update dependencies
 Commit 6007: style(streaming): format code
 Commit 6008: docs(streaming): update documentation
 Commit 6009: style(streaming): format code
+Commit 6010: fix(streaming): handle edge case

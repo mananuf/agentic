@@ -6836,3 +6836,4 @@ Commit 6834: style(streaming): format code
 Commit 6835: fix(streaming): handle edge case
 Commit 6836: test(streaming): add tests
 Commit 6837: perf(streaming): optimize performance
+Commit 6838: refactor(streaming): improve code structure

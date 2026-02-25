@@ -5297,3 +5297,4 @@ Commit 5295: perf(loyalty): optimize performance
 Commit 5296: docs(loyalty): update documentation
 Commit 5297: chore(loyalty): update dependencies
 Commit 5298: docs(loyalty): update documentation
+Commit 5299: feat(loyalty): implement new feature

@@ -5621,3 +5621,4 @@ Commit 5619: feat(loyalty): implement new feature
 Commit 5620: chore(loyalty): update dependencies
 Commit 5621: test(loyalty): add tests
 Commit 5622: perf(loyalty): optimize performance
+Commit 5623: docs(loyalty): update documentation

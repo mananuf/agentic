@@ -2837,3 +2837,4 @@ Commit 2835: feat(legal): implement new feature
 Commit 2836: style(legal): format code
 Commit 2837: fix(legal): handle edge case
 Commit 2838: fix(legal): handle edge case
+Commit 2839: chore(legal): update dependencies

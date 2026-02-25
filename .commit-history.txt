@@ -5194,3 +5194,4 @@ Commit 5192: test(loyalty): add tests
 Commit 5193: feat(loyalty): add validation
 Commit 5194: refactor(loyalty): improve code structure
 Commit 5195: fix(loyalty): resolve bug
+Commit 5196: style(loyalty): format code

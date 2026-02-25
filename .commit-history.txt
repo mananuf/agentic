@@ -2459,3 +2459,4 @@ Commit 2457: test(legal): add tests
 Commit 2458: chore(legal): update dependencies
 Commit 2459: fix(legal): resolve bug
 Commit 2460: fix(legal): resolve bug
+Commit 2461: fix(legal): handle edge case

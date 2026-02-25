@@ -4036,3 +4036,4 @@ Commit 4034: chore(voting): update dependencies
 Commit 4035: perf(voting): optimize performance
 Commit 4036: test(voting): add tests
 Commit 4037: docs(voting): update documentation
+Commit 4038: fix(voting): handle edge case

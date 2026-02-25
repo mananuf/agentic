@@ -5886,3 +5886,4 @@ Commit 5884: test(loyalty): add tests
 Commit 5885: feat(loyalty): add validation
 Commit 5886: feat(loyalty): add validation
 Commit 5887: feat(loyalty): implement new feature
+Commit 5888: fix(loyalty): resolve bug

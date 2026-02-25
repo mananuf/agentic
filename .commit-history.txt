@@ -4837,3 +4837,4 @@ Commit 4835: test(voting): add tests
 Commit 4836: chore(voting): update dependencies
 Commit 4837: fix(voting): handle edge case
 Commit 4838: fix(voting): handle edge case
+Commit 4839: test(voting): add tests

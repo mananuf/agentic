@@ -4482,3 +4482,4 @@ Commit 4480: fix(voting): resolve bug
 Commit 4481: test(voting): add tests
 Commit 4482: chore(voting): update dependencies
 Commit 4483: docs(voting): update documentation
+Commit 4484: feat(voting): add validation

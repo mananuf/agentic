@@ -5007,3 +5007,4 @@ Commit 5005: feat(loyalty): add validation
 Commit 5006: feat(loyalty): implement new feature
 Commit 5007: feat(loyalty): implement new feature
 Commit 5008: chore(loyalty): update dependencies
+Commit 5009: docs(loyalty): update documentation

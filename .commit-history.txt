@@ -4925,3 +4925,4 @@ Commit 4923: perf(voting): optimize performance
 Commit 4924: docs(voting): update documentation
 Commit 4925: perf(voting): optimize performance
 Commit 4926: docs(voting): update documentation
+Commit 4927: docs(voting): update documentation

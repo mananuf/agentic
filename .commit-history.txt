@@ -2649,3 +2649,4 @@ Commit 2647: refactor(legal): improve code structure
 Commit 2648: fix(legal): resolve bug
 Commit 2649: fix(legal): resolve bug
 Commit 2650: refactor(legal): improve code structure
+Commit 2651: feat(legal): add validation

@@ -5288,3 +5288,4 @@ Commit 5286: feat(loyalty): add validation
 Commit 5287: perf(loyalty): optimize performance
 Commit 5288: style(loyalty): format code
 Commit 5289: fix(loyalty): handle edge case
+Commit 5290: fix(loyalty): resolve bug

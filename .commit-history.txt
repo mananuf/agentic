@@ -2801,3 +2801,4 @@ Commit 2799: feat(legal): implement new feature
 Commit 2800: docs(legal): update documentation
 Commit 2801: feat(legal): implement new feature
 Commit 2802: chore(legal): update dependencies
+Commit 2803: fix(legal): handle edge case

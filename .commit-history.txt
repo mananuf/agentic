@@ -5165,3 +5165,4 @@ Commit 5163: chore(loyalty): update dependencies
 Commit 5164: feat(loyalty): implement new feature
 Commit 5165: fix(loyalty): handle edge case
 Commit 5166: feat(loyalty): add validation
+Commit 5167: fix(loyalty): resolve bug

@@ -4333,3 +4333,4 @@ Commit 4331: perf(voting): optimize performance
 Commit 4332: fix(voting): handle edge case
 Commit 4333: feat(voting): implement new feature
 Commit 4334: feat(voting): implement new feature
+Commit 4335: feat(voting): add validation

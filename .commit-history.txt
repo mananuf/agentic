@@ -5740,3 +5740,4 @@ Commit 5738: refactor(loyalty): improve code structure
 Commit 5739: docs(loyalty): update documentation
 Commit 5740: feat(loyalty): add validation
 Commit 5741: docs(loyalty): update documentation
+Commit 5742: perf(loyalty): optimize performance

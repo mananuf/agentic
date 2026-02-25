@@ -5918,3 +5918,4 @@ Commit 5916: feat(loyalty): implement new feature
 Commit 5917: style(loyalty): format code
 Commit 5918: fix(loyalty): handle edge case
 Commit 5919: fix(loyalty): handle edge case
+Commit 5920: style(loyalty): format code

@@ -4406,3 +4406,4 @@ Commit 4404: feat(voting): implement new feature
 Commit 4405: chore(voting): update dependencies
 Commit 4406: perf(voting): optimize performance
 Commit 4407: style(voting): format code
+Commit 4408: docs(voting): update documentation

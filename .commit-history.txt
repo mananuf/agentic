@@ -3430,3 +3430,4 @@ Commit 3428: refactor(charity): improve code structure
 Commit 3429: style(charity): format code
 Commit 3430: fix(charity): handle edge case
 Commit 3431: feat(charity): implement new feature
+Commit 3432: feat(charity): add validation

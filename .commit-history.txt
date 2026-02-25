@@ -4989,3 +4989,4 @@ Commit 4987: test(voting): add tests
 Commit 4988: perf(voting): optimize performance
 Commit 4989: chore(voting): update dependencies
 Commit 4990: docs(voting): update documentation
+Commit 4991: fix(voting): handle edge case

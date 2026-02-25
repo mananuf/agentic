@@ -4356,3 +4356,4 @@ Commit 4354: feat(voting): add validation
 Commit 4355: chore(voting): update dependencies
 Commit 4356: test(voting): add tests
 Commit 4357: chore(voting): update dependencies
+Commit 4358: docs(voting): update documentation

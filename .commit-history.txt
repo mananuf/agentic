@@ -4530,3 +4530,4 @@ Commit 4528: refactor(voting): improve code structure
 Commit 4529: style(voting): format code
 Commit 4530: feat(voting): add validation
 Commit 4531: refactor(voting): improve code structure
+Commit 4532: test(voting): add tests

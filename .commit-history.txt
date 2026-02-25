@@ -8178,3 +8178,4 @@ Commit 8176: test(carbon): add tests
 Commit 8177: feat(carbon): add validation
 Commit 8178: feat(carbon): add validation
 Commit 8179: test(carbon): add tests
+Commit 8180: refactor(carbon): improve code structure

@@ -5853,3 +5853,4 @@ Commit 5851: style(loyalty): format code
 Commit 5852: feat(loyalty): add validation
 Commit 5853: perf(loyalty): optimize performance
 Commit 5854: test(loyalty): add tests
+Commit 5855: fix(loyalty): resolve bug

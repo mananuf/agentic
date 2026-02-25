@@ -4303,3 +4303,4 @@ Commit 4301: perf(voting): optimize performance
 Commit 4302: style(voting): format code
 Commit 4303: chore(voting): update dependencies
 Commit 4304: feat(voting): implement new feature
+Commit 4305: style(voting): format code

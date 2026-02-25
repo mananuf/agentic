@@ -4765,3 +4765,4 @@ Commit 4763: feat(voting): implement new feature
 Commit 4764: test(voting): add tests
 Commit 4765: fix(voting): handle edge case
 Commit 4766: style(voting): format code
+Commit 4767: chore(voting): update dependencies

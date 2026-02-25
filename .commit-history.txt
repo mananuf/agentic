@@ -6494,3 +6494,4 @@ Commit 6492: chore(streaming): update dependencies
 Commit 6493: fix(streaming): handle edge case
 Commit 6494: chore(streaming): update dependencies
 Commit 6495: fix(streaming): handle edge case
+Commit 6496: test(streaming): add tests

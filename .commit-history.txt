@@ -5399,3 +5399,4 @@ Commit 5397: chore(loyalty): update dependencies
 Commit 5398: test(loyalty): add tests
 Commit 5399: test(loyalty): add tests
 Commit 5400: style(loyalty): format code
+Commit 5401: feat(loyalty): implement new feature

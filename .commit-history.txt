@@ -2591,3 +2591,4 @@ Commit 2589: docs(legal): update documentation
 Commit 2590: fix(legal): handle edge case
 Commit 2591: test(legal): add tests
 Commit 2592: docs(legal): update documentation
+Commit 2593: feat(legal): add validation

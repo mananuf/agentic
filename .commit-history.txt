@@ -4523,3 +4523,4 @@ Commit 4521: style(voting): format code
 Commit 4522: refactor(voting): improve code structure
 Commit 4523: fix(voting): resolve bug
 Commit 4524: fix(voting): resolve bug
+Commit 4525: refactor(voting): improve code structure

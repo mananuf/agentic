@@ -5095,3 +5095,4 @@ Commit 5093: test(loyalty): add tests
 Commit 5094: test(loyalty): add tests
 Commit 5095: chore(loyalty): update dependencies
 Commit 5096: feat(loyalty): implement new feature
+Commit 5097: feat(loyalty): implement new feature

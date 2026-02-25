@@ -4760,3 +4760,4 @@ Commit 4758: chore(voting): update dependencies
 Commit 4759: fix(voting): resolve bug
 Commit 4760: fix(voting): handle edge case
 Commit 4761: test(voting): add tests
+Commit 4762: feat(voting): add validation

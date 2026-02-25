@@ -6592,3 +6592,4 @@ Commit 6590: fix(streaming): handle edge case
 Commit 6591: fix(streaming): handle edge case
 Commit 6592: chore(streaming): update dependencies
 Commit 6593: fix(streaming): handle edge case
+Commit 6594: perf(streaming): optimize performance

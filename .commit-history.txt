@@ -6985,3 +6985,4 @@ Commit 6983: chore(streaming): update dependencies
 Commit 6984: style(streaming): format code
 Commit 6985: feat(streaming): implement new feature
 Commit 6986: feat(streaming): add validation
+Commit 6987: docs(streaming): update documentation

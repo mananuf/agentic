@@ -1574,3 +1574,4 @@ Commit 1572: fix(healthcare): resolve bug
 Commit 1573: fix(healthcare): resolve bug
 Commit 1574: style(healthcare): format code
 Commit 1575: refactor(healthcare): improve code structure
+Commit 1576: fix(healthcare): handle edge case

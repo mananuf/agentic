@@ -7707,3 +7707,4 @@ Commit 7705: refactor(metaverse): improve code structure
 Commit 7706: refactor(metaverse): improve code structure
 Commit 7707: perf(metaverse): optimize performance
 Commit 7708: docs(metaverse): update documentation
+Commit 7709: fix(metaverse): handle edge case

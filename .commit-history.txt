@@ -5186,3 +5186,4 @@ Commit 5184: test(loyalty): add tests
 Commit 5185: feat(loyalty): implement new feature
 Commit 5186: fix(loyalty): handle edge case
 Commit 5187: fix(loyalty): handle edge case
+Commit 5188: test(loyalty): add tests

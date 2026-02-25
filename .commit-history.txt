@@ -4415,3 +4415,4 @@ Commit 4413: test(voting): add tests
 Commit 4414: fix(voting): handle edge case
 Commit 4415: fix(voting): resolve bug
 Commit 4416: feat(voting): add validation
+Commit 4417: docs(voting): update documentation

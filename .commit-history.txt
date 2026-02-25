@@ -6248,3 +6248,4 @@ Commit 6246: feat(streaming): implement new feature
 Commit 6247: chore(streaming): update dependencies
 Commit 6248: fix(streaming): handle edge case
 Commit 6249: feat(streaming): add validation
+Commit 6250: fix(streaming): handle edge case

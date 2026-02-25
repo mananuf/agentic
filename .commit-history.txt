@@ -2386,3 +2386,4 @@ Commit 2384: feat(legal): implement new feature
 Commit 2385: feat(legal): add validation
 Commit 2386: fix(legal): handle edge case
 Commit 2387: perf(legal): optimize performance
+Commit 2388: test(legal): add tests

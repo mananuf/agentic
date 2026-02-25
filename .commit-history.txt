@@ -5726,3 +5726,4 @@ Commit 5724: docs(loyalty): update documentation
 Commit 5725: fix(loyalty): resolve bug
 Commit 5726: feat(loyalty): add validation
 Commit 5727: perf(loyalty): optimize performance
+Commit 5728: feat(loyalty): add validation

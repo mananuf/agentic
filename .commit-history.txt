@@ -6745,3 +6745,4 @@ Commit 6743: style(streaming): format code
 Commit 6744: style(streaming): format code
 Commit 6745: chore(streaming): update dependencies
 Commit 6746: style(streaming): format code
+Commit 6747: fix(streaming): handle edge case

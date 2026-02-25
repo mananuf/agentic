@@ -3447,3 +3447,4 @@ Commit 3445: docs(charity): update documentation
 Commit 3446: refactor(charity): improve code structure
 Commit 3447: refactor(charity): improve code structure
 Commit 3448: feat(charity): add validation
+Commit 3449: test(charity): add tests

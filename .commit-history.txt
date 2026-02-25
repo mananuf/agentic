@@ -2948,3 +2948,4 @@ Commit 2946: fix(legal): resolve bug
 Commit 2947: chore(legal): update dependencies
 Commit 2948: style(legal): format code
 Commit 2949: feat(legal): add validation
+Commit 2950: feat(legal): add validation

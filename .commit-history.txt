@@ -5706,3 +5706,4 @@ Commit 5704: feat(loyalty): implement new feature
 Commit 5705: chore(loyalty): update dependencies
 Commit 5706: style(loyalty): format code
 Commit 5707: chore(loyalty): update dependencies
+Commit 5708: docs(loyalty): update documentation

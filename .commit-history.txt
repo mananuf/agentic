@@ -6770,3 +6770,4 @@ Commit 6768: docs(streaming): update documentation
 Commit 6769: docs(streaming): update documentation
 Commit 6770: test(streaming): add tests
 Commit 6771: feat(streaming): implement new feature
+Commit 6772: fix(streaming): resolve bug

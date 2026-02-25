@@ -5900,3 +5900,4 @@ Commit 5898: feat(loyalty): add validation
 Commit 5899: perf(loyalty): optimize performance
 Commit 5900: perf(loyalty): optimize performance
 Commit 5901: feat(loyalty): add validation
+Commit 5902: fix(loyalty): resolve bug

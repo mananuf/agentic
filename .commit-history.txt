@@ -4775,3 +4775,4 @@ Commit 4773: chore(voting): update dependencies
 Commit 4774: refactor(voting): improve code structure
 Commit 4775: chore(voting): update dependencies
 Commit 4776: docs(voting): update documentation
+Commit 4777: refactor(voting): improve code structure

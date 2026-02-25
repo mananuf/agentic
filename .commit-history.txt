@@ -2572,3 +2572,4 @@ Commit 2570: refactor(legal): improve code structure
 Commit 2571: feat(legal): implement new feature
 Commit 2572: feat(legal): add validation
 Commit 2573: docs(legal): update documentation
+Commit 2574: chore(legal): update dependencies

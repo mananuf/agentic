@@ -5312,3 +5312,4 @@ Commit 5310: refactor(loyalty): improve code structure
 Commit 5311: refactor(loyalty): improve code structure
 Commit 5312: docs(loyalty): update documentation
 Commit 5313: feat(loyalty): implement new feature
+Commit 5314: perf(loyalty): optimize performance

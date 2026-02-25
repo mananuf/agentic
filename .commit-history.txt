@@ -3799,3 +3799,4 @@ Commit 3797: feat(charity): implement new feature
 Commit 3798: feat(charity): implement new feature
 Commit 3799: fix(charity): resolve bug
 Commit 3800: refactor(charity): improve code structure
+Commit 3801: style(charity): format code

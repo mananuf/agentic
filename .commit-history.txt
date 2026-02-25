@@ -2638,3 +2638,4 @@ Commit 2636: fix(legal): resolve bug
 Commit 2637: fix(legal): handle edge case
 Commit 2638: fix(legal): resolve bug
 Commit 2639: fix(legal): resolve bug
+Commit 2640: feat(legal): add validation

@@ -3959,3 +3959,4 @@ Commit 3957: docs(charity): update documentation
 Commit 3958: test(charity): add tests
 Commit 3959: chore(charity): update dependencies
 Commit 3960: feat(charity): add validation
+Commit 3961: docs(charity): update documentation

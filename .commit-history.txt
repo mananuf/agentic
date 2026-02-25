@@ -4418,3 +4418,4 @@ Commit 4416: feat(voting): add validation
 Commit 4417: docs(voting): update documentation
 Commit 4418: fix(voting): resolve bug
 Commit 4419: feat(voting): add validation
+Commit 4420: fix(voting): handle edge case

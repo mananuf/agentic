@@ -1255,3 +1255,4 @@ Commit 1253: feat(healthcare): implement new feature
 Commit 1254: chore(healthcare): update dependencies
 Commit 1255: fix(healthcare): resolve bug
 Commit 1256: chore(healthcare): update dependencies
+Commit 1257: docs(healthcare): update documentation

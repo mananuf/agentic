@@ -9704,3 +9704,4 @@ Commit 9702: refactor(privacy): improve code structure
 Commit 9703: style(privacy): format code
 Commit 9704: style(privacy): format code
 Commit 9705: feat(privacy): add validation
+Commit 9706: fix(privacy): handle edge case

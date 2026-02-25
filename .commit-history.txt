@@ -5397,3 +5397,4 @@ Commit 5395: perf(loyalty): optimize performance
 Commit 5396: feat(loyalty): implement new feature
 Commit 5397: chore(loyalty): update dependencies
 Commit 5398: test(loyalty): add tests
+Commit 5399: test(loyalty): add tests

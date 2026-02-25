@@ -5850,3 +5850,4 @@ Commit 5848: chore(loyalty): update dependencies
 Commit 5849: docs(loyalty): update documentation
 Commit 5850: fix(loyalty): handle edge case
 Commit 5851: style(loyalty): format code
+Commit 5852: feat(loyalty): add validation

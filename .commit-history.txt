@@ -5258,3 +5258,4 @@ Commit 5256: docs(loyalty): update documentation
 Commit 5257: chore(loyalty): update dependencies
 Commit 5258: docs(loyalty): update documentation
 Commit 5259: docs(loyalty): update documentation
+Commit 5260: fix(loyalty): resolve bug

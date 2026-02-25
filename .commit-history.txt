@@ -5692,3 +5692,4 @@ Commit 5690: perf(loyalty): optimize performance
 Commit 5691: refactor(loyalty): improve code structure
 Commit 5692: fix(loyalty): handle edge case
 Commit 5693: test(loyalty): add tests
+Commit 5694: style(loyalty): format code

@@ -4669,3 +4669,4 @@ Commit 4667: style(voting): format code
 Commit 4668: fix(voting): resolve bug
 Commit 4669: perf(voting): optimize performance
 Commit 4670: style(voting): format code
+Commit 4671: fix(voting): handle edge case

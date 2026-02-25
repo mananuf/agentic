@@ -5384,3 +5384,4 @@ Commit 5382: feat(loyalty): add validation
 Commit 5383: fix(loyalty): handle edge case
 Commit 5384: chore(loyalty): update dependencies
 Commit 5385: chore(loyalty): update dependencies
+Commit 5386: test(loyalty): add tests

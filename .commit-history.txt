@@ -5815,3 +5815,4 @@ Commit 5813: chore(loyalty): update dependencies
 Commit 5814: feat(loyalty): add validation
 Commit 5815: feat(loyalty): add validation
 Commit 5816: docs(loyalty): update documentation
+Commit 5817: perf(loyalty): optimize performance

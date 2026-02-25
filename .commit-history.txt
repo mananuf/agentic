@@ -4520,3 +4520,4 @@ Commit 4518: fix(voting): handle edge case
 Commit 4519: style(voting): format code
 Commit 4520: refactor(voting): improve code structure
 Commit 4521: style(voting): format code
+Commit 4522: refactor(voting): improve code structure

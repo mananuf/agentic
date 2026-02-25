@@ -5869,3 +5869,4 @@ Commit 5867: test(loyalty): add tests
 Commit 5868: feat(loyalty): add validation
 Commit 5869: style(loyalty): format code
 Commit 5870: feat(loyalty): add validation
+Commit 5871: feat(loyalty): implement new feature

@@ -9572,3 +9572,4 @@ Commit 9570: refactor(privacy): improve code structure
 Commit 9571: fix(privacy): resolve bug
 Commit 9572: refactor(privacy): improve code structure
 Commit 9573: style(privacy): format code
+Commit 9574: fix(privacy): handle edge case

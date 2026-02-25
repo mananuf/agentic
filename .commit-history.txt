@@ -3747,3 +3747,4 @@ Commit 3745: chore(charity): update dependencies
 Commit 3746: feat(charity): add validation
 Commit 3747: feat(charity): implement new feature
 Commit 3748: test(charity): add tests
+Commit 3749: refactor(charity): improve code structure

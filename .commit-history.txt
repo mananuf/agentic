@@ -7255,3 +7255,4 @@ Commit 7253: chore(metaverse): update dependencies
 Commit 7254: refactor(metaverse): improve code structure
 Commit 7255: feat(metaverse): implement new feature
 Commit 7256: chore(metaverse): update dependencies
+Commit 7257: fix(metaverse): handle edge case

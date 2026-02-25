@@ -5997,3 +5997,4 @@ Commit 5995: fix(loyalty): resolve bug
 Commit 5996: style(loyalty): format code
 Commit 5997: docs(loyalty): update documentation
 Commit 5998: docs(loyalty): update documentation
+Commit 5999: perf(loyalty): optimize performance

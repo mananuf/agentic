@@ -1588,3 +1588,4 @@ Commit 1586: test(healthcare): add tests
 Commit 1587: docs(healthcare): update documentation
 Commit 1588: fix(healthcare): handle edge case
 Commit 1589: fix(healthcare): resolve bug
+Commit 1590: style(healthcare): format code

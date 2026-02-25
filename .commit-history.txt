@@ -5518,3 +5518,4 @@ Commit 5516: fix(loyalty): handle edge case
 Commit 5517: style(loyalty): format code
 Commit 5518: fix(loyalty): resolve bug
 Commit 5519: perf(loyalty): optimize performance
+Commit 5520: perf(loyalty): optimize performance

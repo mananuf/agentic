@@ -4601,3 +4601,4 @@ Commit 4599: style(voting): format code
 Commit 4600: perf(voting): optimize performance
 Commit 4601: feat(voting): implement new feature
 Commit 4602: test(voting): add tests
+Commit 4603: fix(voting): handle edge case

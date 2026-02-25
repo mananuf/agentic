@@ -4585,3 +4585,4 @@ Commit 4583: fix(voting): resolve bug
 Commit 4584: docs(voting): update documentation
 Commit 4585: chore(voting): update dependencies
 Commit 4586: style(voting): format code
+Commit 4587: chore(voting): update dependencies

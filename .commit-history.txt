@@ -2297,3 +2297,4 @@ Commit 2295: docs(legal): update documentation
 Commit 2296: refactor(legal): improve code structure
 Commit 2297: test(legal): add tests
 Commit 2298: perf(legal): optimize performance
+Commit 2299: test(legal): add tests

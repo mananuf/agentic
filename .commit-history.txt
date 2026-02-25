@@ -2350,3 +2350,4 @@ Commit 2348: perf(legal): optimize performance
 Commit 2349: perf(legal): optimize performance
 Commit 2350: docs(legal): update documentation
 Commit 2351: style(legal): format code
+Commit 2352: refactor(legal): improve code structure

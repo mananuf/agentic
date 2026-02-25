@@ -7858,3 +7858,4 @@ Commit 7856: perf(metaverse): optimize performance
 Commit 7857: perf(metaverse): optimize performance
 Commit 7858: refactor(metaverse): improve code structure
 Commit 7859: feat(metaverse): add validation
+Commit 7860: docs(metaverse): update documentation

@@ -4985,3 +4985,4 @@ Commit 4983: test(voting): add tests
 Commit 4984: docs(voting): update documentation
 Commit 4985: feat(voting): implement new feature
 Commit 4986: fix(voting): handle edge case
+Commit 4987: test(voting): add tests

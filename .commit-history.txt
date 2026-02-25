@@ -6658,3 +6658,4 @@ Commit 6656: test(streaming): add tests
 Commit 6657: chore(streaming): update dependencies
 Commit 6658: fix(streaming): resolve bug
 Commit 6659: style(streaming): format code
+Commit 6660: feat(streaming): add validation

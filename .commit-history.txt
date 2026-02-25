@@ -4923,3 +4923,4 @@ Commit 4921: fix(voting): handle edge case
 Commit 4922: chore(voting): update dependencies
 Commit 4923: perf(voting): optimize performance
 Commit 4924: docs(voting): update documentation
+Commit 4925: perf(voting): optimize performance

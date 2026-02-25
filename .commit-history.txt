@@ -5777,3 +5777,4 @@ Commit 5775: refactor(loyalty): improve code structure
 Commit 5776: chore(loyalty): update dependencies
 Commit 5777: perf(loyalty): optimize performance
 Commit 5778: refactor(loyalty): improve code structure
+Commit 5779: fix(loyalty): handle edge case

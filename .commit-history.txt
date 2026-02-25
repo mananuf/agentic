@@ -5769,3 +5769,4 @@ Commit 5767: feat(loyalty): add validation
 Commit 5768: refactor(loyalty): improve code structure
 Commit 5769: refactor(loyalty): improve code structure
 Commit 5770: test(loyalty): add tests
+Commit 5771: feat(loyalty): implement new feature

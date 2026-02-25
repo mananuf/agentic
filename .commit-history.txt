@@ -1026,3 +1026,4 @@ Commit 1024: perf(healthcare): optimize performance
 Commit 1025: chore(healthcare): update dependencies
 Commit 1026: style(healthcare): format code
 Commit 1027: fix(healthcare): handle edge case
+Commit 1028: refactor(healthcare): improve code structure

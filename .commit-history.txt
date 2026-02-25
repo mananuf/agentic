@@ -2585,3 +2585,4 @@ Commit 2583: test(legal): add tests
 Commit 2584: chore(legal): update dependencies
 Commit 2585: feat(legal): add validation
 Commit 2586: feat(legal): add validation
+Commit 2587: fix(legal): resolve bug

@@ -6724,3 +6724,4 @@ Commit 6722: refactor(streaming): improve code structure
 Commit 6723: fix(streaming): handle edge case
 Commit 6724: style(streaming): format code
 Commit 6725: perf(streaming): optimize performance
+Commit 6726: fix(streaming): resolve bug

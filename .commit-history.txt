@@ -2443,3 +2443,4 @@ Commit 2441: fix(legal): handle edge case
 Commit 2442: style(legal): format code
 Commit 2443: chore(legal): update dependencies
 Commit 2444: fix(legal): handle edge case
+Commit 2445: refactor(legal): improve code structure

@@ -9527,3 +9527,4 @@ Commit 9525: docs(privacy): update documentation
 Commit 9526: test(privacy): add tests
 Commit 9527: docs(privacy): update documentation
 Commit 9528: feat(privacy): implement new feature
+Commit 9529: style(privacy): format code

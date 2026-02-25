@@ -5985,3 +5985,4 @@ Commit 5983: style(loyalty): format code
 Commit 5984: chore(loyalty): update dependencies
 Commit 5985: feat(loyalty): implement new feature
 Commit 5986: fix(loyalty): handle edge case
+Commit 5987: fix(loyalty): resolve bug

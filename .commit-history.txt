@@ -4993,3 +4993,4 @@ Commit 4991: fix(voting): handle edge case
 Commit 4992: fix(voting): resolve bug
 Commit 4993: style(voting): format code
 Commit 4994: test(voting): add tests
+Commit 4995: perf(voting): optimize performance

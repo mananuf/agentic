@@ -3826,3 +3826,4 @@ Commit 3824: feat(charity): add validation
 Commit 3825: chore(charity): update dependencies
 Commit 3826: style(charity): format code
 Commit 3827: chore(charity): update dependencies
+Commit 3828: test(charity): add tests

@@ -5440,3 +5440,4 @@ Commit 5438: docs(loyalty): update documentation
 Commit 5439: feat(loyalty): add validation
 Commit 5440: feat(loyalty): implement new feature
 Commit 5441: fix(loyalty): handle edge case
+Commit 5442: style(loyalty): format code

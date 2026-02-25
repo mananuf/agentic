@@ -4862,3 +4862,4 @@ Commit 4860: feat(voting): implement new feature
 Commit 4861: fix(voting): handle edge case
 Commit 4862: perf(voting): optimize performance
 Commit 4863: perf(voting): optimize performance
+Commit 4864: chore(voting): update dependencies

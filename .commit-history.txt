@@ -5694,3 +5694,4 @@ Commit 5692: fix(loyalty): handle edge case
 Commit 5693: test(loyalty): add tests
 Commit 5694: style(loyalty): format code
 Commit 5695: feat(loyalty): add validation
+Commit 5696: refactor(loyalty): improve code structure

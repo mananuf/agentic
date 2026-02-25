@@ -8952,3 +8952,4 @@ Commit 8950: feat(carbon): implement new feature
 Commit 8951: fix(carbon): resolve bug
 Commit 8952: test(carbon): add tests
 Commit 8953: docs(carbon): update documentation
+Commit 8954: chore(carbon): update dependencies

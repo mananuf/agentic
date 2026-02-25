@@ -5935,3 +5935,4 @@ Commit 5933: perf(loyalty): optimize performance
 Commit 5934: perf(loyalty): optimize performance
 Commit 5935: style(loyalty): format code
 Commit 5936: feat(loyalty): implement new feature
+Commit 5937: feat(loyalty): add validation

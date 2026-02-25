@@ -9375,3 +9375,4 @@ Commit 9373: feat(privacy): add validation
 Commit 9374: style(privacy): format code
 Commit 9375: fix(privacy): resolve bug
 Commit 9376: docs(privacy): update documentation
+Commit 9377: test(privacy): add tests

@@ -5990,3 +5990,4 @@ Commit 5988: test(loyalty): add tests
 Commit 5989: chore(loyalty): update dependencies
 Commit 5990: refactor(loyalty): improve code structure
 Commit 5991: style(loyalty): format code
+Commit 5992: refactor(loyalty): improve code structure

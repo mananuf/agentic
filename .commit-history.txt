@@ -7169,3 +7169,4 @@ Commit 7167: style(metaverse): format code
 Commit 7168: style(metaverse): format code
 Commit 7169: perf(metaverse): optimize performance
 Commit 7170: chore(metaverse): update dependencies
+Commit 7171: refactor(metaverse): improve code structure

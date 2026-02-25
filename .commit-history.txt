@@ -7598,3 +7598,4 @@ Commit 7596: chore(metaverse): update dependencies
 Commit 7597: chore(metaverse): update dependencies
 Commit 7598: style(metaverse): format code
 Commit 7599: refactor(metaverse): improve code structure
+Commit 7600: docs(metaverse): update documentation

@@ -5214,3 +5214,4 @@ Commit 5212: docs(loyalty): update documentation
 Commit 5213: fix(loyalty): handle edge case
 Commit 5214: docs(loyalty): update documentation
 Commit 5215: perf(loyalty): optimize performance
+Commit 5216: fix(loyalty): handle edge case

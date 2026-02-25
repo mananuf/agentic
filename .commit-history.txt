@@ -5583,3 +5583,4 @@ Commit 5581: chore(loyalty): update dependencies
 Commit 5582: test(loyalty): add tests
 Commit 5583: fix(loyalty): handle edge case
 Commit 5584: docs(loyalty): update documentation
+Commit 5585: docs(loyalty): update documentation

@@ -8993,3 +8993,4 @@ Commit 8991: perf(carbon): optimize performance
 Commit 8992: fix(carbon): handle edge case
 Commit 8993: perf(carbon): optimize performance
 Commit 8994: feat(carbon): add validation
+Commit 8995: chore(carbon): update dependencies

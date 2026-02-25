@@ -6350,3 +6350,4 @@ Commit 6348: test(streaming): add tests
 Commit 6349: fix(streaming): handle edge case
 Commit 6350: feat(streaming): implement new feature
 Commit 6351: docs(streaming): update documentation
+Commit 6352: refactor(streaming): improve code structure

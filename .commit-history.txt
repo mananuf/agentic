@@ -5945,3 +5945,4 @@ Commit 5943: feat(loyalty): implement new feature
 Commit 5944: feat(loyalty): implement new feature
 Commit 5945: test(loyalty): add tests
 Commit 5946: fix(loyalty): resolve bug
+Commit 5947: feat(loyalty): add validation

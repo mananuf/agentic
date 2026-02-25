@@ -4104,3 +4104,4 @@ Commit 4102: refactor(voting): improve code structure
 Commit 4103: fix(voting): handle edge case
 Commit 4104: test(voting): add tests
 Commit 4105: perf(voting): optimize performance
+Commit 4106: fix(voting): handle edge case

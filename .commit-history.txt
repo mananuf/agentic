@@ -4212,3 +4212,4 @@ Commit 4210: fix(voting): resolve bug
 Commit 4211: feat(voting): implement new feature
 Commit 4212: test(voting): add tests
 Commit 4213: perf(voting): optimize performance
+Commit 4214: fix(voting): handle edge case

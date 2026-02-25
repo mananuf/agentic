@@ -6561,3 +6561,4 @@ Commit 6559: docs(streaming): update documentation
 Commit 6560: fix(streaming): resolve bug
 Commit 6561: style(streaming): format code
 Commit 6562: chore(streaming): update dependencies
+Commit 6563: test(streaming): add tests

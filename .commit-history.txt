@@ -6932,3 +6932,4 @@ Commit 6930: docs(streaming): update documentation
 Commit 6931: fix(streaming): handle edge case
 Commit 6932: docs(streaming): update documentation
 Commit 6933: style(streaming): format code
+Commit 6934: fix(streaming): handle edge case

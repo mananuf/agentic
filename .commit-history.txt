@@ -7398,3 +7398,4 @@ Commit 7396: perf(metaverse): optimize performance
 Commit 7397: feat(metaverse): add validation
 Commit 7398: feat(metaverse): add validation
 Commit 7399: test(metaverse): add tests
+Commit 7400: fix(metaverse): handle edge case

@@ -3515,3 +3515,4 @@ Commit 3513: test(charity): add tests
 Commit 3514: fix(charity): resolve bug
 Commit 3515: test(charity): add tests
 Commit 3516: chore(charity): update dependencies
+Commit 3517: refactor(charity): improve code structure

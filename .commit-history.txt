@@ -2601,3 +2601,4 @@ Commit 2599: docs(legal): update documentation
 Commit 2600: perf(legal): optimize performance
 Commit 2601: chore(legal): update dependencies
 Commit 2602: style(legal): format code
+Commit 2603: refactor(legal): improve code structure

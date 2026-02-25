@@ -2517,3 +2517,4 @@ Commit 2515: style(legal): format code
 Commit 2516: style(legal): format code
 Commit 2517: test(legal): add tests
 Commit 2518: feat(legal): add validation
+Commit 2519: docs(legal): update documentation

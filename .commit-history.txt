@@ -5659,3 +5659,4 @@ Commit 5657: chore(loyalty): update dependencies
 Commit 5658: refactor(loyalty): improve code structure
 Commit 5659: feat(loyalty): add validation
 Commit 5660: test(loyalty): add tests
+Commit 5661: style(loyalty): format code

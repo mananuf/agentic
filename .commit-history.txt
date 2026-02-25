@@ -1896,3 +1896,4 @@ Commit 1894: fix(healthcare): resolve bug
 Commit 1895: feat(healthcare): add validation
 Commit 1896: fix(healthcare): resolve bug
 Commit 1897: fix(healthcare): resolve bug
+Commit 1898: refactor(healthcare): improve code structure

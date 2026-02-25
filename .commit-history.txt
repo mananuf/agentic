@@ -6478,3 +6478,4 @@ Commit 6476: fix(streaming): handle edge case
 Commit 6477: feat(streaming): add validation
 Commit 6478: docs(streaming): update documentation
 Commit 6479: fix(streaming): resolve bug
+Commit 6480: fix(streaming): handle edge case

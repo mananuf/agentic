@@ -9711,3 +9711,4 @@ Commit 9709: fix(privacy): handle edge case
 Commit 9710: feat(privacy): add validation
 Commit 9711: docs(privacy): update documentation
 Commit 9712: refactor(privacy): improve code structure
+Commit 9713: refactor(privacy): improve code structure

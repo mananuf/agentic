@@ -4674,3 +4674,4 @@ Commit 4672: style(voting): format code
 Commit 4673: style(voting): format code
 Commit 4674: perf(voting): optimize performance
 Commit 4675: chore(voting): update dependencies
+Commit 4676: fix(voting): resolve bug

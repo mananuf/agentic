@@ -4715,3 +4715,4 @@ Commit 4713: refactor(voting): improve code structure
 Commit 4714: fix(voting): resolve bug
 Commit 4715: feat(voting): implement new feature
 Commit 4716: feat(voting): implement new feature
+Commit 4717: perf(voting): optimize performance

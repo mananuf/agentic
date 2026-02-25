@@ -4447,3 +4447,4 @@ Commit 4445: docs(voting): update documentation
 Commit 4446: feat(voting): implement new feature
 Commit 4447: fix(voting): resolve bug
 Commit 4448: feat(voting): add validation
+Commit 4449: fix(voting): resolve bug

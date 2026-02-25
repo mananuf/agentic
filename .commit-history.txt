@@ -5314,3 +5314,4 @@ Commit 5312: docs(loyalty): update documentation
 Commit 5313: feat(loyalty): implement new feature
 Commit 5314: perf(loyalty): optimize performance
 Commit 5315: perf(loyalty): optimize performance
+Commit 5316: feat(loyalty): add validation

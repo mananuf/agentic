@@ -2356,3 +2356,4 @@ Commit 2354: test(legal): add tests
 Commit 2355: chore(legal): update dependencies
 Commit 2356: refactor(legal): improve code structure
 Commit 2357: refactor(legal): improve code structure
+Commit 2358: style(legal): format code

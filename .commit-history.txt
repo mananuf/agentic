@@ -4935,3 +4935,4 @@ Commit 4933: feat(voting): implement new feature
 Commit 4934: refactor(voting): improve code structure
 Commit 4935: style(voting): format code
 Commit 4936: style(voting): format code
+Commit 4937: perf(voting): optimize performance

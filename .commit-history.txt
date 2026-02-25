@@ -3519,3 +3519,4 @@ Commit 3517: refactor(charity): improve code structure
 Commit 3518: fix(charity): handle edge case
 Commit 3519: feat(charity): add validation
 Commit 3520: fix(charity): handle edge case
+Commit 3521: docs(charity): update documentation

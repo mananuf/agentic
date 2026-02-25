@@ -4936,3 +4936,4 @@ Commit 4934: refactor(voting): improve code structure
 Commit 4935: style(voting): format code
 Commit 4936: style(voting): format code
 Commit 4937: perf(voting): optimize performance
+Commit 4938: fix(voting): handle edge case

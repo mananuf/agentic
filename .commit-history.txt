@@ -4457,3 +4457,4 @@ Commit 4455: perf(voting): optimize performance
 Commit 4456: docs(voting): update documentation
 Commit 4457: feat(voting): implement new feature
 Commit 4458: test(voting): add tests
+Commit 4459: refactor(voting): improve code structure

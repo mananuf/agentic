@@ -6958,3 +6958,4 @@ Commit 6956: perf(streaming): optimize performance
 Commit 6957: perf(streaming): optimize performance
 Commit 6958: feat(streaming): add validation
 Commit 6959: feat(streaming): implement new feature
+Commit 6960: fix(streaming): handle edge case

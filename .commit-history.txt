@@ -1777,3 +1777,4 @@ Commit 1775: test(healthcare): add tests
 Commit 1776: refactor(healthcare): improve code structure
 Commit 1777: perf(healthcare): optimize performance
 Commit 1778: perf(healthcare): optimize performance
+Commit 1779: style(healthcare): format code

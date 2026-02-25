@@ -5858,3 +5858,4 @@ Commit 5856: perf(loyalty): optimize performance
 Commit 5857: feat(loyalty): implement new feature
 Commit 5858: style(loyalty): format code
 Commit 5859: fix(loyalty): handle edge case
+Commit 5860: fix(loyalty): resolve bug

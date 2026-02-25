@@ -5030,3 +5030,4 @@ Commit 5028: perf(loyalty): optimize performance
 Commit 5029: perf(loyalty): optimize performance
 Commit 5030: test(loyalty): add tests
 Commit 5031: chore(loyalty): update dependencies
+Commit 5032: fix(loyalty): resolve bug

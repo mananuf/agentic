@@ -4950,3 +4950,4 @@ Commit 4948: style(voting): format code
 Commit 4949: perf(voting): optimize performance
 Commit 4950: test(voting): add tests
 Commit 4951: chore(voting): update dependencies
+Commit 4952: style(voting): format code

@@ -4377,3 +4377,4 @@ Commit 4375: feat(voting): add validation
 Commit 4376: fix(voting): handle edge case
 Commit 4377: feat(voting): implement new feature
 Commit 4378: fix(voting): resolve bug
+Commit 4379: style(voting): format code

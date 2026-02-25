@@ -6380,3 +6380,4 @@ Commit 6378: fix(streaming): handle edge case
 Commit 6379: chore(streaming): update dependencies
 Commit 6380: docs(streaming): update documentation
 Commit 6381: fix(streaming): resolve bug
+Commit 6382: style(streaming): format code

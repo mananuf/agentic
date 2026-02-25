@@ -2261,3 +2261,4 @@ Commit 2259: fix(legal): handle edge case
 Commit 2260: fix(legal): resolve bug
 Commit 2261: feat(legal): add validation
 Commit 2262: fix(legal): resolve bug
+Commit 2263: fix(legal): handle edge case

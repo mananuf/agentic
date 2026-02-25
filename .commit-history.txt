@@ -2564,3 +2564,4 @@ Commit 2562: chore(legal): update dependencies
 Commit 2563: fix(legal): handle edge case
 Commit 2564: refactor(legal): improve code structure
 Commit 2565: docs(legal): update documentation
+Commit 2566: fix(legal): resolve bug

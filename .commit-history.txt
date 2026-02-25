@@ -2166,3 +2166,4 @@ Commit 2164: feat(legal): add validation
 Commit 2165: chore(legal): update dependencies
 Commit 2166: fix(legal): resolve bug
 Commit 2167: perf(legal): optimize performance
+Commit 2168: style(legal): format code

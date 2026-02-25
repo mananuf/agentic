@@ -5270,3 +5270,4 @@ Commit 5268: refactor(loyalty): improve code structure
 Commit 5269: docs(loyalty): update documentation
 Commit 5270: style(loyalty): format code
 Commit 5271: chore(loyalty): update dependencies
+Commit 5272: feat(loyalty): add validation

@@ -1249,3 +1249,4 @@ Commit 1247: test(healthcare): add tests
 Commit 1248: style(healthcare): format code
 Commit 1249: chore(healthcare): update dependencies
 Commit 1250: style(healthcare): format code
+Commit 1251: perf(healthcare): optimize performance

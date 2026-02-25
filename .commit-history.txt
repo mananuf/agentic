@@ -4891,3 +4891,4 @@ Commit 4889: test(voting): add tests
 Commit 4890: test(voting): add tests
 Commit 4891: feat(voting): implement new feature
 Commit 4892: test(voting): add tests
+Commit 4893: perf(voting): optimize performance

@@ -3850,3 +3850,4 @@ Commit 3848: fix(charity): handle edge case
 Commit 3849: chore(charity): update dependencies
 Commit 3850: refactor(charity): improve code structure
 Commit 3851: refactor(charity): improve code structure
+Commit 3852: style(charity): format code

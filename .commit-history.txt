@@ -4067,3 +4067,4 @@ Commit 4065: chore(voting): update dependencies
 Commit 4066: test(voting): add tests
 Commit 4067: feat(voting): add validation
 Commit 4068: refactor(voting): improve code structure
+Commit 4069: fix(voting): handle edge case

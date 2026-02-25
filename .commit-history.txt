@@ -5496,3 +5496,4 @@ Commit 5494: chore(loyalty): update dependencies
 Commit 5495: perf(loyalty): optimize performance
 Commit 5496: fix(loyalty): handle edge case
 Commit 5497: perf(loyalty): optimize performance
+Commit 5498: perf(loyalty): optimize performance

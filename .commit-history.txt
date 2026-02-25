@@ -2612,3 +2612,4 @@ Commit 2610: chore(legal): update dependencies
 Commit 2611: feat(legal): implement new feature
 Commit 2612: feat(legal): add validation
 Commit 2613: feat(legal): add validation
+Commit 2614: docs(legal): update documentation

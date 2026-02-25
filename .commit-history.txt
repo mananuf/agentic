@@ -4127,3 +4127,4 @@ Commit 4125: perf(voting): optimize performance
 Commit 4126: fix(voting): resolve bug
 Commit 4127: refactor(voting): improve code structure
 Commit 4128: perf(voting): optimize performance
+Commit 4129: chore(voting): update dependencies

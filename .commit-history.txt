@@ -5653,3 +5653,4 @@ Commit 5651: style(loyalty): format code
 Commit 5652: feat(loyalty): add validation
 Commit 5653: style(loyalty): format code
 Commit 5654: perf(loyalty): optimize performance
+Commit 5655: fix(loyalty): handle edge case

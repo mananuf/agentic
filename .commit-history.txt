@@ -6312,3 +6312,4 @@ Commit 6310: perf(streaming): optimize performance
 Commit 6311: fix(streaming): resolve bug
 Commit 6312: docs(streaming): update documentation
 Commit 6313: docs(streaming): update documentation
+Commit 6314: feat(streaming): add validation

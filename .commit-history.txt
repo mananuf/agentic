@@ -2596,3 +2596,4 @@ Commit 2594: feat(legal): implement new feature
 Commit 2595: fix(legal): handle edge case
 Commit 2596: docs(legal): update documentation
 Commit 2597: style(legal): format code
+Commit 2598: fix(legal): handle edge case

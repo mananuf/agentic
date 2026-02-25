@@ -5236,3 +5236,4 @@ Commit 5234: feat(loyalty): add validation
 Commit 5235: perf(loyalty): optimize performance
 Commit 5236: refactor(loyalty): improve code structure
 Commit 5237: test(loyalty): add tests
+Commit 5238: docs(loyalty): update documentation

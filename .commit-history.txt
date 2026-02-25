@@ -4730,3 +4730,4 @@ Commit 4728: test(voting): add tests
 Commit 4729: test(voting): add tests
 Commit 4730: feat(voting): add validation
 Commit 4731: style(voting): format code
+Commit 4732: feat(voting): add validation

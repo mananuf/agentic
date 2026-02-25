@@ -3690,3 +3690,4 @@ Commit 3688: fix(charity): handle edge case
 Commit 3689: fix(charity): handle edge case
 Commit 3690: feat(charity): implement new feature
 Commit 3691: fix(charity): handle edge case
+Commit 3692: docs(charity): update documentation

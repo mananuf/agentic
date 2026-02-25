@@ -4787,3 +4787,4 @@ Commit 4785: test(voting): add tests
 Commit 4786: docs(voting): update documentation
 Commit 4787: test(voting): add tests
 Commit 4788: feat(voting): implement new feature
+Commit 4789: feat(voting): add validation

@@ -2625,3 +2625,4 @@ Commit 2623: docs(legal): update documentation
 Commit 2624: docs(legal): update documentation
 Commit 2625: test(legal): add tests
 Commit 2626: test(legal): add tests
+Commit 2627: style(legal): format code

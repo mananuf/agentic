@@ -4033,3 +4033,4 @@ Commit 4031: fix(voting): resolve bug
 Commit 4032: fix(voting): handle edge case
 Commit 4033: docs(voting): update documentation
 Commit 4034: chore(voting): update dependencies
+Commit 4035: perf(voting): optimize performance

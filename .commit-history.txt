@@ -6257,3 +6257,4 @@ Commit 6255: perf(streaming): optimize performance
 Commit 6256: refactor(streaming): improve code structure
 Commit 6257: feat(streaming): add validation
 Commit 6258: test(streaming): add tests
+Commit 6259: chore(streaming): update dependencies

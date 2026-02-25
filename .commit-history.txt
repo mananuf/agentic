@@ -6604,3 +6604,4 @@ Commit 6602: perf(streaming): optimize performance
 Commit 6603: feat(streaming): add validation
 Commit 6604: perf(streaming): optimize performance
 Commit 6605: fix(streaming): handle edge case
+Commit 6606: refactor(streaming): improve code structure

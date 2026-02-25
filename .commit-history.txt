@@ -6845,3 +6845,4 @@ Commit 6843: fix(streaming): handle edge case
 Commit 6844: refactor(streaming): improve code structure
 Commit 6845: perf(streaming): optimize performance
 Commit 6846: chore(streaming): update dependencies
+Commit 6847: fix(streaming): resolve bug

@@ -7506,3 +7506,4 @@ Commit 7504: test(metaverse): add tests
 Commit 7505: test(metaverse): add tests
 Commit 7506: feat(metaverse): add validation
 Commit 7507: docs(metaverse): update documentation
+Commit 7508: style(metaverse): format code

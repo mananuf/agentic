@@ -8374,3 +8374,4 @@ Commit 8372: test(carbon): add tests
 Commit 8373: perf(carbon): optimize performance
 Commit 8374: style(carbon): format code
 Commit 8375: test(carbon): add tests
+Commit 8376: feat(carbon): add validation

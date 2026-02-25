@@ -3633,3 +3633,4 @@ Commit 3631: docs(charity): update documentation
 Commit 3632: fix(charity): resolve bug
 Commit 3633: feat(charity): add validation
 Commit 3634: fix(charity): resolve bug
+Commit 3635: test(charity): add tests

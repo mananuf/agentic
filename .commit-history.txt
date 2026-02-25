@@ -7611,3 +7611,4 @@ Commit 7609: chore(metaverse): update dependencies
 Commit 7610: chore(metaverse): update dependencies
 Commit 7611: refactor(metaverse): improve code structure
 Commit 7612: fix(metaverse): handle edge case
+Commit 7613: docs(metaverse): update documentation

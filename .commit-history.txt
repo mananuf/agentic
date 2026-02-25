@@ -4566,3 +4566,4 @@ Commit 4564: feat(voting): add validation
 Commit 4565: docs(voting): update documentation
 Commit 4566: fix(voting): handle edge case
 Commit 4567: feat(voting): add validation
+Commit 4568: fix(voting): resolve bug

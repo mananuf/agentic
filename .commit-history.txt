@@ -5550,3 +5550,4 @@ Commit 5548: feat(loyalty): implement new feature
 Commit 5549: chore(loyalty): update dependencies
 Commit 5550: style(loyalty): format code
 Commit 5551: feat(loyalty): implement new feature
+Commit 5552: fix(loyalty): handle edge case

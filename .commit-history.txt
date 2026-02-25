@@ -5156,3 +5156,4 @@ Commit 5154: test(loyalty): add tests
 Commit 5155: style(loyalty): format code
 Commit 5156: docs(loyalty): update documentation
 Commit 5157: fix(loyalty): handle edge case
+Commit 5158: docs(loyalty): update documentation

@@ -7219,3 +7219,4 @@ Commit 7217: docs(metaverse): update documentation
 Commit 7218: chore(metaverse): update dependencies
 Commit 7219: perf(metaverse): optimize performance
 Commit 7220: docs(metaverse): update documentation
+Commit 7221: fix(metaverse): handle edge case

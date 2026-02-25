@@ -3718,3 +3718,4 @@ Commit 3716: fix(charity): resolve bug
 Commit 3717: refactor(charity): improve code structure
 Commit 3718: test(charity): add tests
 Commit 3719: docs(charity): update documentation
+Commit 3720: chore(charity): update dependencies

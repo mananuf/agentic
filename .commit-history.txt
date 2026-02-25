@@ -7595,3 +7595,4 @@ Commit 7593: refactor(metaverse): improve code structure
 Commit 7594: chore(metaverse): update dependencies
 Commit 7595: fix(metaverse): resolve bug
 Commit 7596: chore(metaverse): update dependencies
+Commit 7597: chore(metaverse): update dependencies

@@ -3981,3 +3981,4 @@ Commit 3979: chore(charity): update dependencies
 Commit 3980: chore(charity): update dependencies
 Commit 3981: feat(charity): add validation
 Commit 3982: perf(charity): optimize performance
+Commit 3983: test(charity): add tests

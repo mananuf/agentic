@@ -2222,3 +2222,4 @@ Commit 2220: feat(legal): add validation
 Commit 2221: chore(legal): update dependencies
 Commit 2222: docs(legal): update documentation
 Commit 2223: perf(legal): optimize performance
+Commit 2224: fix(legal): handle edge case

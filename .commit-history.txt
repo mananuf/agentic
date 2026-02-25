@@ -6290,3 +6290,4 @@ Commit 6288: docs(streaming): update documentation
 Commit 6289: style(streaming): format code
 Commit 6290: chore(streaming): update dependencies
 Commit 6291: docs(streaming): update documentation
+Commit 6292: fix(streaming): resolve bug

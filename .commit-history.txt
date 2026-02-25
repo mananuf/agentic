@@ -8617,3 +8617,4 @@ Commit 8615: test(carbon): add tests
 Commit 8616: chore(carbon): update dependencies
 Commit 8617: perf(carbon): optimize performance
 Commit 8618: test(carbon): add tests
+Commit 8619: refactor(carbon): improve code structure

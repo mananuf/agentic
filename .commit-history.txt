@@ -2334,3 +2334,4 @@ Commit 2332: docs(legal): update documentation
 Commit 2333: chore(legal): update dependencies
 Commit 2334: chore(legal): update dependencies
 Commit 2335: test(legal): add tests
+Commit 2336: perf(legal): optimize performance

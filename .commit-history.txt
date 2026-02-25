@@ -7618,3 +7618,4 @@ Commit 7616: feat(metaverse): add validation
 Commit 7617: chore(metaverse): update dependencies
 Commit 7618: chore(metaverse): update dependencies
 Commit 7619: feat(metaverse): add validation
+Commit 7620: fix(metaverse): handle edge case

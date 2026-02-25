@@ -8763,3 +8763,4 @@ Commit 8761: test(carbon): add tests
 Commit 8762: fix(carbon): resolve bug
 Commit 8763: perf(carbon): optimize performance
 Commit 8764: test(carbon): add tests
+Commit 8765: refactor(carbon): improve code structure

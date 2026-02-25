@@ -4965,3 +4965,4 @@ Commit 4963: fix(voting): resolve bug
 Commit 4964: refactor(voting): improve code structure
 Commit 4965: fix(voting): resolve bug
 Commit 4966: chore(voting): update dependencies
+Commit 4967: test(voting): add tests

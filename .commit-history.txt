@@ -2764,3 +2764,4 @@ Commit 2762: fix(legal): handle edge case
 Commit 2763: docs(legal): update documentation
 Commit 2764: docs(legal): update documentation
 Commit 2765: docs(legal): update documentation
+Commit 2766: style(legal): format code

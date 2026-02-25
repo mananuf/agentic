@@ -8535,3 +8535,4 @@ Commit 8533: fix(carbon): resolve bug
 Commit 8534: fix(carbon): handle edge case
 Commit 8535: chore(carbon): update dependencies
 Commit 8536: perf(carbon): optimize performance
+Commit 8537: style(carbon): format code

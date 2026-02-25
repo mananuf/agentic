@@ -6223,3 +6223,4 @@ Commit 6221: feat(streaming): implement new feature
 Commit 6222: fix(streaming): handle edge case
 Commit 6223: test(streaming): add tests
 Commit 6224: chore(streaming): update dependencies
+Commit 6225: refactor(streaming): improve code structure

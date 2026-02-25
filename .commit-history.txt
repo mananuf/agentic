@@ -4413,3 +4413,4 @@ Commit 4411: test(voting): add tests
 Commit 4412: chore(voting): update dependencies
 Commit 4413: test(voting): add tests
 Commit 4414: fix(voting): handle edge case
+Commit 4415: fix(voting): resolve bug

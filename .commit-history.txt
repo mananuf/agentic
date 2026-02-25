@@ -5931,3 +5931,4 @@ Commit 5929: fix(loyalty): resolve bug
 Commit 5930: docs(loyalty): update documentation
 Commit 5931: perf(loyalty): optimize performance
 Commit 5932: perf(loyalty): optimize performance
+Commit 5933: perf(loyalty): optimize performance

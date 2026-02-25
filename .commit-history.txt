@@ -5675,3 +5675,4 @@ Commit 5673: refactor(loyalty): improve code structure
 Commit 5674: chore(loyalty): update dependencies
 Commit 5675: refactor(loyalty): improve code structure
 Commit 5676: chore(loyalty): update dependencies
+Commit 5677: feat(loyalty): implement new feature

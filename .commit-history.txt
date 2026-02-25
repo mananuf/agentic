@@ -2978,3 +2978,4 @@ Commit 2976: test(legal): add tests
 Commit 2977: docs(legal): update documentation
 Commit 2978: refactor(legal): improve code structure
 Commit 2979: test(legal): add tests
+Commit 2980: feat(legal): add validation

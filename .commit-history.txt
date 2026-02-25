@@ -3952,3 +3952,4 @@ Commit 3950: feat(charity): add validation
 Commit 3951: docs(charity): update documentation
 Commit 3952: fix(charity): resolve bug
 Commit 3953: docs(charity): update documentation
+Commit 3954: fix(charity): handle edge case

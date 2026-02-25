@@ -4850,3 +4850,4 @@ Commit 4848: test(voting): add tests
 Commit 4849: refactor(voting): improve code structure
 Commit 4850: feat(voting): implement new feature
 Commit 4851: style(voting): format code
+Commit 4852: chore(voting): update dependencies

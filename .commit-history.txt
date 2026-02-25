@@ -5173,3 +5173,4 @@ Commit 5171: test(loyalty): add tests
 Commit 5172: perf(loyalty): optimize performance
 Commit 5173: style(loyalty): format code
 Commit 5174: docs(loyalty): update documentation
+Commit 5175: fix(loyalty): resolve bug

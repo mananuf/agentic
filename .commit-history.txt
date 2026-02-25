@@ -5753,3 +5753,4 @@ Commit 5751: perf(loyalty): optimize performance
 Commit 5752: feat(loyalty): add validation
 Commit 5753: docs(loyalty): update documentation
 Commit 5754: feat(loyalty): implement new feature
+Commit 5755: test(loyalty): add tests

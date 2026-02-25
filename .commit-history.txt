@@ -2574,3 +2574,4 @@ Commit 2572: feat(legal): add validation
 Commit 2573: docs(legal): update documentation
 Commit 2574: chore(legal): update dependencies
 Commit 2575: perf(legal): optimize performance
+Commit 2576: style(legal): format code

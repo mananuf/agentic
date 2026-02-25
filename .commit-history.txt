@@ -2732,3 +2732,4 @@ Commit 2730: test(legal): add tests
 Commit 2731: chore(legal): update dependencies
 Commit 2732: style(legal): format code
 Commit 2733: fix(legal): handle edge case
+Commit 2734: docs(legal): update documentation

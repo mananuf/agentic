@@ -3753,3 +3753,4 @@ Commit 3751: docs(charity): update documentation
 Commit 3752: chore(charity): update dependencies
 Commit 3753: style(charity): format code
 Commit 3754: fix(charity): resolve bug
+Commit 3755: fix(charity): handle edge case

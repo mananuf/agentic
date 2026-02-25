@@ -4755,3 +4755,4 @@ Commit 4753: test(voting): add tests
 Commit 4754: docs(voting): update documentation
 Commit 4755: chore(voting): update dependencies
 Commit 4756: test(voting): add tests
+Commit 4757: feat(voting): add validation

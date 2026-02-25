@@ -6566,3 +6566,4 @@ Commit 6564: perf(streaming): optimize performance
 Commit 6565: feat(streaming): add validation
 Commit 6566: test(streaming): add tests
 Commit 6567: perf(streaming): optimize performance
+Commit 6568: style(streaming): format code

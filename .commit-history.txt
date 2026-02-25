@@ -4171,3 +4171,4 @@ Commit 4169: fix(voting): handle edge case
 Commit 4170: perf(voting): optimize performance
 Commit 4171: docs(voting): update documentation
 Commit 4172: perf(voting): optimize performance
+Commit 4173: fix(voting): resolve bug

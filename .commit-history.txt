@@ -2393,3 +2393,4 @@ Commit 2391: style(legal): format code
 Commit 2392: feat(legal): add validation
 Commit 2393: docs(legal): update documentation
 Commit 2394: test(legal): add tests
+Commit 2395: chore(legal): update dependencies

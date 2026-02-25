@@ -4291,3 +4291,4 @@ Commit 4289: feat(voting): add validation
 Commit 4290: feat(voting): add validation
 Commit 4291: chore(voting): update dependencies
 Commit 4292: feat(voting): add validation
+Commit 4293: fix(voting): resolve bug

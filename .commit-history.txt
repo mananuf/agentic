@@ -6000,3 +6000,4 @@ Commit 5998: docs(loyalty): update documentation
 Commit 5999: perf(loyalty): optimize performance
 Commit 6000: chore(streaming): update dependencies
 Commit 6001: docs(streaming): update documentation
+Commit 6002: style(streaming): format code

@@ -4952,3 +4952,4 @@ Commit 4950: test(voting): add tests
 Commit 4951: chore(voting): update dependencies
 Commit 4952: style(voting): format code
 Commit 4953: feat(voting): add validation
+Commit 4954: perf(voting): optimize performance

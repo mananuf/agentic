@@ -8906,3 +8906,4 @@ Commit 8904: chore(carbon): update dependencies
 Commit 8905: feat(carbon): add validation
 Commit 8906: docs(carbon): update documentation
 Commit 8907: perf(carbon): optimize performance
+Commit 8908: fix(carbon): resolve bug

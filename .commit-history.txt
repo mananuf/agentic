@@ -2318,3 +2318,4 @@ Commit 2316: test(legal): add tests
 Commit 2317: style(legal): format code
 Commit 2318: test(legal): add tests
 Commit 2319: fix(legal): handle edge case
+Commit 2320: perf(legal): optimize performance

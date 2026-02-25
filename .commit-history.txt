@@ -5320,3 +5320,4 @@ Commit 5318: feat(loyalty): implement new feature
 Commit 5319: fix(loyalty): handle edge case
 Commit 5320: docs(loyalty): update documentation
 Commit 5321: docs(loyalty): update documentation
+Commit 5322: fix(loyalty): resolve bug

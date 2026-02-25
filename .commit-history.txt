@@ -6387,3 +6387,4 @@ Commit 6385: feat(streaming): implement new feature
 Commit 6386: fix(streaming): handle edge case
 Commit 6387: chore(streaming): update dependencies
 Commit 6388: chore(streaming): update dependencies
+Commit 6389: perf(streaming): optimize performance

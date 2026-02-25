@@ -3969,3 +3969,4 @@ Commit 3967: feat(charity): add validation
 Commit 3968: docs(charity): update documentation
 Commit 3969: test(charity): add tests
 Commit 3970: docs(charity): update documentation
+Commit 3971: chore(charity): update dependencies

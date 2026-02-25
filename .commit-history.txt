@@ -3771,3 +3771,4 @@ Commit 3769: style(charity): format code
 Commit 3770: chore(charity): update dependencies
 Commit 3771: feat(charity): implement new feature
 Commit 3772: chore(charity): update dependencies
+Commit 3773: fix(charity): handle edge case

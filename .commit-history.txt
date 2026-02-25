@@ -3491,3 +3491,4 @@ Commit 3489: feat(charity): add validation
 Commit 3490: refactor(charity): improve code structure
 Commit 3491: fix(charity): handle edge case
 Commit 3492: test(charity): add tests
+Commit 3493: feat(charity): add validation

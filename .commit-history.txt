@@ -4723,3 +4723,4 @@ Commit 4721: perf(voting): optimize performance
 Commit 4722: chore(voting): update dependencies
 Commit 4723: refactor(voting): improve code structure
 Commit 4724: fix(voting): handle edge case
+Commit 4725: style(voting): format code

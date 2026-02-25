@@ -5529,3 +5529,4 @@ Commit 5527: style(loyalty): format code
 Commit 5528: fix(loyalty): resolve bug
 Commit 5529: fix(loyalty): resolve bug
 Commit 5530: fix(loyalty): handle edge case
+Commit 5531: style(loyalty): format code

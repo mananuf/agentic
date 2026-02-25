@@ -6502,3 +6502,4 @@ Commit 6500: style(streaming): format code
 Commit 6501: feat(streaming): add validation
 Commit 6502: perf(streaming): optimize performance
 Commit 6503: test(streaming): add tests
+Commit 6504: refactor(streaming): improve code structure

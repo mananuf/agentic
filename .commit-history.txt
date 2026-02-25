@@ -2685,3 +2685,4 @@ Commit 2683: docs(legal): update documentation
 Commit 2684: perf(legal): optimize performance
 Commit 2685: style(legal): format code
 Commit 2686: test(legal): add tests
+Commit 2687: refactor(legal): improve code structure

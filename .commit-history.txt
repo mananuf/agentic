@@ -5427,3 +5427,4 @@ Commit 5425: chore(loyalty): update dependencies
 Commit 5426: chore(loyalty): update dependencies
 Commit 5427: feat(loyalty): add validation
 Commit 5428: fix(loyalty): resolve bug
+Commit 5429: docs(loyalty): update documentation

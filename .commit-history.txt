@@ -5785,3 +5785,4 @@ Commit 5783: fix(loyalty): handle edge case
 Commit 5784: fix(loyalty): handle edge case
 Commit 5785: test(loyalty): add tests
 Commit 5786: style(loyalty): format code
+Commit 5787: refactor(loyalty): improve code structure

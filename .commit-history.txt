@@ -6054,3 +6054,4 @@ Commit 6052: fix(streaming): handle edge case
 Commit 6053: perf(streaming): optimize performance
 Commit 6054: chore(streaming): update dependencies
 Commit 6055: chore(streaming): update dependencies
+Commit 6056: docs(streaming): update documentation

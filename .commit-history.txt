@@ -7924,3 +7924,4 @@ Commit 7922: test(metaverse): add tests
 Commit 7923: docs(metaverse): update documentation
 Commit 7924: perf(metaverse): optimize performance
 Commit 7925: perf(metaverse): optimize performance
+Commit 7926: refactor(metaverse): improve code structure

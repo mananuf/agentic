@@ -2976,3 +2976,4 @@ Commit 2974: feat(legal): add validation
 Commit 2975: fix(legal): handle edge case
 Commit 2976: test(legal): add tests
 Commit 2977: docs(legal): update documentation
+Commit 2978: refactor(legal): improve code structure

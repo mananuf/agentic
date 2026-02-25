@@ -8679,3 +8679,4 @@ Commit 8677: feat(carbon): add validation
 Commit 8678: fix(carbon): handle edge case
 Commit 8679: test(carbon): add tests
 Commit 8680: test(carbon): add tests
+Commit 8681: refactor(carbon): improve code structure

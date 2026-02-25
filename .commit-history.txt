@@ -4573,3 +4573,4 @@ Commit 4571: feat(voting): add validation
 Commit 4572: feat(voting): implement new feature
 Commit 4573: perf(voting): optimize performance
 Commit 4574: test(voting): add tests
+Commit 4575: docs(voting): update documentation

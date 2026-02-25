@@ -6261,3 +6261,4 @@ Commit 6259: chore(streaming): update dependencies
 Commit 6260: perf(streaming): optimize performance
 Commit 6261: style(streaming): format code
 Commit 6262: test(streaming): add tests
+Commit 6263: fix(streaming): handle edge case

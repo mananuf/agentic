@@ -3322,3 +3322,4 @@ Commit 3320: docs(charity): update documentation
 Commit 3321: test(charity): add tests
 Commit 3322: fix(charity): handle edge case
 Commit 3323: feat(charity): add validation
+Commit 3324: style(charity): format code

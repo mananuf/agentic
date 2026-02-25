@@ -7152,3 +7152,4 @@ Commit 7150: test(metaverse): add tests
 Commit 7151: feat(metaverse): add validation
 Commit 7152: fix(metaverse): handle edge case
 Commit 7153: docs(metaverse): update documentation
+Commit 7154: fix(metaverse): handle edge case

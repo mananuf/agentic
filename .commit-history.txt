@@ -7738,3 +7738,4 @@ Commit 7736: chore(metaverse): update dependencies
 Commit 7737: test(metaverse): add tests
 Commit 7738: chore(metaverse): update dependencies
 Commit 7739: perf(metaverse): optimize performance
+Commit 7740: style(metaverse): format code

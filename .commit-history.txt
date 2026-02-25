@@ -6842,3 +6842,4 @@ Commit 6840: fix(streaming): resolve bug
 Commit 6841: docs(streaming): update documentation
 Commit 6842: fix(streaming): handle edge case
 Commit 6843: fix(streaming): handle edge case
+Commit 6844: refactor(streaming): improve code structure

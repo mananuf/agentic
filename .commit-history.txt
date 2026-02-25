@@ -2939,3 +2939,4 @@ Commit 2937: chore(legal): update dependencies
 Commit 2938: fix(legal): resolve bug
 Commit 2939: test(legal): add tests
 Commit 2940: feat(legal): implement new feature
+Commit 2941: feat(legal): add validation

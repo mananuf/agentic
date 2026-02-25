@@ -2901,3 +2901,4 @@ Commit 2899: refactor(legal): improve code structure
 Commit 2900: refactor(legal): improve code structure
 Commit 2901: refactor(legal): improve code structure
 Commit 2902: docs(legal): update documentation
+Commit 2903: test(legal): add tests

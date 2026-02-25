@@ -2495,3 +2495,4 @@ Commit 2493: docs(legal): update documentation
 Commit 2494: test(legal): add tests
 Commit 2495: fix(legal): resolve bug
 Commit 2496: fix(legal): resolve bug
+Commit 2497: perf(legal): optimize performance

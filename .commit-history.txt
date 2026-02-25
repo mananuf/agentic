@@ -4798,3 +4798,4 @@ Commit 4796: docs(voting): update documentation
 Commit 4797: style(voting): format code
 Commit 4798: test(voting): add tests
 Commit 4799: chore(voting): update dependencies
+Commit 4800: docs(voting): update documentation

@@ -6361,3 +6361,4 @@ Commit 6359: test(streaming): add tests
 Commit 6360: fix(streaming): handle edge case
 Commit 6361: docs(streaming): update documentation
 Commit 6362: refactor(streaming): improve code structure
+Commit 6363: feat(streaming): add validation

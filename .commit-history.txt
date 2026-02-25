@@ -8528,3 +8528,4 @@ Commit 8526: docs(carbon): update documentation
 Commit 8527: docs(carbon): update documentation
 Commit 8528: chore(carbon): update dependencies
 Commit 8529: perf(carbon): optimize performance
+Commit 8530: style(carbon): format code

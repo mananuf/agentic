@@ -5309,3 +5309,4 @@ Commit 5307: docs(loyalty): update documentation
 Commit 5308: style(loyalty): format code
 Commit 5309: chore(loyalty): update dependencies
 Commit 5310: refactor(loyalty): improve code structure
+Commit 5311: refactor(loyalty): improve code structure

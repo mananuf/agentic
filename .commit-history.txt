@@ -7301,3 +7301,4 @@ Commit 7299: fix(metaverse): resolve bug
 Commit 7300: test(metaverse): add tests
 Commit 7301: refactor(metaverse): improve code structure
 Commit 7302: refactor(metaverse): improve code structure
+Commit 7303: docs(metaverse): update documentation

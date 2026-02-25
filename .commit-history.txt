@@ -4534,3 +4534,4 @@ Commit 4532: test(voting): add tests
 Commit 4533: fix(voting): handle edge case
 Commit 4534: chore(voting): update dependencies
 Commit 4535: style(voting): format code
+Commit 4536: feat(voting): add validation

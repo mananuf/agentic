@@ -4465,3 +4465,4 @@ Commit 4463: fix(voting): resolve bug
 Commit 4464: fix(voting): resolve bug
 Commit 4465: feat(voting): implement new feature
 Commit 4466: fix(voting): handle edge case
+Commit 4467: perf(voting): optimize performance

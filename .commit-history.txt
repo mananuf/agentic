@@ -5630,3 +5630,4 @@ Commit 5628: feat(loyalty): implement new feature
 Commit 5629: feat(loyalty): implement new feature
 Commit 5630: test(loyalty): add tests
 Commit 5631: test(loyalty): add tests
+Commit 5632: style(loyalty): format code

@@ -4694,3 +4694,4 @@ Commit 4692: perf(voting): optimize performance
 Commit 4693: fix(voting): handle edge case
 Commit 4694: feat(voting): add validation
 Commit 4695: fix(voting): handle edge case
+Commit 4696: docs(voting): update documentation

@@ -5290,3 +5290,4 @@ Commit 5288: style(loyalty): format code
 Commit 5289: fix(loyalty): handle edge case
 Commit 5290: fix(loyalty): resolve bug
 Commit 5291: docs(loyalty): update documentation
+Commit 5292: test(loyalty): add tests

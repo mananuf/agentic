@@ -3840,3 +3840,4 @@ Commit 3838: chore(charity): update dependencies
 Commit 3839: test(charity): add tests
 Commit 3840: test(charity): add tests
 Commit 3841: docs(charity): update documentation
+Commit 3842: style(charity): format code

@@ -5219,3 +5219,4 @@ Commit 5217: style(loyalty): format code
 Commit 5218: style(loyalty): format code
 Commit 5219: refactor(loyalty): improve code structure
 Commit 5220: docs(loyalty): update documentation
+Commit 5221: style(loyalty): format code

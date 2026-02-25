@@ -9590,3 +9590,4 @@ Commit 9588: fix(privacy): handle edge case
 Commit 9589: fix(privacy): handle edge case
 Commit 9590: perf(privacy): optimize performance
 Commit 9591: docs(privacy): update documentation
+Commit 9592: test(privacy): add tests

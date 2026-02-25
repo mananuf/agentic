@@ -2083,3 +2083,4 @@ Commit 2081: fix(legal): resolve bug
 Commit 2082: chore(legal): update dependencies
 Commit 2083: style(legal): format code
 Commit 2084: fix(legal): resolve bug
+Commit 2085: perf(legal): optimize performance

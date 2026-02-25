@@ -9377,3 +9377,4 @@ Commit 9375: fix(privacy): resolve bug
 Commit 9376: docs(privacy): update documentation
 Commit 9377: test(privacy): add tests
 Commit 9378: test(privacy): add tests
+Commit 9379: refactor(privacy): improve code structure

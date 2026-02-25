@@ -5832,3 +5832,4 @@ Commit 5830: docs(loyalty): update documentation
 Commit 5831: fix(loyalty): resolve bug
 Commit 5832: chore(loyalty): update dependencies
 Commit 5833: fix(loyalty): handle edge case
+Commit 5834: feat(loyalty): implement new feature

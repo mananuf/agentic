@@ -5255,3 +5255,4 @@ Commit 5253: feat(loyalty): add validation
 Commit 5254: docs(loyalty): update documentation
 Commit 5255: feat(loyalty): add validation
 Commit 5256: docs(loyalty): update documentation
+Commit 5257: chore(loyalty): update dependencies

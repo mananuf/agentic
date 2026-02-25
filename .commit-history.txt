@@ -7308,3 +7308,4 @@ Commit 7306: docs(metaverse): update documentation
 Commit 7307: refactor(metaverse): improve code structure
 Commit 7308: fix(metaverse): handle edge case
 Commit 7309: chore(metaverse): update dependencies
+Commit 7310: perf(metaverse): optimize performance

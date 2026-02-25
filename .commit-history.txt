@@ -7748,3 +7748,4 @@ Commit 7746: feat(metaverse): implement new feature
 Commit 7747: chore(metaverse): update dependencies
 Commit 7748: style(metaverse): format code
 Commit 7749: style(metaverse): format code
+Commit 7750: refactor(metaverse): improve code structure

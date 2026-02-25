@@ -3304,3 +3304,4 @@ Commit 3302: chore(charity): update dependencies
 Commit 3303: feat(charity): implement new feature
 Commit 3304: feat(charity): add validation
 Commit 3305: feat(charity): add validation
+Commit 3306: refactor(charity): improve code structure

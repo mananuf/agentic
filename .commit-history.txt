@@ -4022,3 +4022,4 @@ Commit 4020: perf(voting): optimize performance
 Commit 4021: chore(voting): update dependencies
 Commit 4022: docs(voting): update documentation
 Commit 4023: feat(voting): add validation
+Commit 4024: fix(voting): resolve bug

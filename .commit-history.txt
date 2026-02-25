@@ -5010,3 +5010,4 @@ Commit 5008: chore(loyalty): update dependencies
 Commit 5009: docs(loyalty): update documentation
 Commit 5010: fix(loyalty): resolve bug
 Commit 5011: fix(loyalty): handle edge case
+Commit 5012: style(loyalty): format code

@@ -5311,3 +5311,4 @@ Commit 5309: chore(loyalty): update dependencies
 Commit 5310: refactor(loyalty): improve code structure
 Commit 5311: refactor(loyalty): improve code structure
 Commit 5312: docs(loyalty): update documentation
+Commit 5313: feat(loyalty): implement new feature

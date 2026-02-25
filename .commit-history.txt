@@ -2773,3 +2773,4 @@ Commit 2771: refactor(legal): improve code structure
 Commit 2772: chore(legal): update dependencies
 Commit 2773: refactor(legal): improve code structure
 Commit 2774: refactor(legal): improve code structure
+Commit 2775: fix(legal): resolve bug

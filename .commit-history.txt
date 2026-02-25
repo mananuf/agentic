@@ -4338,3 +4338,4 @@ Commit 4336: fix(voting): handle edge case
 Commit 4337: feat(voting): implement new feature
 Commit 4338: test(voting): add tests
 Commit 4339: refactor(voting): improve code structure
+Commit 4340: docs(voting): update documentation

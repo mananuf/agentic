@@ -5722,3 +5722,4 @@ Commit 5720: chore(loyalty): update dependencies
 Commit 5721: test(loyalty): add tests
 Commit 5722: style(loyalty): format code
 Commit 5723: docs(loyalty): update documentation
+Commit 5724: docs(loyalty): update documentation

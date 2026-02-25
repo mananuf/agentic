@@ -6156,3 +6156,4 @@ Commit 6154: fix(streaming): handle edge case
 Commit 6155: refactor(streaming): improve code structure
 Commit 6156: docs(streaming): update documentation
 Commit 6157: perf(streaming): optimize performance
+Commit 6158: docs(streaming): update documentation

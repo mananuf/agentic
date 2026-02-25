@@ -3716,3 +3716,4 @@ Commit 3714: fix(charity): resolve bug
 Commit 3715: perf(charity): optimize performance
 Commit 3716: fix(charity): resolve bug
 Commit 3717: refactor(charity): improve code structure
+Commit 3718: test(charity): add tests

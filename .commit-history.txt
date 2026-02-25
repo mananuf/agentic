@@ -4191,3 +4191,4 @@ Commit 4189: test(voting): add tests
 Commit 4190: feat(voting): implement new feature
 Commit 4191: perf(voting): optimize performance
 Commit 4192: chore(voting): update dependencies
+Commit 4193: feat(voting): add validation

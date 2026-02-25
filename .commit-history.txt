@@ -2780,3 +2780,4 @@ Commit 2778: chore(legal): update dependencies
 Commit 2779: fix(legal): handle edge case
 Commit 2780: refactor(legal): improve code structure
 Commit 2781: fix(legal): handle edge case
+Commit 2782: fix(legal): resolve bug

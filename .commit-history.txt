@@ -4831,3 +4831,4 @@ Commit 4829: feat(voting): add validation
 Commit 4830: feat(voting): implement new feature
 Commit 4831: test(voting): add tests
 Commit 4832: perf(voting): optimize performance
+Commit 4833: style(voting): format code

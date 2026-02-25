@@ -6698,3 +6698,4 @@ Commit 6696: perf(streaming): optimize performance
 Commit 6697: perf(streaming): optimize performance
 Commit 6698: style(streaming): format code
 Commit 6699: perf(streaming): optimize performance
+Commit 6700: chore(streaming): update dependencies

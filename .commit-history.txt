@@ -4873,3 +4873,4 @@ Commit 4871: docs(voting): update documentation
 Commit 4872: fix(voting): handle edge case
 Commit 4873: test(voting): add tests
 Commit 4874: perf(voting): optimize performance
+Commit 4875: feat(voting): add validation

@@ -6167,3 +6167,4 @@ Commit 6165: chore(streaming): update dependencies
 Commit 6166: refactor(streaming): improve code structure
 Commit 6167: style(streaming): format code
 Commit 6168: feat(streaming): implement new feature
+Commit 6169: docs(streaming): update documentation

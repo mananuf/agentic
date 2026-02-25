@@ -5711,3 +5711,4 @@ Commit 5709: style(loyalty): format code
 Commit 5710: docs(loyalty): update documentation
 Commit 5711: docs(loyalty): update documentation
 Commit 5712: feat(loyalty): implement new feature
+Commit 5713: style(loyalty): format code

@@ -3844,3 +3844,4 @@ Commit 3842: style(charity): format code
 Commit 3843: chore(charity): update dependencies
 Commit 3844: perf(charity): optimize performance
 Commit 3845: feat(charity): implement new feature
+Commit 3846: docs(charity): update documentation

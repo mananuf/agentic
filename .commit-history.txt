@@ -6263,3 +6263,4 @@ Commit 6261: style(streaming): format code
 Commit 6262: test(streaming): add tests
 Commit 6263: fix(streaming): handle edge case
 Commit 6264: docs(streaming): update documentation
+Commit 6265: feat(streaming): add validation

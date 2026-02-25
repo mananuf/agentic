@@ -3458,3 +3458,4 @@ Commit 3456: style(charity): format code
 Commit 3457: feat(charity): add validation
 Commit 3458: chore(charity): update dependencies
 Commit 3459: perf(charity): optimize performance
+Commit 3460: fix(charity): handle edge case

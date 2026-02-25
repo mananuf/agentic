@@ -9179,3 +9179,4 @@ Commit 9177: style(privacy): format code
 Commit 9178: feat(privacy): add validation
 Commit 9179: refactor(privacy): improve code structure
 Commit 9180: style(privacy): format code
+Commit 9181: docs(privacy): update documentation

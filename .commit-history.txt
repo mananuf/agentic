@@ -4705,3 +4705,4 @@ Commit 4703: feat(voting): add validation
 Commit 4704: refactor(voting): improve code structure
 Commit 4705: chore(voting): update dependencies
 Commit 4706: fix(voting): handle edge case
+Commit 4707: perf(voting): optimize performance

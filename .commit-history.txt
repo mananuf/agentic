@@ -4161,3 +4161,4 @@ Commit 4159: refactor(voting): improve code structure
 Commit 4160: test(voting): add tests
 Commit 4161: refactor(voting): improve code structure
 Commit 4162: refactor(voting): improve code structure
+Commit 4163: style(voting): format code

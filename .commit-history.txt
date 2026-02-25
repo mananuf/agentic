@@ -6969,3 +6969,4 @@ Commit 6967: test(streaming): add tests
 Commit 6968: perf(streaming): optimize performance
 Commit 6969: feat(streaming): add validation
 Commit 6970: chore(streaming): update dependencies
+Commit 6971: feat(streaming): add validation

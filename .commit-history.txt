@@ -34,3 +34,4 @@ Commit 32: feat(ai-ml): add validation
 Commit 33: chore(ai-ml): update dependencies
 Commit 34: style(ai-ml): format code
 Commit 35: chore(ai-ml): update dependencies
+Commit 36: refactor(ai-ml): improve code structure
